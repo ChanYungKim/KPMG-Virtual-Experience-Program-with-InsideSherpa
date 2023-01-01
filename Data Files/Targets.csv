@@ -1,0 +1,819 @@
+first_name,last_name,gender,job_industry_category,wealth_segment,owns_car,state,Age_Groups,Customer_Class
+Abbie,Oldman,Male,Health,High Net Worth,Yes,NSW,Age : 21 - 40,Important
+Abigale,Sives,Female,Health,Affluent Customer,Yes,QLD,Age : 41 - 60,General
+Abner,Fraschetti,Male,Argiculture,Affluent Customer,No,VIC,Age : 21 - 40,Not Important
+Adolpho,Bellerby,Male,Financial Services,High Net Worth,Yes,QLD,Age : 61 - 80,Not Important
+Adria,Van den Velde,Female,Manufacturing,Affluent Customer,Yes,NSW,Age : 41 - 60,Very Important
+Adriane,Richardson,Female,Manufacturing,High Net Worth,No,VIC,Age : 41 - 60,General
+Adriena,Giffin,Female,Argiculture,Affluent Customer,Yes,NSW,Age : 61 - 80,Not Important
+Afton,Andrassy,Female,Retail,Mass Customer,No,VIC,Age : 21 - 40,General
+Agna,Cowpe,Female,Property,Mass Customer,Yes,QLD,Age : 41 - 60,General
+Agnella,Capener,Female,Health,High Net Worth,No,VIC,Age : 41 - 60,General
+Agnola,Batterson,Female,Financial Services,Mass Customer,No,QLD,Age : 21 - 40,Important
+Ailyn,Howgate,Female,Manufacturing,Mass Customer,Yes,QLD,Age : 0 - 20,Not Important
+Ajay,Worham,Female,Manufacturing,Mass Customer,Yes,NSW,Age : 21 - 40,Very Important
+Alanna,Lerway,Female,Health,Mass Customer,Yes,VIC,Age : 61 - 80,Not Important
+Aldin,Newsome,Male,Financial Services,Mass Customer,No,NSW,Age : 21 - 40,Very Important
+Aldric,Birney,Male,Manufacturing,Mass Customer,Yes,NSW,Age : 41 - 60,Very Important
+Aleece,Feige,Female,Manufacturing,Mass Customer,No,NSW,Age : 41 - 60,Very Important
+Alex,Patshull,Female,Retail,Mass Customer,Yes,QLD,Age : 41 - 60,General
+Alexa,Dillet,Female,Entertainment,Affluent Customer,No,NSW,Age : 61 - 80,Not Important
+Alexina,Mabley,Female,Manufacturing,Mass Customer,Yes,NSW,Age : 41 - 60,Very Important
+Alfi,Sabbins,Female,Financial Services,High Net Worth,Yes,NSW,Age : 61 - 80,Not Important
+Alick,Baise,Male,Health,Mass Customer,Yes,NSW,Age : 21 - 40,Very Important
+Allsun,Biner,Female,Financial Services,Mass Customer,Yes,NSW,Age : 21 - 40,Very Important
+Allyson,Petchell,Female,Telecommunications,High Net Worth,No,NSW,Age : 41 - 60,Not Important
+Almira,Mangion,Female,Financial Services,Affluent Customer,Yes,NSW,Age : 21 - 40,Important
+Aloysius,Glowacz,Male,Financial Services,Affluent Customer,No,NSW,Age : 41 - 60,Very Important
+Alta,Pithcock,Female,Financial Services,Mass Customer,No,NSW,Age : 0 - 20,Very Important
+Amabel,,Female,Financial Services,Mass Customer,Yes,NSW,Age : 21 - 40,Very Important
+Amara,Clow,Female,Financial Services,Mass Customer,Yes,VIC,Age : 41 - 60,Very Important
+Amil,Ennor,Female,Health,Mass Customer,Yes,VIC,Age : 21 - 40,Important
+Andee,Huke,Female,Manufacturing,Mass Customer,No,VIC,Age : 41 - 60,Very Important
+Andree,Breeds,Female,Financial Services,Affluent Customer,Yes,VIC,Age : 61 - 80,Not Important
+Andrew,Froment,Male,Retail,High Net Worth,No,VIC,Age : 41 - 60,General
+Andriana,Gosnoll,Female,Manufacturing,Mass Customer,No,NSW,Age : 41 - 60,Very Important
+Andromache,Bonafacino,Female,Retail,Mass Customer,No,NSW,Age : 41 - 60,Very Important
+Andy,Deeming,Male,Manufacturing,Affluent Customer,Yes,QLD,Age : 41 - 60,General
+Anet,Roseman,Female,Financial Services,Mass Customer,No,VIC,Age : 21 - 40,Important
+Ange,Chitham,Female,Argiculture,Mass Customer,No,NSW,Age : 21 - 40,Not Important
+Angie,Tansley,Male,Manufacturing,Mass Customer,No,NSW,Age : 61 - 80,General
+Annabelle,Hanwell,Female,Manufacturing,High Net Worth,Yes,VIC,Age : 61 - 80,Not Important
+Ansell,Tolhurst,Male,Manufacturing,Affluent Customer,No,NSW,Age : 61 - 80,Not Important
+Anson,Dearnaly,Male,Health,Affluent Customer,Yes,NSW,Age : 21 - 40,Important
+Anthony,Lindstrom,Male,Financial Services,Affluent Customer,Yes,NSW,Age : 21 - 40,Important
+Anthony,Morison,Male,Health,Mass Customer,No,NSW,Age : 81 - 100,Important
+Antoinette,,Female,Financial Services,Affluent Customer,No,VIC,Age : 21 - 40,General
+Antonietta,Egle,Female,Financial Services,Mass Customer,No,VIC,Age : 41 - 60,Very Important
+Antonin,Britt,Male,Manufacturing,Affluent Customer,Yes,NSW,Age : 21 - 40,Important
+Antony,Tuma,Male,Telecommunications,High Net Worth,Yes,VIC,Age : 61 - 80,Not Important
+Archibald,Blessed,Male,Financial Services,Mass Customer,Yes,NSW,Age : 41 - 60,Very Important
+Ardelis,Forrester,Female,Financial Services,Affluent Customer,No,VIC,Age : 41 - 60,General
+Ardis,Taree,Female,Manufacturing,Affluent Customer,Yes,QLD,Age : 41 - 60,General
+Arel,Abramovitz,Male,Health,Mass Customer,No,QLD,Age : 61 - 80,Not Important
+Arleen,Casbolt,Female,Financial Services,Affluent Customer,Yes,QLD,Age : 41 - 60,General
+Arman,Yakubov,Male,Property,High Net Worth,Yes,NSW,Age : 41 - 60,General
+Art,Shardlow,Male,Argiculture,Mass Customer,Yes,QLD,Age : 41 - 60,Not Important
+Artemis,Swanson,Male,Argiculture,Mass Customer,Yes,VIC,Age : 41 - 60,Not Important
+Arty,Fontelles,Male,IT,High Net Worth,No,VIC,Age : 21 - 40,Not Important
+Arty,Strudwick,Male,Health,Mass Customer,Yes,NSW,Age : 41 - 60,Very Important
+Ashby,Bispham,Male,Retail,Affluent Customer,No,NSW,Age : 21 - 40,General
+Ashlen,Willbond,Female,Health,High Net Worth,No,VIC,Age : 21 - 40,General
+Audry,Fann,Female,Health,Mass Customer,Yes,VIC,Age : 61 - 80,Not Important
+Augie,Swallwell,Male,Property,Affluent Customer,Yes,NSW,Age : 81 - 100,Not Important
+Augustus,Bourley,Male,Health,Affluent Customer,No,QLD,Age : 21 - 40,General
+Aundrea,Outridge,Female,Financial Services,Affluent Customer,Yes,VIC,Age : 0 - 20,Not Important
+Aurie,Rhead,Female,Manufacturing,Affluent Customer,Yes,NSW,Age : 41 - 60,Very Important
+Austine,Speedy,Female,Argiculture,High Net Worth,Yes,NSW,Age : 61 - 80,Not Important
+Averil,Ackery,Male,Retail,Mass Customer,Yes,NSW,Age : 41 - 60,Very Important
+Babara,Sissel,Female,IT,Mass Customer,Yes,VIC,Age : 41 - 60,Not Important
+Bailey,Bereford,Male,Argiculture,Affluent Customer,Yes,NSW,Age : 61 - 80,Not Important
+Bambi,Cogger,Female,Retail,Affluent Customer,Yes,NSW,Age : 21 - 40,General
+Barnebas,Apfel,Male,Manufacturing,Affluent Customer,Yes,QLD,Age : 21 - 40,General
+Barth,Sapshed,Male,Financial Services,Mass Customer,Yes,QLD,Age : 21 - 40,Important
+Barth,Weare,Male,Health,Mass Customer,Yes,NSW,Age : 61 - 80,General
+Barthel,Docket,Male,IT,Mass Customer,Yes,QLD,Age : 21 - 40,Not Important
+Bartram,Caltun,Male,Health,Affluent Customer,Yes,NSW,Age : 61 - 80,Not Important
+Bartram,Di Lucia,Male,Argiculture,Mass Customer,Yes,NSW,Age : 41 - 60,General
+Bastien,Ibbeson,Male,IT,Mass Customer,No,NSW,Age : 41 - 60,General
+Beatrix,McGivena,Female,Health,Mass Customer,Yes,QLD,Age : 41 - 60,Important
+Becka,Hacon,Female,Financial Services,Affluent Customer,No,VIC,Age : 41 - 60,General
+Becky,Lassen,Female,Financial Services,Mass Customer,Yes,NSW,Age : 41 - 60,Very Important
+Benedict,Rosas,Male,Financial Services,High Net Worth,Yes,NSW,Age : 61 - 80,Not Important
+Benedikt,Adamou,Male,Health,Mass Customer,No,VIC,Age : 21 - 40,Important
+Benedikta,Naptin,Female,Retail,Mass Customer,Yes,NSW,Age : 21 - 40,Important
+Bengt,Bilson,Male,Manufacturing,High Net Worth,No,NSW,Age : 41 - 60,Very Important
+Benoit,Harniman,Male,Telecommunications,Affluent Customer,No,QLD,Age : 41 - 60,Not Important
+Berenice,Kaesmakers,Female,Retail,Mass Customer,No,NSW,Age : 21 - 40,Important
+Bernardine,Delmonti,Female,Property,Mass Customer,No,NSW,Age : 41 - 60,Important
+Bertine,Smalles,Female,Financial Services,Mass Customer,Yes,VIC,Age : 21 - 40,Important
+Bertrando,Carass,Male,Property,Mass Customer,No,NSW,Age : 61 - 80,Not Important
+Bessie,Roscow,Female,Financial Services,Mass Customer,No,NSW,Age : 21 - 40,Very Important
+Bessy,Saladin,Female,Manufacturing,Mass Customer,Yes,QLD,Age : 61 - 80,Not Important
+Beverlee,Querree,Female,Financial Services,High Net Worth,Yes,NSW,Age : 21 - 40,Important
+Beverlee,Ungerechts,Female,Manufacturing,Mass Customer,No,QLD,Age : 41 - 60,Important
+Beverly,Domnick,Female,IT,Mass Customer,No,NSW,Age : 81 - 100,Not Important
+Biddie,Gorce,Female,Financial Services,Mass Customer,Yes,NSW,Age : 21 - 40,Very Important
+Bill,,Female,Property,Mass Customer,Yes,NSW,Age : 41 - 60,Important
+Bink,Bentje,Male,Financial Services,High Net Worth,Yes,NSW,Age : 61 - 80,Not Important
+Blinnie,Roze,Female,Entertainment,High Net Worth,No,QLD,Age : 41 - 60,Not Important
+Blondie,,Female,Financial Services,High Net Worth,No,NSW,Age : 21 - 40,Important
+Bobby,Summersby,Male,Financial Services,Affluent Customer,No,VIC,Age : 61 - 80,Not Important
+Bogey,Attew,Male,IT,Mass Customer,Yes,QLD,Age : 21 - 40,Not Important
+Boothe,Hayselden,Male,Health,Mass Customer,Yes,NSW,Age : 61 - 80,General
+Brena,Schnitter,Female,Manufacturing,Mass Customer,No,QLD,Age : 21 - 40,Important
+Brendis,Pineaux,Male,Manufacturing,Mass Customer,No,NSW,Age : 41 - 60,Very Important
+Briana,Trill,Female,Health,High Net Worth,No,NSW,Age : 61 - 80,Not Important
+Briant,Ladley,Male,Argiculture,Mass Customer,No,NSW,Age : 21 - 40,Not Important
+Brien,Heaton,Male,Health,Mass Customer,Yes,NSW,Age : 61 - 80,General
+Brigg,Himsworth,Male,Telecommunications,Mass Customer,Yes,QLD,Age : 41 - 60,Not Important
+Brook,Eade,Female,Retail,Mass Customer,Yes,NSW,Age : 61 - 80,Not Important
+Bryan,Jachtym,Male,Manufacturing,Mass Customer,Yes,VIC,Age : 41 - 60,Very Important
+Brynn,Goodyear,Female,Health,Mass Customer,Yes,VIC,Age : 61 - 80,Not Important
+Brynna,Tivers,Female,Financial Services,Mass Customer,No,QLD,Age : 41 - 60,Important
+Bryon,Goundry,Male,Manufacturing,Mass Customer,No,QLD,Age : 61 - 80,Not Important
+Bunny,Leebetter,Female,Manufacturing,High Net Worth,Yes,QLD,Age : 41 - 60,General
+Burk,Wortley,Male,Health,Mass Customer,No,NSW,Age : 0 - 20,Not Important
+Burt,Vasechkin,Male,Retail,Mass Customer,Yes,VIC,Age : 61 - 80,Not Important
+Byrom,Ramas,Male,Manufacturing,High Net Worth,No,NSW,Age : 21 - 40,Important
+Caitrin,Critten,Female,Manufacturing,Mass Customer,Yes,QLD,Age : 41 - 60,Important
+Cal,Van den Velde,Male,Financial Services,Affluent Customer,Yes,VIC,Age : 21 - 40,General
+Calhoun,Mussington,Male,Health,Mass Customer,No,NSW,Age : 21 - 40,Important
+Callean,Wass,Male,Financial Services,Affluent Customer,No,VIC,Age : 21 - 40,General
+Cami,Barnbrook,Female,Health,Affluent Customer,Yes,QLD,Age : 41 - 60,General
+Cami,Eitter,Female,Manufacturing,High Net Worth,Yes,VIC,Age : 41 - 60,General
+Cammy,Stoneham,Female,Financial Services,High Net Worth,No,QLD,Age : 41 - 60,General
+Candy,,Female,Financial Services,Mass Customer,No,VIC,Age : 41 - 60,Very Important
+Cariotta,,Female,Entertainment,Affluent Customer,Yes,NSW,Age : 41 - 60,Not Important
+Carita,Sand,Female,Retail,Mass Customer,No,NSW,Age : 41 - 60,Very Important
+Caritta,Compston,Female,Manufacturing,Mass Customer,Yes,VIC,Age : 61 - 80,Not Important
+Carl,Troyes,Male,Property,Mass Customer,No,VIC,Age : 41 - 60,General
+Carola,Philler,Female,Health,High Net Worth,No,NSW,Age : 61 - 80,Not Important
+Caron,Kezar,Female,Health,Mass Customer,No,NSW,Age : 61 - 80,General
+Carr,Hopkynson,Male,Manufacturing,Affluent Customer,No,NSW,Age : 41 - 60,Very Important
+Carroll,Schlagman,Female,Health,Affluent Customer,No,NSW,Age : 61 - 80,Not Important
+Carry,Costi,Female,Property,Mass Customer,No,NSW,Age : 41 - 60,Important
+Casandra,Betteridge,Female,Financial Services,Affluent Customer,Yes,VIC,Age : 61 - 80,Not Important
+Catha,Davitt,Female,Property,High Net Worth,Yes,NSW,Age : 61 - 80,Not Important
+Cazzie,Stanwix,Male,Manufacturing,High Net Worth,Yes,QLD,Age : 41 - 60,General
+Cecelia,Cisar,Female,Property,Mass Customer,Yes,QLD,Age : 21 - 40,General
+Ceciley,Harg,Female,Retail,Mass Customer,Yes,QLD,Age : 21 - 40,General
+Cecily,Faircley,Female,IT,Affluent Customer,Yes,QLD,Age : 61 - 80,Not Important
+Celeste,Fretson,Female,IT,Mass Customer,No,NSW,Age : 21 - 40,General
+Celestina,Lethardy,Female,IT,Mass Customer,Yes,VIC,Age : 41 - 60,Not Important
+Celia,Bryden,Female,Manufacturing,High Net Worth,No,NSW,Age : 61 - 80,Not Important
+Chaim,Kingdon,Male,Financial Services,Affluent Customer,Yes,NSW,Age : 21 - 40,Important
+Chanda,Mensler,Female,Manufacturing,Mass Customer,Yes,NSW,Age : 41 - 60,Very Important
+Charlena,Berney,Female,Manufacturing,High Net Worth,Yes,QLD,Age : 41 - 60,General
+Charlie,Dmych,Male,Manufacturing,High Net Worth,No,NSW,Age : 61 - 80,Not Important
+Charmain,Styles,Female,Property,High Net Worth,Yes,VIC,Age : 41 - 60,Not Important
+Cherye,Stanfield,Female,Manufacturing,Affluent Customer,No,NSW,Age : 21 - 40,Important
+Cheston,Hritzko,Male,Manufacturing,Mass Customer,Yes,NSW,Age : 61 - 80,General
+Chickie,Brister,Male,Manufacturing,Mass Customer,Yes,QLD,Age : 61 - 80,Not Important
+Chico,Dye,Male,Manufacturing,High Net Worth,No,NSW,Age : 21 - 40,Important
+Christie,Anders,Male,Retail,Mass Customer,No,NSW,Age : 41 - 60,Important
+Chryste,Oddboy,Female,Manufacturing,High Net Worth,Yes,NSW,Age : 21 - 40,Important
+Cicily,Hast,Female,Health,Affluent Customer,Yes,NSW,Age : 41 - 60,Important
+Cissiee,Baylis,Female,Financial Services,High Net Worth,No,NSW,Age : 61 - 80,Not Important
+Cissiee,Pollington,Female,Property,Mass Customer,Yes,NSW,Age : 61 - 80,Not Important
+Clarabelle,Broschek,Female,Manufacturing,Mass Customer,No,QLD,Age : 41 - 60,Important
+Clari,Voas,Female,Health,Affluent Customer,Yes,NSW,Age : 61 - 80,Not Important
+Clarine,Piecha,Female,Health,High Net Worth,No,QLD,Age : 41 - 60,General
+Claude,Bowstead,Female,Manufacturing,Mass Customer,No,NSW,Age : 21 - 40,Very Important
+Claudell,Rounsefell,Male,Financial Services,Affluent Customer,No,QLD,Age : 21 - 40,General
+Claudetta,Ricciardiello,Female,Financial Services,Mass Customer,Yes,VIC,Age : 41 - 60,Very Important
+Claudette,Renackowna,Female,Manufacturing,Mass Customer,No,NSW,Age : 21 - 40,Very Important
+Claudine,Barstowk,Female,Property,High Net Worth,Yes,QLD,Age : 41 - 60,Not Important
+Claudine,Dymick,Female,Health,Mass Customer,No,VIC,Age : 41 - 60,Important
+Clemmie,Bartoszewicz,Female,Financial Services,Mass Customer,No,VIC,Age : 61 - 80,Not Important
+Cletis,Longley,Male,Manufacturing,High Net Worth,Yes,VIC,Age : 21 - 40,General
+Cliff,Philipsson,Male,Argiculture,Mass Customer,No,VIC,Age : 41 - 60,Not Important
+Clotilda,Southers,Female,Financial Services,Mass Customer,Yes,NSW,Age : 0 - 20,Very Important
+Colas,Gabbitas,Male,Retail,High Net Worth,No,NSW,Age : 61 - 80,Not Important
+Colene,Fishleigh,Female,Financial Services,Mass Customer,No,VIC,Age : 21 - 40,Important
+Conroy,Rappaport,Male,Health,High Net Worth,No,NSW,Age : 41 - 60,Important
+Consalve,Ballay,Male,IT,Mass Customer,Yes,NSW,Age : 61 - 80,Not Important
+Cord,Dunsmore,Male,Manufacturing,Mass Customer,Yes,QLD,Age : 21 - 40,Important
+Cordi,Thornton,Female,Telecommunications,Mass Customer,No,NSW,Age : 41 - 60,Not Important
+Cordie,Brankley,Female,Entertainment,High Net Worth,No,NSW,Age : 61 - 80,Not Important
+Corene,Hallgate,Female,Financial Services,Mass Customer,Yes,VIC,Age : 41 - 60,Very Important
+Corinna,Beretta,Female,Health,High Net Worth,No,VIC,Age : 21 - 40,General
+Craggie,Dering,Male,Financial Services,Mass Customer,No,NSW,Age : 61 - 80,General
+Craggy,Happel,Male,Manufacturing,High Net Worth,Yes,VIC,Age : 41 - 60,General
+Cristen,Maroney,Female,IT,High Net Worth,Yes,QLD,Age : 0 - 20,Not Important
+Cristen,Wiltshire,Female,Financial Services,High Net Worth,Yes,VIC,Age : 41 - 60,General
+Daisi,Tinwell,Female,Financial Services,Mass Customer,No,NSW,Age : 41 - 60,Very Important
+Daisy,Pollen,Female,Financial Services,Mass Customer,No,VIC,Age : 21 - 40,Important
+Daisy,Spowart,Female,Health,Affluent Customer,Yes,QLD,Age : 41 - 60,General
+Damian,Renard,Male,Retail,Affluent Customer,No,NSW,Age : 41 - 60,General
+Danny,Bodle,Male,Manufacturing,Mass Customer,Yes,NSW,Age : 61 - 80,General
+Darb,,Male,Health,Affluent Customer,No,QLD,Age : 41 - 60,General
+Darlleen,Shalcras,Female,Health,Mass Customer,No,NSW,Age : 21 - 40,Very Important
+Darryl,Hovee,Female,Financial Services,Mass Customer,Yes,NSW,Age : 61 - 80,General
+Darwin,Bumpas,Male,Health,Affluent Customer,Yes,VIC,Age : 41 - 60,General
+Daryl,Pauncefort,Female,Financial Services,Mass Customer,Yes,NSW,Age : 41 - 60,Very Important
+Daryle,Marginson,Male,Argiculture,Mass Customer,Yes,NSW,Age : 21 - 40,Not Important
+Datha,Fishburn,Female,Retail,Mass Customer,No,VIC,Age : 21 - 40,General
+Davidde,Cockroft,Male,Manufacturing,High Net Worth,No,NSW,Age : 61 - 80,Not Important
+Davide,Senten,Male,Manufacturing,Mass Customer,No,NSW,Age : 61 - 80,General
+Davie,Blay,Male,Financial Services,Mass Customer,No,NSW,Age : 21 - 40,Very Important
+Dawn,Pyffe,Female,Retail,Mass Customer,No,VIC,Age : 41 - 60,General
+Deana,Canton,Female,Property,Mass Customer,Yes,QLD,Age : 41 - 60,General
+Debbie,Tillman,Female,Manufacturing,High Net Worth,Yes,QLD,Age : 21 - 40,General
+Debby,Balmadier,Female,Financial Services,Affluent Customer,Yes,VIC,Age : 21 - 40,General
+Deborah,Petrovsky,Female,Property,Mass Customer,No,NSW,Age : 61 - 80,Not Important
+Deirdre,Burgoine,Female,Health,High Net Worth,No,VIC,Age : 61 - 80,Not Important
+Deirdre,Sturgeon,Female,Retail,Mass Customer,Yes,NSW,Age : 41 - 60,Very Important
+Delcina,Hursey,Female,Financial Services,Mass Customer,Yes,QLD,Age : 41 - 60,Important
+Delinda,Ech,Female,Argiculture,Mass Customer,Yes,VIC,Age : 61 - 80,Not Important
+Delly,Sunman,Female,Retail,Mass Customer,No,VIC,Age : 61 - 80,Not Important
+Demetria,Bausor,Female,Entertainment,Mass Customer,Yes,NSW,Age : 41 - 60,Very Important
+Demott,Mullaly,Male,Property,Mass Customer,No,NSW,Age : 21 - 40,Important
+Dena,Pabst,Female,Manufacturing,High Net Worth,Yes,VIC,Age : 21 - 40,General
+Dennis,Varnham,Male,Entertainment,Affluent Customer,No,VIC,Age : 61 - 80,Not Important
+Denny,Spleving,Female,Manufacturing,Affluent Customer,Yes,NSW,Age : 41 - 60,Very Important
+Denys,Minshall,Female,Manufacturing,Affluent Customer,Yes,NSW,Age : 41 - 60,Very Important
+Diane,Furman,Female,Manufacturing,Affluent Customer,Yes,VIC,Age : 21 - 40,General
+Dickie,Cubbini,Male,Financial Services,Mass Customer,Yes,QLD,Age : 61 - 80,Not Important
+Diego,Van den Broek,Male,Manufacturing,Affluent Customer,Yes,QLD,Age : 41 - 60,General
+Dmitri,,Male,Financial Services,High Net Worth,Yes,VIC,Age : 21 - 40,General
+Dodi,Kiggel,Female,Financial Services,Mass Customer,Yes,NSW,Age : 21 - 40,Very Important
+Dolley,Starmont,Female,Manufacturing,Affluent Customer,No,QLD,Age : 41 - 60,General
+Dolorita,Strutton,Female,Manufacturing,Affluent Customer,No,VIC,Age : 21 - 40,General
+Dominick,Asher,Male,Health,Affluent Customer,Yes,VIC,Age : 41 - 60,General
+Don,Spratling,Male,Property,Affluent Customer,Yes,NSW,Age : 41 - 60,General
+Donaugh,Benedict,Male,Property,Mass Customer,No,NSW,Age : 21 - 40,Important
+Donica,Humby,Female,Financial Services,Mass Customer,No,NSW,Age : 41 - 60,Very Important
+Donn,MacGregor,Male,Manufacturing,High Net Worth,No,NSW,Age : 41 - 60,Very Important
+Dorian,Emery,Female,Manufacturing,Mass Customer,Yes,NSW,Age : 21 - 40,Very Important
+Dorian,Rustman,Male,Manufacturing,Mass Customer,No,QLD,Age : 41 - 60,Important
+Dorian,Stollen,Male,Financial Services,Mass Customer,Yes,NSW,Age : 21 - 40,Very Important
+Dorie,Dunleavy,Female,Health,Affluent Customer,No,VIC,Age : 41 - 60,General
+Dorolice,Osmon,Female,Financial Services,Affluent Customer,No,VIC,Age : 41 - 60,General
+Dorotea,Fenwick,Female,Financial Services,High Net Worth,No,NSW,Age : 61 - 80,Not Important
+Dorothy,Barnardo,Female,Retail,High Net Worth,No,NSW,Age : 21 - 40,General
+Druci,Brandli,Female,Entertainment,High Net Worth,Yes,QLD,Age : 61 - 80,Not Important
+Duff,Karlowicz,Male,Manufacturing,Mass Customer,Yes,NSW,Age : 41 - 60,Very Important
+Dukie,Swire,Male,Manufacturing,Affluent Customer,Yes,NSW,Age : 61 - 80,Not Important
+Dulce,Bradwell,Female,Manufacturing,Mass Customer,No,QLD,Age : 61 - 80,Not Important
+Dwain,Hatch,Male,Health,Affluent Customer,No,VIC,Age : 21 - 40,General
+Dwayne,Doel,Male,Financial Services,Affluent Customer,Yes,NSW,Age : 41 - 60,Very Important
+Dyane,Burwell,Female,Retail,Mass Customer,Yes,NSW,Age : 61 - 80,Not Important
+Dyann,Olechnowicz,Female,Manufacturing,Mass Customer,No,VIC,Age : 81 - 100,General
+Dylan,Stranio,Male,Manufacturing,High Net Worth,Yes,NSW,Age : 61 - 80,Not Important
+Eachelle,Noirel,Female,Health,Affluent Customer,Yes,NSW,Age : 41 - 60,Important
+Ebony,Conrad,Female,Financial Services,Mass Customer,Yes,VIC,Age : 0 - 20,Not Important
+Eddy,Sturch,Male,Financial Services,High Net Worth,Yes,QLD,Age : 41 - 60,General
+Edin,Patinkin,Female,Health,Mass Customer,No,VIC,Age : 21 - 40,Important
+Egon,Ortells,Male,Manufacturing,Affluent Customer,No,NSW,Age : 41 - 60,Very Important
+Egor,Mariette,Male,Financial Services,Affluent Customer,No,VIC,Age : 21 - 40,General
+Elbertina,Fendley,Female,Property,Affluent Customer,No,NSW,Age : 21 - 40,General
+Eleonora,Wiszniewski,Female,Financial Services,Affluent Customer,No,QLD,Age : 21 - 40,General
+Ellie,Toope,Female,Property,High Net Worth,Yes,NSW,Age : 41 - 60,General
+Ellsworth,Andrieux,Male,Financial Services,Affluent Customer,Yes,QLD,Age : 41 - 60,General
+Ellwood,Budden,Male,Health,Mass Customer,Yes,NSW,Age : 21 - 40,Very Important
+Elmira,Vasilyev,Female,Manufacturing,High Net Worth,No,NSW,Age : 61 - 80,Not Important
+Elsworth,Abbitt,Male,Health,Mass Customer,Yes,VIC,Age : 61 - 80,Not Important
+Elvin,Trayhorn,Male,Financial Services,High Net Worth,No,NSW,Age : 21 - 40,Important
+Elvira,Darthe,Female,Financial Services,Affluent Customer,No,NSW,Age : 41 - 60,Very Important
+Elvira,Kurten,Female,Financial Services,High Net Worth,No,NSW,Age : 41 - 60,Very Important
+Emelen,Bidnall,Male,Health,Affluent Customer,Yes,NSW,Age : 21 - 40,Important
+Emelia,Ackwood,Female,Financial Services,Mass Customer,Yes,QLD,Age : 21 - 40,Important
+Emeline,Vezey,Female,Health,Affluent Customer,Yes,VIC,Age : 61 - 80,Not Important
+Engracia,Dobbs,Female,Health,Mass Customer,No,NSW,Age : 61 - 80,General
+Erasmus,Olenchenko,Male,Property,Mass Customer,Yes,NSW,Age : 41 - 60,Important
+Erhard,O'Moylane,Male,Retail,Affluent Customer,Yes,VIC,Age : 41 - 60,General
+Ermentrude,Heindle,Female,Argiculture,Mass Customer,No,NSW,Age : 41 - 60,General
+Erminie,Rabidge,Female,Manufacturing,High Net Worth,No,NSW,Age : 21 - 40,Important
+Errick,Burgin,Male,Entertainment,Mass Customer,No,NSW,Age : 21 - 40,General
+Esdras,Birchett,Male,Entertainment,Mass Customer,Yes,NSW,Age : 61 - 80,Not Important
+Esme,Pilipets,Male,Health,Mass Customer,Yes,VIC,Age : 41 - 60,Important
+Essie,Withur,Female,Financial Services,High Net Worth,No,VIC,Age : 61 - 80,Not Important
+Estevan,Eastment,Male,Health,Mass Customer,Yes,NSW,Age : 61 - 80,General
+Esther,Rooson,Female,Financial Services,Mass Customer,No,NSW,Age : 21 - 40,Very Important
+Etan,Prinett,Male,Argiculture,Mass Customer,Yes,NSW,Age : 41 - 60,General
+Ethelred,Sissel,Male,Health,High Net Worth,No,NSW,Age : 41 - 60,Important
+Eugenie,Brinson,Female,Entertainment,Mass Customer,Yes,VIC,Age : 41 - 60,Not Important
+Eustacia,Dornan,Female,Property,Mass Customer,No,VIC,Age : 21 - 40,General
+Evangelin,Boc,Female,Manufacturing,High Net Worth,Yes,VIC,Age : 0 - 20,Not Important
+Evered,Gludor,Male,Manufacturing,High Net Worth,Yes,NSW,Age : 61 - 80,Not Important
+Evonne,Bembridge,Female,Retail,Mass Customer,Yes,VIC,Age : 41 - 60,General
+Ewell,Paulusch,Male,Manufacturing,Mass Customer,Yes,QLD,Age : 21 - 40,Important
+Fabio,Commuzzo,Male,Manufacturing,Mass Customer,No,VIC,Age : 41 - 60,Very Important
+Fancie,Woofendell,Female,Health,Mass Customer,Yes,QLD,Age : 41 - 60,Important
+Farlie,Brookz,Male,Health,Mass Customer,Yes,NSW,Age : 41 - 60,Very Important
+Farra,Matyushkin,Female,Manufacturing,High Net Worth,Yes,VIC,Age : 41 - 60,General
+Fayre,Brannigan,Female,Manufacturing,Mass Customer,Yes,NSW,Age : 21 - 40,Very Important
+Federico,Leuty,Male,Property,High Net Worth,Yes,NSW,Age : 41 - 60,General
+Felice,Dechelette,Male,Entertainment,High Net Worth,No,QLD,Age : 21 - 40,Not Important
+Feodor,Englishby,Male,Health,Mass Customer,No,VIC,Age : 41 - 60,Important
+Feodor,Vickers,Male,Financial Services,Mass Customer,Yes,NSW,Age : 21 - 40,Very Important
+Ferdinand,Billie,Male,Manufacturing,Mass Customer,No,NSW,Age : 41 - 60,Very Important
+Ferdinand,Romanetti,Male,Financial Services,Affluent Customer,No,NSW,Age : 41 - 60,Very Important
+Ferdy,Hornung,Male,Entertainment,High Net Worth,No,QLD,Age : 41 - 60,Not Important
+Fey,,Female,Health,High Net Worth,Yes,VIC,Age : 61 - 80,Not Important
+Fitzgerald,Hellikes,Male,Health,Mass Customer,Yes,VIC,Age : 41 - 60,Important
+Flin,Yoskowitz,Male,Health,Mass Customer,Yes,NSW,Age : 21 - 40,Very Important
+Flore,Cashen,Female,Health,High Net Worth,No,NSW,Age : 41 - 60,Important
+Flossy,Concannon,Female,Financial Services,Affluent Customer,No,VIC,Age : 21 - 40,General
+Francisca,Pottage,Female,IT,Mass Customer,No,NSW,Age : 61 - 80,Not Important
+Franciska,Stigell,Female,Health,Mass Customer,Yes,VIC,Age : 41 - 60,Important
+Francklin,Cross,Male,Property,Mass Customer,Yes,NSW,Age : 21 - 40,Important
+Franklin,Wohler,Male,Health,Mass Customer,Yes,NSW,Age : 81 - 100,Important
+Frans,Idale,Male,Manufacturing,Mass Customer,No,QLD,Age : 41 - 60,Important
+Freddi,Litherborough,Female,Financial Services,Mass Customer,No,NSW,Age : 21 - 40,Very Important
+Frederich,Glantz,Male,Manufacturing,High Net Worth,Yes,NSW,Age : 21 - 40,Important
+Frederigo,Cribbott,Male,Health,Mass Customer,No,NSW,Age : 41 - 60,Very Important
+Frederik,Milan,Male,Health,Mass Customer,No,NSW,Age : 21 - 40,Important
+Gabey,Kennicott,Female,Financial Services,Affluent Customer,No,NSW,Age : 61 - 80,Not Important
+Gabrila,Toopin,Female,Manufacturing,Mass Customer,No,NSW,Age : 41 - 60,Very Important
+Gale,Disbrow,Female,Financial Services,Mass Customer,Yes,VIC,Age : 41 - 60,Very Important
+Gardie,Crellim,Male,Manufacturing,High Net Worth,No,VIC,Age : 41 - 60,General
+Gardiner,Gypps,Male,Retail,Mass Customer,Yes,NSW,Age : 21 - 40,Important
+Garik,Whitwell,Male,Property,Mass Customer,Yes,VIC,Age : 61 - 80,Not Important
+Garwin,Nurden,Male,Property,High Net Worth,Yes,VIC,Age : 61 - 80,Not Important
+Gaston,Dallaghan,Male,Financial Services,Mass Customer,Yes,NSW,Age : 21 - 40,Very Important
+Genni,Fanstone,Female,Entertainment,Mass Customer,No,VIC,Age : 41 - 60,Not Important
+Geoff,Gwillym,Male,Health,Affluent Customer,No,NSW,Age : 21 - 40,Important
+Geoff,Sitford,Male,Financial Services,Mass Customer,Yes,NSW,Age : 41 - 60,Very Important
+George,Jose,Male,Retail,High Net Worth,Yes,QLD,Age : 41 - 60,Not Important
+Georgetta,Lovett,Female,Retail,Mass Customer,No,QLD,Age : 61 - 80,Not Important
+Georgi,,Male,Manufacturing,High Net Worth,No,VIC,Age : 41 - 60,General
+Gerik,Woodroof,Male,Financial Services,High Net Worth,Yes,VIC,Age : 61 - 80,Not Important
+Gerri,Schimann,Female,Property,Mass Customer,Yes,NSW,Age : 41 - 60,Important
+Gerta,Porrett,Female,Health,High Net Worth,No,VIC,Age : 41 - 60,General
+Giana,Staresmeare,Female,Retail,Affluent Customer,Yes,NSW,Age : 41 - 60,General
+Giffie,Offill,Male,Telecommunications,Affluent Customer,No,QLD,Age : 21 - 40,Not Important
+Gilbert,O'Fallone,Male,Entertainment,High Net Worth,No,NSW,Age : 21 - 40,Not Important
+Gilli,Christophers,Female,Property,Affluent Customer,Yes,QLD,Age : 61 - 80,Not Important
+Gina,Mallon,Female,Health,Mass Customer,No,QLD,Age : 21 - 40,Important
+Giorgi,O'Shirine,Male,Retail,Mass Customer,Yes,VIC,Age : 21 - 40,General
+Gipsy,Ewestace,Female,Retail,High Net Worth,Yes,NSW,Age : 61 - 80,Not Important
+Giralda,MacPeake,Female,Entertainment,High Net Worth,Yes,NSW,Age : 61 - 80,Not Important
+Giselbert,Pickring,Male,Manufacturing,Affluent Customer,Yes,NSW,Age : 61 - 80,Not Important
+Gleda,Howerd,Female,IT,Mass Customer,No,NSW,Age : 41 - 60,General
+Glendon,Malham,Male,Manufacturing,Mass Customer,No,VIC,Age : 41 - 60,Very Important
+Glenn,Casbourne,Female,Manufacturing,Mass Customer,No,QLD,Age : 21 - 40,Important
+Glennis,Flintoff,Female,Health,Affluent Customer,Yes,VIC,Age : 61 - 80,Not Important
+Glory,Chilcott,Female,Telecommunications,High Net Worth,No,QLD,Age : 81 - 100,Not Important
+Glyn,,Male,Manufacturing,Affluent Customer,Yes,NSW,Age : 61 - 80,Not Important
+Gothart,Artus,Male,Health,Mass Customer,Yes,NSW,Age : 41 - 60,Very Important
+Grannie,Cracker,Male,Retail,Mass Customer,Yes,QLD,Age : 61 - 80,Not Important
+Gregorius,Leal,Male,Retail,Affluent Customer,Yes,NSW,Age : 61 - 80,Not Important
+Gretel,Paschke,Female,Financial Services,Mass Customer,Yes,QLD,Age : 61 - 80,Not Important
+Griffith,Escot,Male,IT,Mass Customer,Yes,QLD,Age : 61 - 80,Not Important
+Griswold,Kelsall,Male,Health,High Net Worth,Yes,VIC,Age : 21 - 40,General
+Guenna,Filisov,Female,Manufacturing,High Net Worth,No,NSW,Age : 41 - 60,Very Important
+Guilbert,Bearns,Male,Financial Services,Mass Customer,Yes,VIC,Age : 21 - 40,Important
+Gunner,Petti,Male,Financial Services,High Net Worth,Yes,QLD,Age : 21 - 40,General
+Guss,Karim,Male,Manufacturing,Mass Customer,No,NSW,Age : 41 - 60,Very Important
+Hagen,MacCarter,Male,Entertainment,Affluent Customer,Yes,VIC,Age : 21 - 40,Not Important
+Haleigh,,Female,Financial Services,Mass Customer,Yes,QLD,Age : 61 - 80,Not Important
+Halette,Borsi,Female,Health,Affluent Customer,Yes,NSW,Age : 41 - 60,Important
+Hanny,Treven,Female,Retail,Mass Customer,No,QLD,Age : 21 - 40,General
+Hanson,Eastes,Male,Manufacturing,Mass Customer,Yes,VIC,Age : 21 - 40,Important
+Harland,Messenger,Male,Retail,Mass Customer,No,VIC,Age : 41 - 60,General
+Harlin,Mazin,Male,Manufacturing,Mass Customer,Yes,NSW,Age : 41 - 60,Very Important
+Harman,A'field,Male,Manufacturing,Affluent Customer,Yes,QLD,Age : 41 - 60,General
+Harriet,Brattan,Female,Financial Services,High Net Worth,No,VIC,Age : 21 - 40,General
+Harvey,Dwelley,Male,Financial Services,Affluent Customer,No,NSW,Age : 41 - 60,Very Important
+Harwell,Kleinstein,Male,Retail,Affluent Customer,No,VIC,Age : 21 - 40,Not Important
+Hasheem,Groucock,Male,Manufacturing,High Net Worth,Yes,NSW,Age : 41 - 60,Very Important
+Haskell,Moxted,Male,Manufacturing,Mass Customer,No,NSW,Age : 61 - 80,General
+Hayes,Daveren,Male,Manufacturing,Affluent Customer,Yes,QLD,Age : 61 - 80,Not Important
+Heall,Andrioli,Male,IT,Affluent Customer,Yes,QLD,Age : 61 - 80,Not Important
+Hedwig,Jayme,Female,Property,Affluent Customer,No,NSW,Age : 61 - 80,Not Important
+Heinrick,Shilstone,Male,Manufacturing,Affluent Customer,No,VIC,Age : 41 - 60,General
+Heloise,Fairpool,Female,Manufacturing,High Net Worth,No,QLD,Age : 41 - 60,General
+Hersh,Stubbert,Male,Manufacturing,Mass Customer,Yes,QLD,Age : 0 - 20,Not Important
+Hilario,McCulloch,Male,Retail,Mass Customer,No,VIC,Age : 21 - 40,General
+Hilliard,Dullard,Male,Manufacturing,Mass Customer,No,NSW,Age : 61 - 80,General
+Honey,Gosdin,Female,Property,Mass Customer,No,NSW,Age : 21 - 40,Important
+Hunfredo,Hayball,Male,IT,Affluent Customer,No,NSW,Age : 21 - 40,Not Important
+Hussein,Tapenden,Male,Health,Affluent Customer,Yes,NSW,Age : 61 - 80,Not Important
+Iain,Haversham,Male,Retail,Mass Customer,Yes,NSW,Age : 61 - 80,Not Important
+Ian,Rabat,Male,Financial Services,Affluent Customer,No,VIC,Age : 41 - 60,General
+Ilise,Clissold,Female,Entertainment,High Net Worth,No,NSW,Age : 21 - 40,Not Important
+Inglebert,Aspinal,Male,Financial Services,Mass Customer,No,NSW,Age : 41 - 60,Very Important
+Inglebert,Butland,Male,Financial Services,Mass Customer,Yes,NSW,Age : 41 - 60,Very Important
+Inglis,Pickaver,Male,Telecommunications,Affluent Customer,No,NSW,Age : 21 - 40,Not Important
+Ingmar,Okenden,Male,Financial Services,Mass Customer,Yes,VIC,Age : 61 - 80,Not Important
+Irvin,Bevans,Male,Manufacturing,Mass Customer,No,NSW,Age : 41 - 60,Very Important
+Irvine,Headon,Male,IT,Affluent Customer,Yes,NSW,Age : 61 - 80,Not Important
+Irving,Babcock,Male,Health,High Net Worth,Yes,NSW,Age : 21 - 40,Important
+Isak,Bergstram,Male,Health,Affluent Customer,Yes,NSW,Age : 0 - 20,Not Important
+Ivy,Farr,Female,IT,High Net Worth,No,NSW,Age : 41 - 60,Not Important
+Jackie,Pays,Male,Health,Mass Customer,No,NSW,Age : 61 - 80,General
+Jacklin,Duchant,Female,Argiculture,Mass Customer,No,QLD,Age : 61 - 80,Not Important
+Jacobo,Mucklow,Male,Financial Services,High Net Worth,Yes,VIC,Age : 61 - 80,Not Important
+Jacqui,Devey,Female,Financial Services,High Net Worth,Yes,NSW,Age : 21 - 40,Important
+Jamal,Dudgeon,Male,Financial Services,Mass Customer,No,VIC,Age : 41 - 60,Important
+Jamie,Jiruca,Female,Argiculture,Mass Customer,No,NSW,Age : 41 - 60,General
+Jamison,Cashin,Male,Health,Mass Customer,Yes,NSW,Age : 41 - 60,Very Important
+Jammal,Devenny,Male,Retail,High Net Worth,No,VIC,Age : 21 - 40,Not Important
+Jammie,Seldner,Female,Health,Mass Customer,Yes,NSW,Age : 41 - 60,Very Important
+Janaye,Eade,Female,Health,Affluent Customer,No,NSW,Age : 21 - 40,Important
+Jared,Fendlow,Male,Financial Services,Mass Customer,No,QLD,Age : 41 - 60,Important
+Jedediah,Kedie,Male,Argiculture,Mass Customer,Yes,NSW,Age : 41 - 60,General
+Jehu,Prestedge,Male,Manufacturing,High Net Worth,Yes,NSW,Age : 0 - 20,Not Important
+Jenelle,Fearnill,Female,Health,High Net Worth,No,NSW,Age : 61 - 80,Not Important
+Jenelle,Mc-Kerley,Female,Financial Services,Mass Customer,Yes,QLD,Age : 61 - 80,Not Important
+Jenny,Massy,Female,Telecommunications,Mass Customer,Yes,NSW,Age : 41 - 60,Not Important
+Jeno,Strafford,Male,Financial Services,High Net Worth,No,QLD,Age : 61 - 80,Not Important
+Jermaine,Bagshawe,Female,Property,Mass Customer,Yes,QLD,Age : 61 - 80,Not Important
+Jerrine,Cosbey,Female,Financial Services,High Net Worth,Yes,VIC,Age : 41 - 60,General
+Jethro,Mertel,Male,Argiculture,Mass Customer,Yes,NSW,Age : 41 - 60,General
+Jillane,Simion,Female,Manufacturing,High Net Worth,No,QLD,Age : 41 - 60,General
+Jim,Haddrell,Male,Financial Services,Mass Customer,No,NSW,Age : 61 - 80,General
+Jo,Roberts,Female,Financial Services,High Net Worth,Yes,NSW,Age : 61 - 80,Not Important
+Joane,Caldes,Female,Financial Services,High Net Worth,Yes,NSW,Age : 41 - 60,Very Important
+Jodi,Lermit,Female,Health,Mass Customer,Yes,QLD,Age : 61 - 80,Not Important
+Jordan,Clampe,Male,Financial Services,Mass Customer,Yes,QLD,Age : 61 - 80,Not Important
+Juliana,Mitchenson,Female,Manufacturing,Mass Customer,Yes,QLD,Age : 21 - 40,Important
+Juliann,Siemantel,Female,Entertainment,Mass Customer,No,VIC,Age : 61 - 80,Not Important
+Julita,Prene,Female,Manufacturing,High Net Worth,Yes,QLD,Age : 41 - 60,General
+Justinn,Haruard,Female,Health,High Net Worth,No,NSW,Age : 61 - 80,Not Important
+Kaela,Romaines,Female,Manufacturing,High Net Worth,No,NSW,Age : 41 - 60,Very Important
+Kaine,Smallcombe,Male,Financial Services,High Net Worth,No,NSW,Age : 61 - 80,Not Important
+Kamila,Parsonage,Female,Property,Mass Customer,No,QLD,Age : 61 - 80,Not Important
+Kariotta,Naper,Female,Health,Mass Customer,No,NSW,Age : 61 - 80,General
+Karlik,Penchen,Male,Retail,Mass Customer,No,QLD,Age : 21 - 40,General
+Karly,Willavize,Female,Manufacturing,High Net Worth,No,NSW,Age : 61 - 80,Not Important
+Karney,Burstow,Male,Property,Mass Customer,Yes,NSW,Age : 41 - 60,Important
+Karol,Salthouse,Female,Financial Services,Mass Customer,Yes,NSW,Age : 41 - 60,Very Important
+Karoly,Burgoine,Male,Health,High Net Worth,Yes,VIC,Age : 61 - 80,Not Important
+Karrah,Howell,Female,Manufacturing,Mass Customer,No,NSW,Age : 61 - 80,General
+Kata,Harrop,Female,Retail,Affluent Customer,Yes,NSW,Age : 61 - 80,Not Important
+Katharine,Redbourn,Female,Manufacturing,Affluent Customer,Yes,VIC,Age : 41 - 60,General
+Kathe,Oller,Female,Manufacturing,Mass Customer,Yes,VIC,Age : 61 - 80,Not Important
+Katheryn,Kinner,Female,Entertainment,High Net Worth,No,NSW,Age : 41 - 60,Not Important
+Katie,Warhurst,Female,Retail,High Net Worth,Yes,VIC,Age : 21 - 40,Not Important
+Katleen,Arnoult,Female,Manufacturing,Mass Customer,Yes,NSW,Age : 41 - 60,Very Important
+Katy,Crooke,Female,Health,Mass Customer,No,NSW,Age : 41 - 60,Very Important
+Kaylyn,Jakaway,Female,Health,Affluent Customer,No,NSW,Age : 21 - 40,Important
+Kearney,Cuddehy,Male,Retail,Mass Customer,No,QLD,Age : 21 - 40,General
+Keelby,Sudlow,Male,Manufacturing,High Net Worth,No,VIC,Age : 21 - 40,General
+Keely,Bointon,Female,Telecommunications,High Net Worth,No,QLD,Age : 21 - 40,Not Important
+Keenan,Moriarty,Male,Financial Services,Mass Customer,Yes,QLD,Age : 21 - 40,Important
+Kelcie,Kingaby,Female,IT,Mass Customer,Yes,QLD,Age : 0 - 20,Not Important
+Kellen,Pawelski,Female,Manufacturing,High Net Worth,Yes,NSW,Age : 61 - 80,Not Important
+Kellina,Haygreen,Female,Entertainment,Affluent Customer,No,NSW,Age : 41 - 60,Not Important
+Kelsey,Hatt,Female,Financial Services,High Net Worth,No,VIC,Age : 41 - 60,General
+Kenneth,Elleyne,Male,Financial Services,Mass Customer,No,VIC,Age : 61 - 80,Not Important
+Keriann,Newham,Female,Financial Services,Mass Customer,No,QLD,Age : 41 - 60,Important
+Kermit,Lebond,Male,Financial Services,Mass Customer,No,QLD,Age : 21 - 40,Important
+Kevina,Ferandez,Female,Financial Services,High Net Worth,No,QLD,Age : 0 - 20,Not Important
+Kiley,Grunder,Male,Financial Services,Affluent Customer,Yes,QLD,Age : 21 - 40,General
+Killie,Densie,Male,IT,Mass Customer,Yes,NSW,Age : 21 - 40,General
+Kinna,Kollasch,Female,Property,High Net Worth,No,QLD,Age : 21 - 40,Not Important
+Kipp,Stockport,Male,Retail,Mass Customer,Yes,NSW,Age : 21 - 40,Important
+Kippar,Brimilcome,Male,Health,Mass Customer,No,NSW,Age : 81 - 100,Important
+Kippar,Whyatt,Male,Property,Mass Customer,No,NSW,Age : 41 - 60,Important
+Kipper,Circuit,Male,Argiculture,Mass Customer,Yes,NSW,Age : 41 - 60,General
+Kippy,Barabisch,Male,Manufacturing,Mass Customer,No,NSW,Age : 0 - 20,Very Important
+Kissie,Line,Female,Manufacturing,Affluent Customer,Yes,NSW,Age : 0 - 20,Not Important
+Kit,Easdon,Male,Property,Affluent Customer,No,VIC,Age : 41 - 60,Not Important
+Kizzee,Agget,Female,Manufacturing,Affluent Customer,No,NSW,Age : 41 - 60,Very Important
+Kizzee,Kemston,Female,Health,Mass Customer,No,NSW,Age : 41 - 60,Very Important
+Konstanze,Hovie,Female,Health,Mass Customer,No,QLD,Age : 41 - 60,Important
+Kort,Disley,Male,Health,Mass Customer,Yes,NSW,Age : 41 - 60,Very Important
+Lacy,Drance,Female,Manufacturing,Affluent Customer,Yes,NSW,Age : 41 - 60,Very Important
+Lark,Gonet,Female,Health,High Net Worth,No,NSW,Age : 41 - 60,Important
+Latrena,Walklate,Female,Telecommunications,High Net Worth,Yes,NSW,Age : 61 - 80,Not Important
+Latrena,Yetts,Female,Manufacturing,High Net Worth,Yes,NSW,Age : 21 - 40,Important
+Lauralee,Fudge,Female,Health,Mass Customer,No,VIC,Age : 21 - 40,Important
+Laurel,Devennie,Female,Manufacturing,Affluent Customer,No,QLD,Age : 41 - 60,General
+Laurie,Odlin,Female,Health,High Net Worth,No,VIC,Age : 21 - 40,General
+Laurie,,Male,Entertainment,Mass Customer,Yes,NSW,Age : 41 - 60,General
+Lavena,Seekings,Female,Retail,Mass Customer,No,VIC,Age : 21 - 40,General
+Lea,Ilyinski,Female,Financial Services,High Net Worth,No,NSW,Age : 21 - 40,Important
+Leeland,,Male,Telecommunications,High Net Worth,No,QLD,Age : 61 - 80,Not Important
+Leese,Huckleby,Female,Manufacturing,High Net Worth,Yes,VIC,Age : 41 - 60,General
+Leighton,Firbanks,Male,Retail,Affluent Customer,No,QLD,Age : 41 - 60,Not Important
+Leisha,McConway,Female,Financial Services,Mass Customer,Yes,VIC,Age : 41 - 60,Very Important
+Lek,Pimblett,Male,Financial Services,Mass Customer,Yes,NSW,Age : 61 - 80,General
+Leona,Shorrock,Female,Financial Services,Affluent Customer,Yes,QLD,Age : 61 - 80,Not Important
+Leonora,Swetenham,Female,IT,Mass Customer,Yes,NSW,Age : 41 - 60,General
+Lesley,Garey,Male,Telecommunications,Mass Customer,No,NSW,Age : 21 - 40,Not Important
+Leticia,Danovich,Female,Entertainment,Mass Customer,Yes,QLD,Age : 61 - 80,Not Important
+Leticia,Hovenden,Female,Retail,Mass Customer,Yes,VIC,Age : 21 - 40,General
+Letizia,Poore,Female,Manufacturing,Affluent Customer,No,VIC,Age : 81 - 100,Not Important
+Levin,Coxen,Male,Property,Mass Customer,No,NSW,Age : 61 - 80,Not Important
+Lezlie,Clemits,Female,Financial Services,Mass Customer,Yes,NSW,Age : 41 - 60,Very Important
+Liane,Poizer,Female,Property,High Net Worth,No,NSW,Age : 61 - 80,Not Important
+Lillis,Eshmade,Female,Financial Services,Mass Customer,Yes,QLD,Age : 41 - 60,Important
+Link,Gorini,Male,IT,High Net Worth,No,QLD,Age : 41 - 60,Not Important
+Lisette,Davers,Female,Health,High Net Worth,No,NSW,Age : 61 - 80,Not Important
+Lissa,Gawn,Female,Health,Mass Customer,Yes,QLD,Age : 41 - 60,Important
+Lizbeth,Garvan,Female,Health,Mass Customer,No,NSW,Age : 21 - 40,Very Important
+Lizette,McKeaveney,Female,Health,High Net Worth,Yes,NSW,Age : 21 - 40,Important
+Loise,Iltchev,Female,Manufacturing,High Net Worth,Yes,QLD,Age : 41 - 60,General
+Loleta,Aberdalgy,Female,Health,Mass Customer,No,NSW,Age : 21 - 40,Very Important
+Lolly,Prewer,Female,Health,Mass Customer,No,NSW,Age : 21 - 40,Very Important
+Loria,Tappington,Female,Property,Mass Customer,No,VIC,Age : 61 - 80,Not Important
+Lorrie,Antonelli,Male,Financial Services,High Net Worth,Yes,NSW,Age : 21 - 40,Important
+Lotty,Loach,Female,Health,High Net Worth,Yes,NSW,Age : 41 - 60,Important
+Luci,Dyter,Female,Manufacturing,High Net Worth,No,VIC,Age : 61 - 80,Not Important
+Lucien,,Male,Financial Services,High Net Worth,Yes,QLD,Age : 41 - 60,General
+Lucilia,Minshall,Female,IT,Mass Customer,Yes,NSW,Age : 61 - 80,Not Important
+Lucine,Stutt,Female,Manufacturing,Affluent Customer,Yes,QLD,Age : 41 - 60,General
+Lucius,Hatchell,Male,Retail,Mass Customer,Yes,VIC,Age : 61 - 80,Not Important
+Lucky,Klainman,Female,Retail,Mass Customer,No,VIC,Age : 61 - 80,Not Important
+Lucretia,D'Agostini,Female,Manufacturing,High Net Worth,No,VIC,Age : 41 - 60,General
+Lura,Fawdrie,Female,Health,Mass Customer,Yes,QLD,Age : 0 - 20,Not Important
+Lynnell,Shoesmith,Female,Health,High Net Worth,Yes,NSW,Age : 21 - 40,Important
+Lynnett,Tipper,Female,Health,High Net Worth,Yes,VIC,Age : 21 - 40,General
+Lyon,Brittan,Male,Retail,High Net Worth,No,VIC,Age : 41 - 60,General
+Mabelle,Wellbelove,Female,Financial Services,Affluent Customer,Yes,NSW,Age : 61 - 80,Not Important
+Maddalena,Angood,Female,Manufacturing,Affluent Customer,No,NSW,Age : 21 - 40,Important
+Madison,Lars,Male,Health,Mass Customer,No,QLD,Age : 41 - 60,Important
+Maisie,Maddox,Female,Financial Services,Affluent Customer,No,VIC,Age : 41 - 60,General
+Malorie,Votier,Female,Manufacturing,Affluent Customer,No,QLD,Age : 21 - 40,General
+Mandi,Adamsson,Female,Manufacturing,Mass Customer,Yes,QLD,Age : 21 - 40,Important
+Mandie,Feares,Female,Health,Mass Customer,No,QLD,Age : 41 - 60,Important
+Mandie,MacAdie,Female,Telecommunications,High Net Worth,No,NSW,Age : 41 - 60,Not Important
+Manny,Mandy,Male,Argiculture,Mass Customer,No,QLD,Age : 41 - 60,Not Important
+Manya,Abramovici,Female,Financial Services,High Net Worth,Yes,QLD,Age : 61 - 80,Not Important
+Marc,Keunemann,Male,Health,Affluent Customer,Yes,NSW,Age : 41 - 60,Important
+Marcelia,Monkleigh,Female,Manufacturing,Mass Customer,Yes,QLD,Age : 21 - 40,Important
+Marcellina,Baynton,Female,Financial Services,Mass Customer,No,VIC,Age : 61 - 80,Not Important
+Margette,Gibard,Female,Manufacturing,Affluent Customer,Yes,NSW,Age : 61 - 80,Not Important
+Maribeth,Stivani,Female,Financial Services,Mass Customer,No,NSW,Age : 61 - 80,General
+Marie-jeanne,Breawood,Female,Health,High Net Worth,No,NSW,Age : 61 - 80,Not Important
+Mariette,,Female,Property,Affluent Customer,Yes,NSW,Age : 61 - 80,Not Important
+Marilin,Frome,Female,IT,Mass Customer,Yes,NSW,Age : 41 - 60,General
+Marinna,Kauschke,Female,Financial Services,Affluent Customer,Yes,VIC,Age : 41 - 60,General
+Maris,Leete,Female,Retail,Mass Customer,No,QLD,Age : 41 - 60,General
+Markus,Pendrey,Male,Health,Affluent Customer,Yes,NSW,Age : 61 - 80,Not Important
+Martelle,Tuppeny,Female,Manufacturing,Mass Customer,No,NSW,Age : 21 - 40,Very Important
+Martino,Scoles,Male,Financial Services,Mass Customer,No,VIC,Age : 41 - 60,Important
+Marysa,Rouchy,Female,Entertainment,Affluent Customer,No,NSW,Age : 21 - 40,Not Important
+Matias,Melloi,Male,Retail,Affluent Customer,No,NSW,Age : 41 - 60,General
+Maurine,Clee,Female,Property,High Net Worth,Yes,NSW,Age : 21 - 40,General
+Maurizia,Ritmeyer,Female,Entertainment,Mass Customer,Yes,NSW,Age : 21 - 40,General
+Maurizio,Comi,Male,IT,Affluent Customer,No,NSW,Age : 21 - 40,Not Important
+Maury,Galego,Male,Health,High Net Worth,Yes,VIC,Age : 21 - 40,General
+Mavra,Finan,Female,Property,Affluent Customer,Yes,NSW,Age : 41 - 60,General
+Maximilian,Geffen,Male,Manufacturing,Mass Customer,Yes,NSW,Age : 61 - 80,General
+Maximilien,Bourget,Male,Financial Services,Mass Customer,Yes,VIC,Age : 41 - 60,Very Important
+Meade,Bampton,Male,Health,High Net Worth,No,NSW,Age : 21 - 40,Important
+Meade,McReedy,Female,Financial Services,Affluent Customer,Yes,NSW,Age : 41 - 60,Very Important
+Mel,Rochford,Female,Retail,Mass Customer,Yes,VIC,Age : 21 - 40,General
+Melany,Ladewig,Female,Financial Services,Mass Customer,Yes,QLD,Age : 41 - 60,Important
+Melba,Spellacy,Female,Health,Mass Customer,No,NSW,Age : 41 - 60,Very Important
+Melinda,Hadlee,Female,Financial Services,Affluent Customer,No,NSW,Age : 41 - 60,Very Important
+Melloney,Temby,Female,Financial Services,Affluent Customer,Yes,QLD,Age : 61 - 80,Not Important
+Melosa,McOwan,Female,Financial Services,Mass Customer,No,NSW,Age : 0 - 20,Very Important
+Menard,Venmore,Male,Retail,High Net Worth,No,NSW,Age : 41 - 60,General
+Meridith,Urwin,Female,Health,High Net Worth,Yes,NSW,Age : 21 - 40,Important
+Meriel,Tapp,Female,IT,Mass Customer,No,VIC,Age : 21 - 40,Not Important
+Michal,Bryan,Female,Manufacturing,Mass Customer,Yes,QLD,Age : 41 - 60,Important
+Micheil,Fleote,Male,Manufacturing,High Net Worth,No,NSW,Age : 41 - 60,Very Important
+Michele,Pammenter,Male,Health,High Net Worth,No,VIC,Age : 21 - 40,General
+Mick,Macewan,Male,Financial Services,Mass Customer,No,NSW,Age : 41 - 60,Very Important
+Mikol,Eck,Male,Financial Services,Mass Customer,Yes,QLD,Age : 41 - 60,Important
+Miran,Runchman,Female,Retail,Mass Customer,No,QLD,Age : 41 - 60,General
+Mitchell,MacCague,Male,Manufacturing,Mass Customer,No,VIC,Age : 41 - 60,Very Important
+Moina,Rosenbaum,Female,IT,Mass Customer,No,VIC,Age : 0 - 20,Not Important
+Moll,Ogilby,Female,Manufacturing,Mass Customer,Yes,QLD,Age : 21 - 40,Important
+Morganica,Ainsbury,Female,Entertainment,High Net Worth,Yes,NSW,Age : 41 - 60,Not Important
+Morganica,Bentke,Female,IT,Affluent Customer,Yes,VIC,Age : 41 - 60,Not Important
+Morgen,Newport,Female,Manufacturing,Mass Customer,No,VIC,Age : 41 - 60,Very Important
+Morly,Genery,Male,Property,Mass Customer,No,NSW,Age : 41 - 60,Important
+Morton,Petkens,Male,Manufacturing,High Net Worth,Yes,VIC,Age : 21 - 40,General
+Muffin,Grigolon,Male,Telecommunications,Mass Customer,No,NSW,Age : 21 - 40,Not Important
+Murial,Bulloch,Female,Financial Services,Mass Customer,No,NSW,Age : 41 - 60,Very Important
+My,Chaston,Male,Manufacturing,Affluent Customer,Yes,VIC,Age : 41 - 60,General
+Myrtie,Ostrich,Female,Property,Affluent Customer,Yes,NSW,Age : 21 - 40,General
+Nadiya,Balasini,Female,Financial Services,Mass Customer,No,NSW,Age : 61 - 80,General
+Nalani,Hallad,Female,Health,Affluent Customer,Yes,VIC,Age : 0 - 20,Not Important
+Nancie,Vian,Female,Retail,Mass Customer,Yes,QLD,Age : 41 - 60,General
+Nanni,Girodias,Female,Retail,High Net Worth,No,NSW,Age : 61 - 80,Not Important
+Natividad,Balducci,Female,Property,High Net Worth,Yes,VIC,Age : 21 - 40,Not Important
+Neile,Argent,Female,Retail,Mass Customer,No,NSW,Age : 61 - 80,Not Important
+Nev,Prosh,Male,Health,Affluent Customer,Yes,NSW,Age : 61 - 80,Not Important
+Nichole,Leisman,Male,Property,Affluent Customer,No,NSW,Age : 21 - 40,General
+Nico,Chadwick,Male,Financial Services,Affluent Customer,No,VIC,Age : 61 - 80,Not Important
+Nicol,Bertot,Female,Financial Services,Affluent Customer,Yes,VIC,Age : 41 - 60,General
+Nicol,Swinford,Male,Property,High Net Worth,No,QLD,Age : 41 - 60,Not Important
+Nicole,Ruckhard,Female,Health,Affluent Customer,Yes,QLD,Age : 41 - 60,General
+Nil,Shirer,Male,Entertainment,Mass Customer,Yes,VIC,Age : 21 - 40,Not Important
+Nils,Champion,Male,Retail,Affluent Customer,No,NSW,Age : 21 - 40,General
+Nilson,Wiggam,Male,Financial Services,Mass Customer,No,VIC,Age : 21 - 40,Important
+Nixie,Shoesmith,Female,Retail,Affluent Customer,No,QLD,Age : 61 - 80,Not Important
+Noak,Sleany,Male,Financial Services,Affluent Customer,No,VIC,Age : 41 - 60,General
+Noami,Cokly,Female,Manufacturing,Mass Customer,Yes,NSW,Age : 41 - 60,Very Important
+Nobe,Trowsdale,Male,Financial Services,Mass Customer,No,VIC,Age : 41 - 60,Important
+Noel,Sturch,Female,Health,Mass Customer,No,VIC,Age : 61 - 80,Not Important
+Nolly,Ivanchikov,Male,Manufacturing,High Net Worth,Yes,NSW,Age : 21 - 40,Important
+Nora,Anselm,Female,Entertainment,High Net Worth,Yes,QLD,Age : 41 - 60,Not Important
+Norah,Mapis,Female,Argiculture,Mass Customer,No,NSW,Age : 0 - 20,Not Important
+Norina,Blakeway,Female,Property,Mass Customer,Yes,VIC,Age : 21 - 40,General
+Nowell,Preddy,Male,Manufacturing,Mass Customer,No,NSW,Age : 21 - 40,Very Important
+Odessa,Mc Andrew,Female,Property,Mass Customer,No,NSW,Age : 21 - 40,Important
+Odilia,Quick,Female,Manufacturing,Affluent Customer,Yes,NSW,Age : 81 - 100,General
+Ogdan,Blenkinship,Male,Health,Mass Customer,Yes,VIC,Age : 61 - 80,Not Important
+Olag,,Male,Telecommunications,Mass Customer,No,NSW,Age : 21 - 40,Not Important
+Olia,O' Mullan,Female,Health,Mass Customer,No,NSW,Age : 41 - 60,Very Important
+Olive,Mozzi,Female,Retail,Affluent Customer,Yes,NSW,Age : 61 - 80,Not Important
+Omero,McDonand,Male,Manufacturing,Mass Customer,No,NSW,Age : 61 - 80,General
+Opal,Cleare,Female,Property,Affluent Customer,Yes,NSW,Age : 41 - 60,General
+Orly,Nesbitt,Female,Manufacturing,High Net Worth,Yes,VIC,Age : 21 - 40,General
+Ossie,Midden,Male,Manufacturing,Mass Customer,Yes,NSW,Age : 61 - 80,General
+Oswald,MacCarlich,Male,Entertainment,Mass Customer,No,QLD,Age : 21 - 40,Not Important
+Otes,Elegood,Male,Financial Services,High Net Worth,No,NSW,Age : 61 - 80,Not Important
+Otha,Langworthy,Female,Financial Services,Mass Customer,Yes,VIC,Age : 41 - 60,Very Important
+Otis,,Male,Manufacturing,Affluent Customer,No,NSW,Age : 41 - 60,Very Important
+Pace,Clemonts,Male,Retail,High Net Worth,No,VIC,Age : 21 - 40,Not Important
+Packston,Wackett,Male,Financial Services,Mass Customer,No,VIC,Age : 61 - 80,Not Important
+Padriac,Collacombe,Male,Health,Affluent Customer,No,NSW,Age : 41 - 60,Important
+Palmer,Heaven,Male,Financial Services,Affluent Customer,Yes,VIC,Age : 21 - 40,General
+Pansie,Beccero,Female,Financial Services,Affluent Customer,Yes,QLD,Age : 41 - 60,General
+Paquito,Atwood,Male,Manufacturing,Affluent Customer,No,VIC,Age : 41 - 60,General
+Park,,Male,IT,Affluent Customer,No,QLD,Age : 41 - 60,Not Important
+Parnell,Lamprey,Male,Financial Services,High Net Worth,No,NSW,Age : 41 - 60,Very Important
+Paten,Cayet,Male,Manufacturing,Affluent Customer,Yes,VIC,Age : 21 - 40,General
+Patrice,Pariss,Male,Financial Services,Mass Customer,No,QLD,Age : 61 - 80,Not Important
+Patricia,Everix,Female,Health,Mass Customer,No,NSW,Age : 41 - 60,Very Important
+Paulina,Iannuzzelli,Female,Manufacturing,Mass Customer,No,NSW,Age : 61 - 80,General
+Penrod,Tomasicchio,Male,Health,High Net Worth,No,NSW,Age : 41 - 60,Important
+Peria,Rantoull,Female,Financial Services,Mass Customer,No,QLD,Age : 41 - 60,Important
+Perry,Whitehurst,Male,Manufacturing,High Net Worth,Yes,VIC,Age : 21 - 40,General
+Petr,Westman,Male,Property,Mass Customer,No,QLD,Age : 21 - 40,General
+Philbert,Bangs,Male,IT,Mass Customer,Yes,QLD,Age : 41 - 60,Not Important
+Philbert,Raraty,Male,Manufacturing,Mass Customer,No,NSW,Age : 61 - 80,General
+Phyllis,Wibberley,Female,Retail,Affluent Customer,No,NSW,Age : 41 - 60,General
+Pierrette,Gummie,Female,Retail,Affluent Customer,No,VIC,Age : 41 - 60,General
+Piper,Issacov,Female,Health,Affluent Customer,Yes,NSW,Age : 61 - 80,Not Important
+Porter,Buckenhill,Male,Manufacturing,High Net Worth,Yes,QLD,Age : 61 - 80,Not Important
+Poul,Gaskin,Male,Telecommunications,High Net Worth,No,NSW,Age : 61 - 80,Not Important
+Queenie,Learie,Female,Property,Mass Customer,No,NSW,Age : 61 - 80,Not Important
+Quentin,Gerleit,Female,Manufacturing,Mass Customer,No,VIC,Age : 21 - 40,Important
+Raff,Waycott,Male,Manufacturing,Affluent Customer,Yes,VIC,Age : 61 - 80,Not Important
+Rafi,Brettelle,Male,Health,High Net Worth,No,NSW,Age : 61 - 80,Not Important
+Raleigh,Pont,Male,Entertainment,Mass Customer,No,VIC,Age : 41 - 60,Not Important
+Randall,Mason,Male,Health,Mass Customer,Yes,NSW,Age : 41 - 60,Very Important
+Raye,Roo,Female,Financial Services,Mass Customer,Yes,VIC,Age : 41 - 60,Very Important
+Raynard,,Male,Health,Affluent Customer,No,QLD,Age : 21 - 40,General
+Rebeca,Aggas,Female,Health,Affluent Customer,No,VIC,Age : 61 - 80,Not Important
+Reggie,Kernar,Female,Financial Services,High Net Worth,No,NSW,Age : 41 - 60,Very Important
+Regine,Bownes,Female,Retail,Affluent Customer,No,VIC,Age : 61 - 80,Not Important
+Reiko,Degenhardt,Female,Financial Services,High Net Worth,Yes,QLD,Age : 41 - 60,General
+Reinald,Bembrigg,Male,Financial Services,Affluent Customer,No,NSW,Age : 61 - 80,Not Important
+Reinaldos,Simmig,Male,Manufacturing,High Net Worth,No,VIC,Age : 61 - 80,Not Important
+Reinhard,Oscroft,Male,Health,High Net Worth,No,VIC,Age : 61 - 80,Not Important
+Reinold,Natt,Male,Financial Services,High Net Worth,Yes,VIC,Age : 41 - 60,General
+Renate,Whyte,Female,Health,High Net Worth,Yes,NSW,Age : 41 - 60,Important
+Renell,Earley,Female,Financial Services,Mass Customer,Yes,QLD,Age : 61 - 80,Not Important
+Renie,Fiveash,Female,Health,High Net Worth,No,QLD,Age : 21 - 40,General
+Renie,Laundon,Female,Entertainment,Mass Customer,Yes,QLD,Age : 41 - 60,Not Important
+Reynold,Elman,Male,Manufacturing,Mass Customer,No,NSW,Age : 61 - 80,General
+Rhona,De Freyne,Female,Health,High Net Worth,No,VIC,Age : 41 - 60,General
+Rickert,Brasted,Male,Health,Mass Customer,No,NSW,Age : 61 - 80,General
+Ricki,Dobrowski,Male,Manufacturing,Mass Customer,Yes,NSW,Age : 41 - 60,Very Important
+Ricki,Padefield,Male,Manufacturing,Affluent Customer,Yes,QLD,Age : 61 - 80,Not Important
+Riki,Wandtke,Female,Entertainment,Mass Customer,Yes,QLD,Age : 41 - 60,Not Important
+Rikki,Chaffey,Male,Manufacturing,Mass Customer,No,QLD,Age : 61 - 80,Not Important
+Robenia,Monks,Female,Manufacturing,Mass Customer,No,QLD,Age : 61 - 80,Not Important
+Robert,Corkill,Male,Health,Mass Customer,No,NSW,Age : 41 - 60,Very Important
+Roberta,Goodale,Female,Property,Mass Customer,Yes,QLD,Age : 61 - 80,Not Important
+Roch,Symson,Female,Manufacturing,High Net Worth,No,VIC,Age : 41 - 60,General
+Rochette,Haddacks,Female,Retail,Affluent Customer,Yes,VIC,Age : 21 - 40,Not Important
+Rockwell,Matson,Male,Retail,High Net Worth,No,QLD,Age : 21 - 40,Not Important
+Roddy,Rubinshtein,Male,Retail,Mass Customer,Yes,QLD,Age : 21 - 40,General
+Rodney,Trethewey,Male,Financial Services,Affluent Customer,No,VIC,Age : 21 - 40,General
+Rodolph,Denniss,Male,Property,Affluent Customer,Yes,VIC,Age : 41 - 60,Not Important
+Rodolphe,Glenton,Male,Financial Services,Affluent Customer,No,VIC,Age : 41 - 60,General
+Rodrique,Vernon,Male,Manufacturing,Affluent Customer,No,VIC,Age : 41 - 60,General
+Roldan,Raybould,Male,Financial Services,Mass Customer,No,VIC,Age : 41 - 60,Important
+Rolland,Esmead,Male,Health,Affluent Customer,No,NSW,Age : 61 - 80,Not Important
+Rollo,Louedey,Male,Telecommunications,Affluent Customer,Yes,NSW,Age : 61 - 80,Not Important
+Roman,Eastwood,Male,Manufacturing,Affluent Customer,Yes,VIC,Age : 41 - 60,General
+Roseanne,Caruth,Female,Health,Mass Customer,No,NSW,Age : 61 - 80,General
+Rosemonde,Cartwight,Female,Retail,Mass Customer,Yes,QLD,Age : 61 - 80,Not Important
+Rosene,Beckey,Female,Health,Mass Customer,Yes,NSW,Age : 41 - 60,Very Important
+Rosmunda,Duxbarry,Female,Property,Affluent Customer,Yes,QLD,Age : 21 - 40,Not Important
+Ross,Vidgen,Male,Retail,Affluent Customer,No,QLD,Age : 61 - 80,Not Important
+Rourke,Gillbard,Male,Property,Mass Customer,No,QLD,Age : 61 - 80,Not Important
+Rowan,Summerly,Male,Entertainment,Mass Customer,No,NSW,Age : 41 - 60,General
+Rowen,Sollas,Male,Health,Mass Customer,No,QLD,Age : 41 - 60,Important
+Rozamond,Riha,Female,Manufacturing,Affluent Customer,Yes,QLD,Age : 21 - 40,General
+Rozamond,Sommer,Female,IT,Affluent Customer,Yes,VIC,Age : 41 - 60,Not Important
+Rubia,Evetts,Female,Health,Mass Customer,No,NSW,Age : 21 - 40,Very Important
+Rupert,Marrow,Male,Property,High Net Worth,No,NSW,Age : 41 - 60,General
+Rutledge,Hallt,Male,Financial Services,Mass Customer,No,NSW,Age : 41 - 60,Very Important
+Sada,Branton,Female,Manufacturing,Affluent Customer,No,VIC,Age : 41 - 60,General
+Salomon,Perkins,Male,Financial Services,Affluent Customer,Yes,NSW,Age : 21 - 40,Important
+Sammy,Borsi,Female,Financial Services,Mass Customer,No,NSW,Age : 41 - 60,Very Important
+Sandor,Stirland,Male,Manufacturing,High Net Worth,No,VIC,Age : 21 - 40,General
+Sawyer,Sponton,Male,Property,Mass Customer,Yes,NSW,Age : 61 - 80,Not Important
+Seamus,Cains,Male,Manufacturing,High Net Worth,No,NSW,Age : 21 - 40,Important
+Sean,O'Loughlin,Male,Manufacturing,High Net Worth,Yes,NSW,Age : 41 - 60,Very Important
+Selle,Casper,Female,Health,Mass Customer,Yes,NSW,Age : 41 - 60,Very Important
+Shadow,Yakutin,Male,Health,Affluent Customer,Yes,QLD,Age : 41 - 60,General
+Shane,Diss,Female,Financial Services,High Net Worth,Yes,VIC,Age : 21 - 40,General
+Shane,Killen,Male,Entertainment,High Net Worth,No,NSW,Age : 61 - 80,Not Important
+Shannen,Lewin,Female,Argiculture,High Net Worth,No,QLD,Age : 21 - 40,Not Important
+Shanon,Rolfe,Female,Retail,High Net Worth,No,NSW,Age : 61 - 80,Not Important
+Sharai,Priddie,Female,Retail,Mass Customer,No,NSW,Age : 41 - 60,Very Important
+Sharron,Claibourn,Female,Financial Services,High Net Worth,Yes,NSW,Age : 21 - 40,Important
+Shaw,MacEvilly,Male,Health,Affluent Customer,No,NSW,Age : 0 - 20,Not Important
+Shawna,Hinrichsen,Female,Manufacturing,Affluent Customer,Yes,NSW,Age : 41 - 60,Very Important
+Shay,Briand,Male,IT,Mass Customer,Yes,VIC,Age : 61 - 80,Not Important
+Sheena,Kybbye,Female,Financial Services,Affluent Customer,Yes,QLD,Age : 61 - 80,Not Important
+Shelli,Bartholomaus,Female,Health,Mass Customer,Yes,VIC,Age : 41 - 60,Important
+Shellysheldon,Bichard,Male,Financial Services,Mass Customer,Yes,QLD,Age : 61 - 80,Not Important
+Shepherd,Dutchburn,Male,Financial Services,High Net Worth,Yes,NSW,Age : 41 - 60,Very Important
+Shepperd,Leonards,Male,Manufacturing,Mass Customer,Yes,NSW,Age : 21 - 40,Very Important
+Shepperd,Ricards,Male,Health,Mass Customer,Yes,NSW,Age : 41 - 60,Very Important
+Sherill,,Female,Financial Services,Mass Customer,No,NSW,Age : 21 - 40,Very Important
+Sherilyn,Canero,Female,Health,High Net Worth,Yes,NSW,Age : 21 - 40,Important
+Sherrie,Godleman,Female,Manufacturing,Mass Customer,No,VIC,Age : 41 - 60,Very Important
+Sibby,Skinner,Female,Manufacturing,Mass Customer,Yes,QLD,Age : 21 - 40,Important
+Sibylla,Kibble,Female,Health,High Net Worth,No,NSW,Age : 41 - 60,Important
+Sid,Carlone,Male,Health,Affluent Customer,No,QLD,Age : 41 - 60,General
+Sigismund,Sedger,Male,Manufacturing,Affluent Customer,No,NSW,Age : 0 - 20,Not Important
+Sile,Zappel,Female,IT,High Net Worth,No,QLD,Age : 61 - 80,Not Important
+Sim,Constantinou,Male,Property,Mass Customer,No,NSW,Age : 21 - 40,Important
+Simmonds,Bapty,Male,Financial Services,Affluent Customer,No,NSW,Age : 0 - 20,Not Important
+Simonette,,Female,Manufacturing,Affluent Customer,Yes,NSW,Age : 21 - 40,Important
+Sinclair,Wark,Male,Financial Services,Mass Customer,Yes,NSW,Age : 41 - 60,Very Important
+Sindee,Jasik,Female,Health,Mass Customer,Yes,QLD,Age : 61 - 80,Not Important
+Skipp,Swales,Male,Entertainment,High Net Worth,Yes,VIC,Age : 41 - 60,Not Important
+Skippie,Yearsley,Male,Financial Services,Mass Customer,No,QLD,Age : 61 - 80,Not Important
+Sloan,Pudney,Male,Financial Services,Affluent Customer,No,QLD,Age : 41 - 60,General
+Sofie,Worsfold,Female,Retail,Mass Customer,Yes,QLD,Age : 61 - 80,Not Important
+Solomon,Bruck,Male,Health,Mass Customer,No,QLD,Age : 61 - 80,Not Important
+Son,Varney,Male,Property,Mass Customer,Yes,NSW,Age : 21 - 40,Important
+Sonia,Dunstall,Female,Financial Services,Mass Customer,No,NSW,Age : 41 - 60,Very Important
+Sonni,Milligan,Female,Retail,Mass Customer,Yes,VIC,Age : 21 - 40,General
+Sonny,McCart,Male,Manufacturing,High Net Worth,No,VIC,Age : 21 - 40,General
+Stearne,Trolley,Male,Financial Services,High Net Worth,No,NSW,Age : 21 - 40,Important
+Stephani,Sidsaff,Female,Financial Services,Mass Customer,Yes,NSW,Age : 41 - 60,Very Important
+Stephen,Tittershill,Male,Financial Services,High Net Worth,No,VIC,Age : 21 - 40,General
+Stephi,Highton,Female,Telecommunications,Mass Customer,Yes,NSW,Age : 21 - 40,Not Important
+Sumner,Carrivick,Male,Manufacturing,Mass Customer,No,NSW,Age : 21 - 40,Very Important
+Sunny,Christescu,Female,Financial Services,Mass Customer,No,NSW,Age : 41 - 60,Very Important
+Suzy,Bussens,Female,Financial Services,Mass Customer,No,QLD,Age : 41 - 60,Important
+Suzy,Trounson,Female,Financial Services,Mass Customer,Yes,QLD,Age : 61 - 80,Not Important
+Sybilla,MacCart,Female,Financial Services,Mass Customer,Yes,NSW,Age : 21 - 40,Very Important
+Sylas,Duffill,Male,Property,Mass Customer,Yes,NSW,Age : 61 - 80,Not Important
+Symon,Mawne,Male,Property,Mass Customer,Yes,VIC,Age : 61 - 80,Not Important
+Tabbie,Curner,Male,Retail,Mass Customer,No,VIC,Age : 21 - 40,General
+Taber,Szymon,Male,Argiculture,Affluent Customer,No,QLD,Age : 61 - 80,Not Important
+Tamar,Windmill,Female,Manufacturing,Affluent Customer,No,NSW,Age : 81 - 100,General
+Tanner,Terlinden,Male,Manufacturing,Mass Customer,No,VIC,Age : 21 - 40,Important
+Tannie,Gambrell,Male,Financial Services,Affluent Customer,No,QLD,Age : 41 - 60,General
+Tannie,Petrakov,Male,IT,Affluent Customer,No,QLD,Age : 61 - 80,Not Important
+Tanya,Kiefer,Female,Telecommunications,High Net Worth,No,NSW,Age : 21 - 40,Not Important
+Taylor,Steuhlmeyer,Male,Financial Services,Affluent Customer,Yes,QLD,Age : 21 - 40,General
+Ted,Izacenko,Male,Entertainment,High Net Worth,No,VIC,Age : 61 - 80,Not Important
+Teddie,Burchill,Male,Manufacturing,Mass Customer,Yes,NSW,Age : 41 - 60,Very Important
+Teodor,Mullinder,Male,Manufacturing,High Net Worth,No,VIC,Age : 41 - 60,General
+Terrel,Keynd,Male,Manufacturing,Mass Customer,No,QLD,Age : 41 - 60,Important
+Terrence,Dalligan,Male,Manufacturing,High Net Worth,Yes,VIC,Age : 21 - 40,General
+Tessa,Friese,Female,Financial Services,Mass Customer,No,QLD,Age : 41 - 60,Important
+Tessa,Heakey,Female,Financial Services,Mass Customer,No,VIC,Age : 41 - 60,Very Important
+Thaddus,Joder,Male,Manufacturing,Mass Customer,No,NSW,Age : 61 - 80,General
+Thaxter,Kingsbury,Male,Argiculture,Mass Customer,No,NSW,Age : 61 - 80,Not Important
+Theresa,Cowper,Female,Manufacturing,Mass Customer,No,NSW,Age : 41 - 60,Very Important
+Therese,Brotherhood,Female,Health,Mass Customer,No,NSW,Age : 21 - 40,Very Important
+Theresina,,Female,Argiculture,Mass Customer,Yes,NSW,Age : 21 - 40,General
+Thorn,Stigers,Male,Financial Services,Mass Customer,No,QLD,Age : 41 - 60,Important
+Thorvald,Duckerin,Male,Manufacturing,Affluent Customer,Yes,VIC,Age : 21 - 40,General
+Tillie,Bisseker,Female,Manufacturing,High Net Worth,No,NSW,Age : 41 - 60,Very Important
+Timi,Duny,Female,Telecommunications,High Net Worth,No,NSW,Age : 61 - 80,Not Important
+Tina,Dunstan,Female,Retail,Affluent Customer,No,NSW,Age : 81 - 100,Not Important
+Tiphanie,Blackader,Female,Retail,Mass Customer,No,NSW,Age : 61 - 80,Not Important
+Tobiah,Heinsius,Male,Health,High Net Worth,No,NSW,Age : 0 - 20,Not Important
+Tobias,Woodhams,Male,Health,Mass Customer,No,NSW,Age : 41 - 60,Very Important
+Toma,Woolforde,Female,Financial Services,Mass Customer,Yes,NSW,Age : 21 - 40,Very Important
+Tomaso,Horsley,Male,Financial Services,Mass Customer,Yes,VIC,Age : 0 - 20,Not Important
+Tomkin,Bernlin,Male,Health,Affluent Customer,Yes,NSW,Age : 0 - 20,Not Important
+Torry,de la Valette Parisot,Male,Telecommunications,Mass Customer,Yes,VIC,Age : 41 - 60,Not Important
+Tristam,Larose,Male,Financial Services,Mass Customer,No,NSW,Age : 21 - 40,Very Important
+Trudie,Phinnessy,Female,Financial Services,Mass Customer,Yes,VIC,Age : 41 - 60,Very Important
+Truman,Arlett,Male,Manufacturing,High Net Worth,Yes,NSW,Age : 61 - 80,Not Important
+Tyne,Coate,Female,Manufacturing,Mass Customer,No,NSW,Age : 41 - 60,Very Important
+Valerie,Pickover,Female,Financial Services,Mass Customer,No,NSW,Age : 41 - 60,Very Important
+Verla,Dumingos,Female,Telecommunications,Mass Customer,Yes,VIC,Age : 41 - 60,Not Important
+Verne,Loalday,Male,IT,High Net Worth,No,NSW,Age : 21 - 40,Not Important
+Viki,Coutts,Female,Property,Mass Customer,Yes,NSW,Age : 61 - 80,Not Important
+Vincent,Jopke,Male,Property,Affluent Customer,No,VIC,Age : 41 - 60,Not Important
+Vinny,Incogna,Female,Health,High Net Worth,No,NSW,Age : 61 - 80,Not Important
+Virginia,De Antoni,Female,Telecommunications,High Net Worth,Yes,NSW,Age : 41 - 60,Not Important
+Vitia,Axtens,Female,Financial Services,Mass Customer,Yes,NSW,Age : 61 - 80,General
+Vladimir,Westmerland,Male,Manufacturing,Mass Customer,Yes,NSW,Age : 61 - 80,General
+Vyky,Pegg,Female,Manufacturing,Mass Customer,Yes,NSW,Age : 61 - 80,General
+Wallace,Newart,Male,IT,Mass Customer,No,QLD,Age : 41 - 60,Not Important
+Weidar,Etheridge,Male,Financial Services,Mass Customer,Yes,NSW,Age : 61 - 80,General
+Welby,Lourenco,Male,Financial Services,High Net Worth,Yes,NSW,Age : 41 - 60,Very Important
+Wendye,Kleinplatz,Female,Manufacturing,Affluent Customer,No,QLD,Age : 21 - 40,General
+Wheeler,Godsil,Male,Manufacturing,Affluent Customer,Yes,NSW,Age : 21 - 40,Important
+Wheeler,Winward,Male,Manufacturing,Mass Customer,No,VIC,Age : 21 - 40,Important
+Whit,Emloch,Male,Health,Mass Customer,Yes,NSW,Age : 41 - 60,Very Important
+Wilbert,O'Loughnan,Male,Financial Services,Mass Customer,Yes,QLD,Age : 21 - 40,Important
+Wilburt,Padden,Male,Manufacturing,Mass Customer,No,NSW,Age : 21 - 40,Very Important
+Wilfrid,Gertray,Male,Financial Services,Mass Customer,No,NSW,Age : 61 - 80,General
+Willard,Booton,Male,Health,High Net Worth,Yes,NSW,Age : 81 - 100,Not Important
+Wilone,Champley,Female,Manufacturing,High Net Worth,No,NSW,Age : 21 - 40,Important
+Winn,Wells,Male,Manufacturing,Affluent Customer,No,NSW,Age : 21 - 40,Important
+Winnifred,Beswetherick,Female,Financial Services,Mass Customer,No,VIC,Age : 41 - 60,Very Important
+Wolf,Craft,Male,Retail,Affluent Customer,Yes,NSW,Age : 21 - 40,General
+Worthington,Ahmed,Male,Financial Services,High Net Worth,No,VIC,Age : 41 - 60,General
+Worthington,Cohane,Male,Entertainment,High Net Worth,No,NSW,Age : 21 - 40,Not Important
+Wrennie,Dwelly,Female,Manufacturing,Mass Customer,No,VIC,Age : 61 - 80,Not Important
+Wylie,Huntingdon,Male,Financial Services,Mass Customer,No,NSW,Age : 41 - 60,Very Important
+Wyn,Meach,Male,Manufacturing,Mass Customer,No,NSW,Age : 81 - 100,Very Important
+Wyn,Saynor,Male,Financial Services,High Net Worth,No,NSW,Age : 41 - 60,Very Important
+Wyndham,Woolford,Male,Manufacturing,Mass Customer,No,VIC,Age : 21 - 40,Important
+Xenia,Maleck,Female,Telecommunications,Mass Customer,No,VIC,Age : 41 - 60,Not Important
+Yardley,Matten,Male,Financial Services,Mass Customer,No,QLD,Age : 21 - 40,Important
+Yorgos,Dewhurst,Male,Argiculture,Affluent Customer,No,QLD,Age : 61 - 80,Not Important
+Yuma,Dennick,Male,Manufacturing,Mass Customer,Yes,NSW,Age : 41 - 60,Very Important
+Zabrina,Margram,Female,Manufacturing,High Net Worth,Yes,QLD,Age : 41 - 60,General
+Zach,Hedman,Male,Financial Services,Affluent Customer,Yes,NSW,Age : 21 - 40,Important
+Zachariah,Meininking,Male,Financial Services,Affluent Customer,Yes,NSW,Age : 81 - 100,General
+Zechariah,McReidy,Male,Manufacturing,High Net Worth,No,QLD,Age : 41 - 60,General
+Zollie,Crinidge,Male,Retail,Mass Customer,Yes,QLD,Age : 21 - 40,General
+Zondra,Ringham,Female,Financial Services,Mass Customer,Yes,QLD,Age : 61 - 80,Not Important

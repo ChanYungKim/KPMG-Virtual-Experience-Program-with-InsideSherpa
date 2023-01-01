@@ -1,0 +1,819 @@
+,first_name,last_name,gender,DOB,job_industry_category,wealth_segment,owns_car,state,AGE,Age_Groups
+0,Chickie,Brister,Male,1957-07-12,Manufacturing,Mass Customer,Yes,QLD,63.0,Age : 61 - 80
+1,Morly,Genery,Male,1970-03-22,Property,Mass Customer,No,NSW,50.0,Age : 41 - 60
+2,Ardelis,Forrester,Female,1974-08-28,Financial Services,Affluent Customer,No,VIC,46.0,Age : 41 - 60
+3,Lucine,Stutt,Female,1979-01-28,Manufacturing,Affluent Customer,Yes,QLD,41.0,Age : 41 - 60
+4,Melinda,Hadlee,Female,1965-09-21,Financial Services,Affluent Customer,No,NSW,54.0,Age : 41 - 60
+5,Druci,Brandli,Female,1951-04-29,Entertainment,High Net Worth,Yes,QLD,69.0,Age : 61 - 80
+6,Rutledge,Hallt,Male,1976-10-06,Financial Services,Mass Customer,No,NSW,43.0,Age : 41 - 60
+7,Nancie,Vian,Female,1972-12-27,Retail,Mass Customer,Yes,QLD,47.0,Age : 41 - 60
+8,Duff,Karlowicz,Male,1972-04-28,Manufacturing,Mass Customer,Yes,NSW,48.0,Age : 41 - 60
+9,Barthel,Docket,Male,1985-08-02,IT,Mass Customer,Yes,QLD,35.0,Age : 21 - 40
+10,Rockwell,Matson,Male,1995-01-01,Retail,High Net Worth,No,QLD,25.0,Age : 21 - 40
+11,Wheeler,Winward,Male,1999-08-30,Manufacturing,Mass Customer,No,VIC,21.0,Age : 21 - 40
+12,Olag,,Male,1990-05-13,Telecommunications,Mass Customer,No,NSW,30.0,Age : 21 - 40
+13,Melba,Spellacy,Female,1976-12-09,Health,Mass Customer,No,NSW,43.0,Age : 41 - 60
+14,Mandie,Feares,Female,1964-04-19,Health,Mass Customer,No,QLD,56.0,Age : 41 - 60
+15,Dukie,Swire,Male,1954-03-31,Manufacturing,Affluent Customer,Yes,NSW,66.0,Age : 61 - 80
+16,Marcelia,Monkleigh,Female,1993-08-22,Manufacturing,Mass Customer,Yes,QLD,27.0,Age : 21 - 40
+17,Winnifred,Beswetherick,Female,1976-06-08,Financial Services,Mass Customer,No,VIC,44.0,Age : 41 - 60
+18,Odilia,Quick,Female,1938-11-09,Manufacturing,Affluent Customer,Yes,NSW,81.0,Age : 81 - 100
+19,Karly,Willavize,Female,1954-08-12,Manufacturing,High Net Worth,No,NSW,66.0,Age : 61 - 80
+20,Teddie,Burchill,Male,1968-12-21,Manufacturing,Mass Customer,Yes,NSW,51.0,Age : 41 - 60
+21,Gaston,Dallaghan,Male,1993-09-29,Financial Services,Mass Customer,Yes,NSW,26.0,Age : 21 - 40
+24,Brena,Schnitter,Female,1982-10-11,Manufacturing,Mass Customer,No,QLD,37.0,Age : 21 - 40
+25,Rourke,Gillbard,Male,1945-08-03,Property,Mass Customer,No,QLD,75.0,Age : 61 - 80
+26,Dyane,Burwell,Female,1952-06-27,Retail,Mass Customer,Yes,NSW,68.0,Age : 61 - 80
+27,Claudine,Barstowk,Female,1966-07-20,Property,High Net Worth,Yes,QLD,54.0,Age : 41 - 60
+28,Blinnie,Roze,Female,1960-12-10,Entertainment,High Net Worth,No,QLD,59.0,Age : 41 - 60
+29,Rhona,De Freyne,Female,1960-11-22,Health,High Net Worth,No,VIC,59.0,Age : 41 - 60
+30,Sharron,Claibourn,Female,1980-01-26,Financial Services,High Net Worth,Yes,NSW,40.0,Age : 21 - 40
+31,Brien,Heaton,Male,1951-11-28,Health,Mass Customer,Yes,NSW,68.0,Age : 61 - 80
+32,Sybilla,MacCart,Female,1987-01-15,Financial Services,Mass Customer,Yes,NSW,33.0,Age : 21 - 40
+34,Maisie,Maddox,Female,1977-05-09,Financial Services,Affluent Customer,No,VIC,43.0,Age : 41 - 60
+35,Arleen,Casbolt,Female,1975-05-10,Financial Services,Affluent Customer,Yes,QLD,45.0,Age : 41 - 60
+37,Mitchell,MacCague,Male,1979-04-11,Manufacturing,Mass Customer,No,VIC,41.0,Age : 41 - 60
+38,Garik,Whitwell,Male,1955-06-13,Property,Mass Customer,Yes,VIC,65.0,Age : 61 - 80
+39,Antonin,Britt,Male,1993-08-28,Manufacturing,Affluent Customer,Yes,NSW,27.0,Age : 21 - 40
+40,Vinny,Incogna,Female,1953-02-13,Health,High Net Worth,No,NSW,67.0,Age : 61 - 80
+41,Colene,Fishleigh,Female,1985-03-14,Financial Services,Mass Customer,No,VIC,35.0,Age : 21 - 40
+42,Neile,Argent,Female,1946-10-25,Retail,Mass Customer,No,NSW,73.0,Age : 61 - 80
+45,Gipsy,Ewestace,Female,1956-08-30,Retail,High Net Worth,Yes,NSW,64.0,Age : 61 - 80
+46,Sheena,Kybbye,Female,1956-07-16,Financial Services,Affluent Customer,Yes,QLD,64.0,Age : 61 - 80
+48,Gale,Disbrow,Female,1977-05-14,Financial Services,Mass Customer,Yes,VIC,43.0,Age : 41 - 60
+49,Thaxter,Kingsbury,Male,1950-05-03,Argiculture,Mass Customer,No,NSW,70.0,Age : 61 - 80
+50,Heinrick,Shilstone,Male,1978-02-11,Manufacturing,Affluent Customer,No,VIC,42.0,Age : 41 - 60
+51,Taylor,Steuhlmeyer,Male,1999-03-22,Financial Services,Affluent Customer,Yes,QLD,21.0,Age : 21 - 40
+52,Griswold,Kelsall,Male,1993-12-19,Health,High Net Worth,Yes,VIC,26.0,Age : 21 - 40
+53,Odessa,Mc Andrew,Female,1981-12-01,Property,Mass Customer,No,NSW,38.0,Age : 21 - 40
+54,Lavena,Seekings,Female,1995-03-25,Retail,Mass Customer,No,VIC,25.0,Age : 21 - 40
+55,Martelle,Tuppeny,Female,1981-02-03,Manufacturing,Mass Customer,No,NSW,39.0,Age : 21 - 40
+56,Briant,Ladley,Male,1979-12-17,Argiculture,Mass Customer,No,NSW,40.0,Age : 21 - 40
+60,Lorrie,Antonelli,Male,1983-02-11,Financial Services,High Net Worth,Yes,NSW,37.0,Age : 21 - 40
+61,Jedediah,Kedie,Male,1971-12-29,Argiculture,Mass Customer,Yes,NSW,48.0,Age : 41 - 60
+62,Kaine,Smallcombe,Male,1942-02-06,Financial Services,High Net Worth,No,NSW,78.0,Age : 61 - 80
+63,Loise,Iltchev,Female,1967-03-18,Manufacturing,High Net Worth,Yes,QLD,53.0,Age : 41 - 60
+64,Cristen,Maroney,Female,1999-11-21,IT,High Net Worth,Yes,QLD,20.0,Age : 0 - 20
+65,Dorothy,Barnardo,Female,1983-02-01,Retail,High Net Worth,No,NSW,37.0,Age : 21 - 40
+66,Rosmunda,Duxbarry,Female,1996-07-20,Property,Affluent Customer,Yes,QLD,24.0,Age : 21 - 40
+67,Rozamond,Riha,Female,1984-10-07,Manufacturing,Affluent Customer,Yes,QLD,35.0,Age : 21 - 40
+68,Gunner,Petti,Male,1999-06-08,Financial Services,High Net Worth,Yes,QLD,21.0,Age : 21 - 40
+70,Sherilyn,Canero,Female,1996-08-03,Health,High Net Worth,Yes,NSW,24.0,Age : 21 - 40
+71,Bessie,Roscow,Female,1994-08-04,Financial Services,Mass Customer,No,NSW,26.0,Age : 21 - 40
+72,Kevina,Ferandez,Female,1999-09-21,Financial Services,High Net Worth,No,QLD,20.0,Age : 0 - 20
+74,Mabelle,Wellbelove,Female,1958-04-21,Financial Services,Affluent Customer,Yes,NSW,62.0,Age : 61 - 80
+75,Hasheem,Groucock,Male,1974-09-17,Manufacturing,High Net Worth,Yes,NSW,46.0,Age : 41 - 60
+76,Tobias,Woodhams,Male,1961-04-15,Health,Mass Customer,No,NSW,59.0,Age : 41 - 60
+77,Glennis,Flintoff,Female,1956-10-22,Health,Affluent Customer,Yes,VIC,63.0,Age : 61 - 80
+78,Chanda,Mensler,Female,1972-01-14,Manufacturing,Mass Customer,Yes,NSW,48.0,Age : 41 - 60
+79,Katheryn,Kinner,Female,1973-11-28,Entertainment,High Net Worth,No,NSW,46.0,Age : 41 - 60
+80,Sumner,Carrivick,Male,1995-04-09,Manufacturing,Mass Customer,No,NSW,25.0,Age : 21 - 40
+81,Valerie,Pickover,Female,1965-09-08,Financial Services,Mass Customer,No,NSW,55.0,Age : 41 - 60
+82,Esther,Rooson,Female,1981-02-22,Financial Services,Mass Customer,No,NSW,39.0,Age : 21 - 40
+83,Gardie,Crellim,Male,1975-09-12,Manufacturing,High Net Worth,No,VIC,45.0,Age : 41 - 60
+84,Sean,O'Loughlin,Male,1961-03-22,Manufacturing,High Net Worth,Yes,NSW,59.0,Age : 41 - 60
+86,Marysa,Rouchy,Female,1999-02-15,Entertainment,Affluent Customer,No,NSW,21.0,Age : 21 - 40
+88,Ossie,Midden,Male,1950-02-10,Manufacturing,Mass Customer,Yes,NSW,70.0,Age : 61 - 80
+89,Sid,Carlone,Male,1971-08-18,Health,Affluent Customer,No,QLD,49.0,Age : 41 - 60
+91,Patricia,Everix,Female,1978-02-19,Health,Mass Customer,No,NSW,42.0,Age : 41 - 60
+92,Andromache,Bonafacino,Female,1977-09-01,Retail,Mass Customer,No,NSW,43.0,Age : 41 - 60
+95,Jehu,Prestedge,Male,1999-10-20,Manufacturing,High Net Worth,Yes,NSW,20.0,Age : 0 - 20
+96,Symon,Mawne,Male,1943-02-08,Property,Mass Customer,Yes,VIC,77.0,Age : 61 - 80
+97,Karlik,Penchen,Male,1994-10-31,Retail,Mass Customer,No,QLD,25.0,Age : 21 - 40
+98,Bengt,Bilson,Male,1972-11-02,Manufacturing,High Net Worth,No,NSW,47.0,Age : 41 - 60
+99,Evangelin,Boc,Female,2000-05-09,Manufacturing,High Net Worth,Yes,VIC,20.0,Age : 0 - 20
+100,Hanny,Treven,Female,1991-01-22,Retail,Mass Customer,No,QLD,29.0,Age : 21 - 40
+101,Gina,Mallon,Female,1994-02-11,Health,Mass Customer,No,QLD,26.0,Age : 21 - 40
+102,Reynold,Elman,Male,1940-01-18,Manufacturing,Mass Customer,No,NSW,80.0,Age : 61 - 80
+103,Flossy,Concannon,Female,1980-10-20,Financial Services,Affluent Customer,No,VIC,39.0,Age : 21 - 40
+104,Cristen,Wiltshire,Female,1961-10-20,Financial Services,High Net Worth,Yes,VIC,58.0,Age : 41 - 60
+105,Griffith,Escot,Male,1946-10-23,IT,Mass Customer,Yes,QLD,73.0,Age : 61 - 80
+106,Jamie,Jiruca,Female,1963-06-16,Argiculture,Mass Customer,No,NSW,57.0,Age : 41 - 60
+107,Lyon,Brittan,Male,1972-04-23,Retail,High Net Worth,No,VIC,48.0,Age : 41 - 60
+109,Michal,Bryan,Female,1969-11-09,Manufacturing,Mass Customer,Yes,QLD,50.0,Age : 41 - 60
+110,Franciska,Stigell,Female,1968-11-15,Health,Mass Customer,Yes,VIC,51.0,Age : 41 - 60
+111,Jordan,Clampe,Male,1939-12-09,Financial Services,Mass Customer,Yes,QLD,80.0,Age : 61 - 80
+113,Meriel,Tapp,Female,1995-08-13,IT,Mass Customer,No,VIC,25.0,Age : 21 - 40
+114,Dolley,Starmont,Female,1977-11-08,Manufacturing,Affluent Customer,No,QLD,42.0,Age : 41 - 60
+115,Frederik,Milan,Male,1997-11-13,Health,Mass Customer,No,NSW,22.0,Age : 21 - 40
+116,Rollo,Louedey,Male,1946-07-09,Telecommunications,Affluent Customer,Yes,NSW,74.0,Age : 61 - 80
+117,Jerrine,Cosbey,Female,1978-01-11,Financial Services,High Net Worth,Yes,VIC,42.0,Age : 41 - 60
+118,Roddy,Rubinshtein,Male,1987-10-08,Retail,Mass Customer,Yes,QLD,32.0,Age : 21 - 40
+119,Viki,Coutts,Female,1952-12-14,Property,Mass Customer,Yes,NSW,67.0,Age : 61 - 80
+120,Ashby,Bispham,Male,1981-10-29,Retail,Affluent Customer,No,NSW,38.0,Age : 21 - 40
+123,Peria,Rantoull,Female,1975-03-13,Financial Services,Mass Customer,No,QLD,45.0,Age : 41 - 60
+125,Elsworth,Abbitt,Male,1956-02-08,Health,Mass Customer,Yes,VIC,64.0,Age : 61 - 80
+126,Rebeca,Aggas,Female,1953-02-27,Health,Affluent Customer,No,VIC,67.0,Age : 61 - 80
+127,Ricki,Dobrowski,Male,1975-03-10,Manufacturing,Mass Customer,Yes,NSW,45.0,Age : 41 - 60
+128,Georgetta,Lovett,Female,1940-02-02,Retail,Mass Customer,No,QLD,80.0,Age : 61 - 80
+129,Bambi,Cogger,Female,1990-07-12,Retail,Affluent Customer,Yes,NSW,30.0,Age : 21 - 40
+130,Aurie,Rhead,Female,1962-07-28,Manufacturing,Affluent Customer,Yes,NSW,58.0,Age : 41 - 60
+133,Nowell,Preddy,Male,1985-07-23,Manufacturing,Mass Customer,No,NSW,35.0,Age : 21 - 40
+134,Lacy,Drance,Female,1978-02-05,Manufacturing,Affluent Customer,Yes,NSW,42.0,Age : 41 - 60
+136,Malorie,Votier,Female,1990-05-29,Manufacturing,Affluent Customer,No,QLD,30.0,Age : 21 - 40
+137,Shepperd,Ricards,Male,1967-09-27,Health,Mass Customer,Yes,NSW,52.0,Age : 41 - 60
+138,Daryl,Pauncefort,Female,1979-06-18,Financial Services,Mass Customer,Yes,NSW,41.0,Age : 41 - 60
+139,Norina,Blakeway,Female,1980-02-11,Property,Mass Customer,Yes,VIC,40.0,Age : 21 - 40
+140,My,Chaston,Male,1966-07-16,Manufacturing,Affluent Customer,Yes,VIC,54.0,Age : 41 - 60
+141,Isak,Bergstram,Male,2001-03-08,Health,Affluent Customer,Yes,NSW,19.0,Age : 0 - 20
+142,Grannie,Cracker,Male,1949-03-06,Retail,Mass Customer,Yes,QLD,71.0,Age : 61 - 80
+143,Welby,Lourenco,Male,1975-12-27,Financial Services,High Net Worth,Yes,NSW,44.0,Age : 41 - 60
+144,Glenn,Casbourne,Female,1981-08-08,Manufacturing,Mass Customer,No,QLD,39.0,Age : 21 - 40
+145,Nadiya,Balasini,Female,1950-11-05,Financial Services,Mass Customer,No,NSW,69.0,Age : 61 - 80
+146,Tyne,Coate,Female,1965-07-15,Manufacturing,Mass Customer,No,NSW,55.0,Age : 41 - 60
+147,Christie,Anders,Male,1969-10-02,Retail,Mass Customer,No,NSW,50.0,Age : 41 - 60
+148,Agnella,Capener,Female,1969-05-21,Health,High Net Worth,No,VIC,51.0,Age : 41 - 60
+149,Bernardine,Delmonti,Female,1971-03-31,Property,Mass Customer,No,NSW,49.0,Age : 41 - 60
+150,Daisy,Spowart,Female,1967-12-18,Health,Affluent Customer,Yes,QLD,52.0,Age : 41 - 60
+151,Denys,Minshall,Female,1961-12-26,Manufacturing,Affluent Customer,Yes,NSW,58.0,Age : 41 - 60
+152,Archibald,Blessed,Male,1969-02-10,Financial Services,Mass Customer,Yes,NSW,51.0,Age : 41 - 60
+153,Feodor,Englishby,Male,1961-08-14,Health,Mass Customer,No,VIC,59.0,Age : 41 - 60
+154,Skippie,Yearsley,Male,1956-09-04,Financial Services,Mass Customer,No,QLD,64.0,Age : 61 - 80
+155,Bill,,Female,1963-04-24,Property,Mass Customer,Yes,NSW,57.0,Age : 41 - 60
+156,Tessa,Friese,Female,1976-10-24,Financial Services,Mass Customer,No,QLD,43.0,Age : 41 - 60
+157,Roseanne,Caruth,Female,1957-05-25,Health,Mass Customer,No,NSW,63.0,Age : 61 - 80
+160,Nichole,Leisman,Male,1986-08-07,Property,Affluent Customer,No,NSW,34.0,Age : 21 - 40
+161,Amil,Ennor,Female,1995-08-04,Health,Mass Customer,Yes,VIC,25.0,Age : 21 - 40
+162,Shawna,Hinrichsen,Female,1969-08-27,Manufacturing,Affluent Customer,Yes,NSW,51.0,Age : 41 - 60
+165,Robert,Corkill,Male,1976-03-12,Health,Mass Customer,No,NSW,44.0,Age : 41 - 60
+166,Elvira,Kurten,Female,1973-03-18,Financial Services,High Net Worth,No,NSW,47.0,Age : 41 - 60
+167,Juliana,Mitchenson,Female,1989-01-05,Manufacturing,Mass Customer,Yes,QLD,31.0,Age : 21 - 40
+168,Regine,Bownes,Female,1952-07-01,Retail,Affluent Customer,No,VIC,68.0,Age : 61 - 80
+169,Abner,Fraschetti,Male,1986-01-23,Argiculture,Affluent Customer,No,VIC,34.0,Age : 21 - 40
+171,Sawyer,Sponton,Male,1956-02-22,Property,Mass Customer,Yes,NSW,64.0,Age : 61 - 80
+172,Feodor,Vickers,Male,1989-11-18,Financial Services,Mass Customer,Yes,NSW,30.0,Age : 21 - 40
+173,Paten,Cayet,Male,1995-02-19,Manufacturing,Affluent Customer,Yes,VIC,25.0,Age : 21 - 40
+174,Loria,Tappington,Female,1955-09-06,Property,Mass Customer,No,VIC,65.0,Age : 61 - 80
+175,Tanya,Kiefer,Female,1992-07-05,Telecommunications,High Net Worth,No,NSW,28.0,Age : 21 - 40
+177,Omero,McDonand,Male,1952-04-01,Manufacturing,Mass Customer,No,NSW,68.0,Age : 61 - 80
+178,Iain,Haversham,Male,1950-12-26,Retail,Mass Customer,Yes,NSW,69.0,Age : 61 - 80
+179,Keriann,Newham,Female,1975-03-26,Financial Services,Mass Customer,No,QLD,45.0,Age : 41 - 60
+180,Conroy,Rappaport,Male,1965-01-08,Health,High Net Worth,No,NSW,55.0,Age : 41 - 60
+181,Dorian,Rustman,Male,1974-12-09,Manufacturing,Mass Customer,No,QLD,45.0,Age : 41 - 60
+183,Harlin,Mazin,Male,1974-03-25,Manufacturing,Mass Customer,Yes,NSW,46.0,Age : 41 - 60
+184,Eustacia,Dornan,Female,1985-09-02,Property,Mass Customer,No,VIC,35.0,Age : 21 - 40
+185,Maury,Galego,Male,1992-07-27,Health,High Net Worth,Yes,VIC,28.0,Age : 21 - 40
+186,Reggie,Kernar,Female,1971-11-28,Financial Services,High Net Worth,No,NSW,48.0,Age : 41 - 60
+188,Kinna,Kollasch,Female,1986-11-09,Property,High Net Worth,No,QLD,33.0,Age : 21 - 40
+189,Maurizio,Comi,Male,1996-05-30,IT,Affluent Customer,No,NSW,24.0,Age : 21 - 40
+190,Elbertina,Fendley,Female,1992-03-27,Property,Affluent Customer,No,NSW,28.0,Age : 21 - 40
+191,Franklin,Wohler,Male,1938-10-16,Health,Mass Customer,Yes,NSW,81.0,Age : 81 - 100
+192,Allyson,Petchell,Female,1970-03-19,Telecommunications,High Net Worth,No,NSW,50.0,Age : 41 - 60
+193,Ermentrude,Heindle,Female,1969-08-02,Argiculture,Mass Customer,No,NSW,51.0,Age : 41 - 60
+194,Alanna,Lerway,Female,1944-01-05,Health,Mass Customer,Yes,VIC,76.0,Age : 61 - 80
+195,Vincent,Jopke,Male,1972-03-10,Property,Affluent Customer,No,VIC,48.0,Age : 41 - 60
+199,Charlena,Berney,Female,1966-01-02,Manufacturing,High Net Worth,Yes,QLD,54.0,Age : 41 - 60
+201,Engracia,Dobbs,Female,1959-04-19,Health,Mass Customer,No,NSW,61.0,Age : 61 - 80
+202,Glyn,,Male,1945-02-13,Manufacturing,Affluent Customer,Yes,NSW,75.0,Age : 61 - 80
+203,Rosemonde,Cartwight,Female,1952-10-20,Retail,Mass Customer,Yes,QLD,67.0,Age : 61 - 80
+206,Benoit,Harniman,Male,1976-08-27,Telecommunications,Affluent Customer,No,QLD,44.0,Age : 41 - 60
+208,Jenelle,Fearnill,Female,1958-01-03,Health,High Net Worth,No,NSW,62.0,Age : 61 - 80
+209,Tannie,Gambrell,Male,1967-05-25,Financial Services,Affluent Customer,No,QLD,53.0,Age : 41 - 60
+210,Mick,Macewan,Male,1967-12-12,Financial Services,Mass Customer,No,NSW,52.0,Age : 41 - 60
+211,Abbie,Oldman,Male,1983-11-26,Health,High Net Worth,Yes,NSW,36.0,Age : 21 - 40
+212,Tabbie,Curner,Male,1997-03-13,Retail,Mass Customer,No,VIC,23.0,Age : 21 - 40
+213,Shane,Killen,Male,1956-10-16,Entertainment,High Net Worth,No,NSW,63.0,Age : 61 - 80
+214,Roberta,Goodale,Female,1947-02-28,Property,Mass Customer,Yes,QLD,73.0,Age : 61 - 80
+215,Kippy,Barabisch,Male,2000-04-07,Manufacturing,Mass Customer,No,NSW,20.0,Age : 0 - 20
+217,Cami,Barnbrook,Female,1963-01-01,Health,Affluent Customer,Yes,QLD,57.0,Age : 41 - 60
+218,Dorian,Stollen,Male,1980-02-16,Financial Services,Mass Customer,Yes,NSW,40.0,Age : 21 - 40
+219,Hunfredo,Hayball,Male,1994-04-15,IT,Affluent Customer,No,NSW,26.0,Age : 21 - 40
+220,Giorgi,O'Shirine,Male,1981-06-20,Retail,Mass Customer,Yes,VIC,39.0,Age : 21 - 40
+221,Kort,Disley,Male,1979-02-05,Health,Mass Customer,Yes,NSW,41.0,Age : 41 - 60
+223,Tobiah,Heinsius,Male,2000-01-25,Health,High Net Worth,No,NSW,20.0,Age : 0 - 20
+224,Wallace,Newart,Male,1977-12-06,IT,Mass Customer,No,QLD,42.0,Age : 41 - 60
+225,Hersh,Stubbert,Male,2000-06-25,Manufacturing,Mass Customer,Yes,QLD,20.0,Age : 0 - 20
+227,Wyn,Saynor,Male,1964-06-22,Financial Services,High Net Worth,No,NSW,56.0,Age : 41 - 60
+228,Maribeth,Stivani,Female,1954-11-13,Financial Services,Mass Customer,No,NSW,65.0,Age : 61 - 80
+229,Abigale,Sives,Female,1963-12-13,Health,Affluent Customer,Yes,QLD,56.0,Age : 41 - 60
+230,Gothart,Artus,Male,1978-05-31,Health,Mass Customer,Yes,NSW,42.0,Age : 41 - 60
+231,Danny,Bodle,Male,1943-09-24,Manufacturing,Mass Customer,Yes,NSW,77.0,Age : 61 - 80
+233,Deborah,Petrovsky,Female,1943-07-14,Property,Mass Customer,No,NSW,77.0,Age : 61 - 80
+235,Rolland,Esmead,Male,1940-07-13,Health,Affluent Customer,No,NSW,80.0,Age : 61 - 80
+236,Latrena,Walklate,Female,1943-10-05,Telecommunications,High Net Worth,Yes,NSW,76.0,Age : 61 - 80
+238,Leticia,Danovich,Female,1941-10-02,Entertainment,Mass Customer,Yes,QLD,78.0,Age : 61 - 80
+240,Farra,Matyushkin,Female,1974-01-24,Manufacturing,High Net Worth,Yes,VIC,46.0,Age : 41 - 60
+241,Robenia,Monks,Female,1959-05-08,Manufacturing,Mass Customer,No,QLD,61.0,Age : 61 - 80
+242,Roman,Eastwood,Male,1969-09-21,Manufacturing,Affluent Customer,Yes,VIC,50.0,Age : 41 - 60
+243,Solomon,Bruck,Male,1957-11-15,Health,Mass Customer,No,QLD,62.0,Age : 61 - 80
+245,Katharine,Redbourn,Female,1967-09-11,Manufacturing,Affluent Customer,Yes,VIC,53.0,Age : 41 - 60
+246,Cammy,Stoneham,Female,1963-05-02,Financial Services,High Net Worth,No,QLD,57.0,Age : 41 - 60
+247,Ellsworth,Andrieux,Male,1971-04-26,Financial Services,Affluent Customer,Yes,QLD,49.0,Age : 41 - 60
+248,Federico,Leuty,Male,1978-12-11,Property,High Net Worth,Yes,NSW,41.0,Age : 41 - 60
+249,Ferdy,Hornung,Male,1974-05-14,Entertainment,High Net Worth,No,QLD,46.0,Age : 41 - 60
+250,Sunny,Christescu,Female,1975-03-12,Financial Services,Mass Customer,No,NSW,45.0,Age : 41 - 60
+251,Shadow,Yakutin,Male,1967-02-03,Health,Affluent Customer,Yes,QLD,53.0,Age : 41 - 60
+252,Sharai,Priddie,Female,1961-01-16,Retail,Mass Customer,No,NSW,59.0,Age : 41 - 60
+253,Celeste,Fretson,Female,1980-09-16,IT,Mass Customer,No,NSW,40.0,Age : 21 - 40
+254,Lea,Ilyinski,Female,1997-09-25,Financial Services,High Net Worth,No,NSW,22.0,Age : 21 - 40
+255,Dyann,Olechnowicz,Female,1939-07-17,Manufacturing,Mass Customer,No,VIC,81.0,Age : 81 - 100
+256,Delly,Sunman,Female,1959-04-11,Retail,Mass Customer,No,VIC,61.0,Age : 61 - 80
+259,Kaela,Romaines,Female,1971-11-27,Manufacturing,High Net Worth,No,NSW,48.0,Age : 41 - 60
+260,Evonne,Bembridge,Female,1969-07-06,Retail,Mass Customer,Yes,VIC,51.0,Age : 41 - 60
+261,Shannen,Lewin,Female,1991-06-07,Argiculture,High Net Worth,No,QLD,29.0,Age : 21 - 40
+262,Bogey,Attew,Male,1992-11-18,IT,Mass Customer,Yes,QLD,27.0,Age : 21 - 40
+263,Zondra,Ringham,Female,1948-01-13,Financial Services,Mass Customer,Yes,QLD,72.0,Age : 61 - 80
+264,Barnebas,Apfel,Male,1996-02-19,Manufacturing,Affluent Customer,Yes,QLD,24.0,Age : 21 - 40
+266,Gerri,Schimann,Female,1969-11-17,Property,Mass Customer,Yes,NSW,50.0,Age : 41 - 60
+267,Antonietta,Egle,Female,1973-09-25,Financial Services,Mass Customer,No,VIC,46.0,Age : 41 - 60
+268,Raff,Waycott,Male,1951-12-16,Manufacturing,Affluent Customer,Yes,VIC,68.0,Age : 61 - 80
+269,Lark,Gonet,Female,1972-01-17,Health,High Net Worth,No,NSW,48.0,Age : 41 - 60
+270,Cletis,Longley,Male,1996-07-01,Manufacturing,High Net Worth,Yes,VIC,24.0,Age : 21 - 40
+271,Bartram,Di Lucia,Male,1961-01-03,Argiculture,Mass Customer,Yes,NSW,59.0,Age : 41 - 60
+272,Theresa,Cowper,Female,1976-08-24,Manufacturing,Mass Customer,No,NSW,44.0,Age : 41 - 60
+273,Philbert,Raraty,Male,1956-06-28,Manufacturing,Mass Customer,No,NSW,64.0,Age : 61 - 80
+274,Egon,Ortells,Male,1976-06-11,Manufacturing,Affluent Customer,No,NSW,44.0,Age : 41 - 60
+276,Timi,Duny,Female,1953-03-12,Telecommunications,High Net Worth,No,NSW,67.0,Age : 61 - 80
+277,Dominick,Asher,Male,1962-10-06,Health,Affluent Customer,Yes,VIC,57.0,Age : 41 - 60
+278,Raye,Roo,Female,1976-03-07,Financial Services,Mass Customer,Yes,VIC,44.0,Age : 41 - 60
+279,Becka,Hacon,Female,1965-07-03,Financial Services,Affluent Customer,No,VIC,55.0,Age : 41 - 60
+281,Verla,Dumingos,Female,1971-09-18,Telecommunications,Mass Customer,Yes,VIC,49.0,Age : 41 - 60
+282,Sherrie,Godleman,Female,1978-04-02,Manufacturing,Mass Customer,No,VIC,42.0,Age : 41 - 60
+284,Konstanze,Hovie,Female,1967-01-09,Health,Mass Customer,No,QLD,53.0,Age : 41 - 60
+285,Bink,Bentje,Male,1957-03-23,Financial Services,High Net Worth,Yes,NSW,63.0,Age : 61 - 80
+286,Taber,Szymon,Male,1947-04-22,Argiculture,Affluent Customer,No,QLD,73.0,Age : 61 - 80
+288,Giana,Staresmeare,Female,1976-04-20,Retail,Affluent Customer,Yes,NSW,44.0,Age : 41 - 60
+289,Morton,Petkens,Male,1990-11-13,Manufacturing,High Net Worth,Yes,VIC,29.0,Age : 21 - 40
+291,Paquito,Atwood,Male,1972-07-30,Manufacturing,Affluent Customer,No,VIC,48.0,Age : 41 - 60
+293,Shelli,Bartholomaus,Female,1963-05-11,Health,Mass Customer,Yes,VIC,57.0,Age : 41 - 60
+294,Kermit,Lebond,Male,1980-02-01,Financial Services,Mass Customer,No,QLD,40.0,Age : 21 - 40
+295,Biddie,Gorce,Female,1988-01-30,Financial Services,Mass Customer,Yes,NSW,32.0,Age : 21 - 40
+296,Rupert,Marrow,Male,1970-08-08,Property,High Net Worth,No,NSW,50.0,Age : 41 - 60
+297,Geoff,Sitford,Male,1965-02-27,Financial Services,Mass Customer,Yes,NSW,55.0,Age : 41 - 60
+298,Ange,Chitham,Female,1991-02-14,Argiculture,Mass Customer,No,NSW,29.0,Age : 21 - 40
+299,Tiphanie,Blackader,Female,1947-10-08,Retail,Mass Customer,No,NSW,72.0,Age : 61 - 80
+300,Zollie,Crinidge,Male,1988-01-10,Retail,Mass Customer,Yes,QLD,32.0,Age : 21 - 40
+301,Daisy,Pollen,Female,1993-08-09,Financial Services,Mass Customer,No,VIC,27.0,Age : 21 - 40
+302,Emelen,Bidnall,Male,1981-08-05,Health,Affluent Customer,Yes,NSW,39.0,Age : 21 - 40
+304,Manya,Abramovici,Female,1955-07-17,Financial Services,High Net Worth,Yes,QLD,65.0,Age : 61 - 80
+305,Brynna,Tivers,Female,1974-08-09,Financial Services,Mass Customer,No,QLD,46.0,Age : 41 - 60
+307,Alfi,Sabbins,Female,1959-06-12,Financial Services,High Net Worth,Yes,NSW,61.0,Age : 61 - 80
+308,Loleta,Aberdalgy,Female,1981-02-15,Health,Mass Customer,No,NSW,39.0,Age : 21 - 40
+309,Aldric,Birney,Male,1971-08-19,Manufacturing,Mass Customer,Yes,NSW,49.0,Age : 41 - 60
+310,Natividad,Balducci,Female,1991-02-07,Property,High Net Worth,Yes,VIC,29.0,Age : 21 - 40
+311,Claudine,Dymick,Female,1965-12-13,Health,Mass Customer,No,VIC,54.0,Age : 41 - 60
+312,Seamus,Cains,Male,1989-12-15,Manufacturing,High Net Worth,No,NSW,30.0,Age : 21 - 40
+313,Guss,Karim,Male,1968-11-24,Manufacturing,Mass Customer,No,NSW,51.0,Age : 41 - 60
+315,Roch,Symson,Female,1978-05-13,Manufacturing,High Net Worth,No,VIC,42.0,Age : 41 - 60
+316,Audry,Fann,Female,1957-10-17,Health,Mass Customer,Yes,VIC,62.0,Age : 61 - 80
+317,Cecelia,Cisar,Female,1985-03-26,Property,Mass Customer,Yes,QLD,35.0,Age : 21 - 40
+318,Clari,Voas,Female,1955-07-28,Health,Affluent Customer,Yes,NSW,65.0,Age : 61 - 80
+319,Zach,Hedman,Male,1981-09-11,Financial Services,Affluent Customer,Yes,NSW,39.0,Age : 21 - 40
+321,Parnell,Lamprey,Male,1977-04-08,Financial Services,High Net Worth,No,NSW,43.0,Age : 41 - 60
+322,Honey,Gosdin,Female,1981-11-29,Property,Mass Customer,No,NSW,38.0,Age : 21 - 40
+323,Sonny,McCart,Male,1992-08-27,Manufacturing,High Net Worth,No,VIC,28.0,Age : 21 - 40
+325,Deirdre,Burgoine,Female,1955-01-08,Health,High Net Worth,No,VIC,65.0,Age : 61 - 80
+326,Haleigh,,Female,1952-05-19,Financial Services,Mass Customer,Yes,QLD,68.0,Age : 61 - 80
+328,Zechariah,McReidy,Male,1978-07-22,Manufacturing,High Net Worth,No,QLD,42.0,Age : 41 - 60
+329,Carry,Costi,Female,1972-11-26,Property,Mass Customer,No,NSW,47.0,Age : 41 - 60
+332,Nil,Shirer,Male,1997-09-27,Entertainment,Mass Customer,Yes,VIC,22.0,Age : 21 - 40
+333,Erhard,O'Moylane,Male,1978-05-27,Retail,Affluent Customer,Yes,VIC,42.0,Age : 41 - 60
+334,Vitia,Axtens,Female,1945-08-08,Financial Services,Mass Customer,Yes,NSW,75.0,Age : 61 - 80
+335,Haskell,Moxted,Male,1943-08-27,Manufacturing,Mass Customer,No,NSW,77.0,Age : 61 - 80
+336,Ebony,Conrad,Female,1999-10-24,Financial Services,Mass Customer,Yes,VIC,20.0,Age : 0 - 20
+338,Vladimir,Westmerland,Male,1956-06-19,Manufacturing,Mass Customer,Yes,NSW,64.0,Age : 61 - 80
+340,Nicole,Ruckhard,Female,1969-10-09,Health,Affluent Customer,Yes,QLD,50.0,Age : 41 - 60
+341,Celestina,Lethardy,Female,1968-12-11,IT,Mass Customer,Yes,VIC,51.0,Age : 41 - 60
+342,Tannie,Petrakov,Male,1951-11-27,IT,Affluent Customer,No,QLD,68.0,Age : 61 - 80
+343,Bessy,Saladin,Female,1939-12-22,Manufacturing,Mass Customer,Yes,QLD,80.0,Age : 61 - 80
+344,Diego,Van den Broek,Male,1964-09-28,Manufacturing,Affluent Customer,Yes,QLD,55.0,Age : 41 - 60
+345,Lucilia,Minshall,Female,1952-04-15,IT,Mass Customer,Yes,NSW,68.0,Age : 61 - 80
+346,Cissiee,Pollington,Female,1941-07-21,Property,Mass Customer,Yes,NSW,79.0,Age : 61 - 80
+347,Eddy,Sturch,Male,1961-02-11,Financial Services,High Net Worth,Yes,QLD,59.0,Age : 41 - 60
+348,Caron,Kezar,Female,1953-08-08,Health,Mass Customer,No,NSW,67.0,Age : 61 - 80
+349,Sandor,Stirland,Male,1981-05-26,Manufacturing,High Net Worth,No,VIC,39.0,Age : 21 - 40
+351,Murial,Bulloch,Female,1964-10-01,Financial Services,Mass Customer,No,NSW,55.0,Age : 41 - 60
+352,Delinda,Ech,Female,1944-10-21,Argiculture,Mass Customer,Yes,VIC,75.0,Age : 61 - 80
+353,Hussein,Tapenden,Male,1953-10-19,Health,Affluent Customer,Yes,NSW,66.0,Age : 61 - 80
+355,Kaylyn,Jakaway,Female,1980-07-30,Health,Affluent Customer,No,NSW,40.0,Age : 21 - 40
+356,Brynn,Goodyear,Female,1944-11-10,Health,Mass Customer,Yes,VIC,75.0,Age : 61 - 80
+357,Otis,,Male,1971-01-11,Manufacturing,Affluent Customer,No,NSW,49.0,Age : 41 - 60
+359,Pace,Clemonts,Male,1990-07-28,Retail,High Net Worth,No,VIC,30.0,Age : 21 - 40
+361,Muffin,Grigolon,Male,1979-10-31,Telecommunications,Mass Customer,No,NSW,40.0,Age : 21 - 40
+362,Allsun,Biner,Female,1997-12-26,Financial Services,Mass Customer,Yes,NSW,22.0,Age : 21 - 40
+363,Kenneth,Elleyne,Male,1957-09-03,Financial Services,Mass Customer,No,VIC,63.0,Age : 61 - 80
+364,Clotilda,Southers,Female,1999-11-08,Financial Services,Mass Customer,Yes,NSW,20.0,Age : 0 - 20
+365,Augustus,Bourley,Male,1981-08-17,Health,Affluent Customer,No,QLD,39.0,Age : 21 - 40
+366,Daisi,Tinwell,Female,1971-12-24,Financial Services,Mass Customer,No,NSW,48.0,Age : 41 - 60
+367,Gerik,Woodroof,Male,1959-06-13,Financial Services,High Net Worth,Yes,VIC,61.0,Age : 61 - 80
+369,Arty,Fontelles,Male,1994-10-21,IT,High Net Worth,No,VIC,25.0,Age : 21 - 40
+371,Whit,Emloch,Male,1963-08-20,Health,Mass Customer,Yes,NSW,57.0,Age : 41 - 60
+372,Rowan,Summerly,Male,1974-07-05,Entertainment,Mass Customer,No,NSW,46.0,Age : 41 - 60
+373,Ian,Rabat,Male,1975-08-04,Financial Services,Affluent Customer,No,VIC,45.0,Age : 41 - 60
+376,Link,Gorini,Male,1974-11-09,IT,High Net Worth,No,QLD,45.0,Age : 41 - 60
+377,Harriet,Brattan,Female,1986-12-03,Financial Services,High Net Worth,No,VIC,33.0,Age : 21 - 40
+378,Sada,Branton,Female,1974-06-24,Manufacturing,Affluent Customer,No,VIC,46.0,Age : 41 - 60
+379,Jenelle,Mc-Kerley,Female,1942-01-23,Financial Services,Mass Customer,Yes,QLD,78.0,Age : 61 - 80
+380,Gabrila,Toopin,Female,1963-01-14,Manufacturing,Mass Customer,No,NSW,57.0,Age : 41 - 60
+381,Almira,Mangion,Female,1996-01-24,Financial Services,Affluent Customer,Yes,NSW,24.0,Age : 21 - 40
+382,Arty,Strudwick,Male,1964-01-31,Health,Mass Customer,Yes,NSW,56.0,Age : 41 - 60
+383,Alexa,Dillet,Female,1944-10-05,Entertainment,Affluent Customer,No,NSW,75.0,Age : 61 - 80
+384,Palmer,Heaven,Male,1995-05-18,Financial Services,Affluent Customer,Yes,VIC,25.0,Age : 21 - 40
+385,Porter,Buckenhill,Male,1954-06-14,Manufacturing,High Net Worth,Yes,QLD,66.0,Age : 61 - 80
+386,Kizzee,Kemston,Female,1961-09-29,Health,Mass Customer,No,NSW,58.0,Age : 41 - 60
+388,Giffie,Offill,Male,1993-03-02,Telecommunications,Affluent Customer,No,QLD,27.0,Age : 21 - 40
+391,Tamar,Windmill,Female,1939-08-28,Manufacturing,Affluent Customer,No,NSW,81.0,Age : 81 - 100
+392,Kipp,Stockport,Male,1982-12-10,Retail,Mass Customer,Yes,NSW,37.0,Age : 21 - 40
+393,Packston,Wackett,Male,1950-04-26,Financial Services,Mass Customer,No,VIC,70.0,Age : 61 - 80
+394,Hanson,Eastes,Male,1990-05-20,Manufacturing,Mass Customer,Yes,VIC,30.0,Age : 21 - 40
+395,Demetria,Bausor,Female,1961-12-22,Entertainment,Mass Customer,Yes,NSW,58.0,Age : 41 - 60
+396,Lura,Fawdrie,Female,2002-01-17,Health,Mass Customer,Yes,QLD,18.0,Age : 0 - 20
+397,Nora,Anselm,Female,1961-01-05,Entertainment,High Net Worth,Yes,QLD,59.0,Age : 41 - 60
+398,Estevan,Eastment,Male,1942-08-09,Health,Mass Customer,Yes,NSW,78.0,Age : 61 - 80
+399,Aloysius,Glowacz,Male,1979-03-24,Financial Services,Affluent Customer,No,NSW,41.0,Age : 41 - 60
+400,Bastien,Ibbeson,Male,1976-11-04,IT,Mass Customer,No,NSW,43.0,Age : 41 - 60
+401,Otha,Langworthy,Female,1967-01-20,Financial Services,Mass Customer,Yes,VIC,53.0,Age : 41 - 60
+403,Dwayne,Doel,Male,1978-01-21,Financial Services,Affluent Customer,Yes,NSW,42.0,Age : 41 - 60
+404,Leese,Huckleby,Female,1977-09-10,Manufacturing,High Net Worth,Yes,VIC,43.0,Age : 41 - 60
+405,Dodi,Kiggel,Female,1980-08-15,Financial Services,Mass Customer,Yes,NSW,40.0,Age : 21 - 40
+406,Kippar,Brimilcome,Male,1938-11-29,Health,Mass Customer,No,NSW,81.0,Age : 81 - 100
+407,Corinna,Beretta,Female,1996-02-29,Health,High Net Worth,No,VIC,24.0,Age : 21 - 40
+408,Laurie,Odlin,Female,1983-03-08,Health,High Net Worth,No,VIC,37.0,Age : 21 - 40
+411,Tanner,Terlinden,Male,1995-12-09,Manufacturing,Mass Customer,No,VIC,24.0,Age : 21 - 40
+412,Hilliard,Dullard,Male,1954-07-18,Manufacturing,Mass Customer,No,NSW,66.0,Age : 61 - 80
+413,Justinn,Haruard,Female,1958-08-28,Health,High Net Worth,No,NSW,62.0,Age : 61 - 80
+414,Wyn,Meach,Male,1938-09-10,Manufacturing,Mass Customer,No,NSW,82.0,Age : 81 - 100
+415,Art,Shardlow,Male,1963-10-15,Argiculture,Mass Customer,Yes,QLD,56.0,Age : 41 - 60
+416,Dennis,Varnham,Male,1953-05-17,Entertainment,Affluent Customer,No,VIC,67.0,Age : 61 - 80
+417,Freddi,Litherborough,Female,1989-01-14,Financial Services,Mass Customer,No,NSW,31.0,Age : 21 - 40
+418,Salomon,Perkins,Male,1998-01-12,Financial Services,Affluent Customer,Yes,NSW,22.0,Age : 21 - 40
+419,Sherill,,Female,1991-12-18,Financial Services,Mass Customer,No,NSW,28.0,Age : 21 - 40
+420,Queenie,Learie,Female,1948-01-24,Property,Mass Customer,No,NSW,72.0,Age : 61 - 80
+421,Etan,Prinett,Male,1970-01-21,Argiculture,Mass Customer,Yes,NSW,50.0,Age : 41 - 60
+422,Donaugh,Benedict,Male,1991-12-01,Property,Mass Customer,No,NSW,28.0,Age : 21 - 40
+423,Harwell,Kleinstein,Male,1993-10-18,Retail,Affluent Customer,No,VIC,26.0,Age : 21 - 40
+424,Cheston,Hritzko,Male,1945-11-08,Manufacturing,Mass Customer,Yes,NSW,74.0,Age : 61 - 80
+425,Suzy,Trounson,Female,1947-07-19,Financial Services,Mass Customer,Yes,QLD,73.0,Age : 61 - 80
+427,Guenna,Filisov,Female,1969-02-09,Manufacturing,High Net Worth,No,NSW,51.0,Age : 41 - 60
+428,Opal,Cleare,Female,1977-09-26,Property,Affluent Customer,Yes,NSW,42.0,Age : 41 - 60
+430,Kipper,Circuit,Male,1974-12-12,Argiculture,Mass Customer,Yes,NSW,45.0,Age : 41 - 60
+431,Marilin,Frome,Female,1975-12-22,IT,Mass Customer,Yes,NSW,44.0,Age : 41 - 60
+432,Arel,Abramovitz,Male,1957-11-12,Health,Mass Customer,No,QLD,62.0,Age : 61 - 80
+433,Kit,Easdon,Male,1978-10-26,Property,Affluent Customer,No,VIC,41.0,Age : 41 - 60
+435,Skipp,Swales,Male,1973-11-14,Entertainment,High Net Worth,Yes,VIC,46.0,Age : 41 - 60
+436,Frederich,Glantz,Male,1997-08-27,Manufacturing,High Net Worth,Yes,NSW,23.0,Age : 21 - 40
+437,Rodolph,Denniss,Male,1974-08-07,Property,Affluent Customer,Yes,VIC,46.0,Age : 41 - 60
+438,Craggie,Dering,Male,1952-10-05,Financial Services,Mass Customer,No,NSW,67.0,Age : 61 - 80
+440,Giralda,MacPeake,Female,1941-04-04,Entertainment,High Net Worth,Yes,NSW,79.0,Age : 61 - 80
+441,Rodney,Trethewey,Male,1997-03-17,Financial Services,Affluent Customer,No,VIC,23.0,Age : 21 - 40
+442,Theresina,,Female,1987-03-01,Argiculture,Mass Customer,Yes,NSW,33.0,Age : 21 - 40
+443,Gleda,Howerd,Female,1964-01-22,IT,Mass Customer,No,NSW,56.0,Age : 41 - 60
+444,Melany,Ladewig,Female,1972-05-17,Financial Services,Mass Customer,Yes,QLD,48.0,Age : 41 - 60
+445,Claudell,Rounsefell,Male,1993-11-27,Financial Services,Affluent Customer,No,QLD,26.0,Age : 21 - 40
+446,Garwin,Nurden,Male,1958-04-19,Property,High Net Worth,Yes,VIC,62.0,Age : 61 - 80
+447,Bunny,Leebetter,Female,1966-04-30,Manufacturing,High Net Worth,Yes,QLD,54.0,Age : 41 - 60
+448,Matias,Melloi,Male,1977-02-03,Retail,Affluent Customer,No,NSW,43.0,Age : 41 - 60
+450,Anet,Roseman,Female,1996-11-24,Financial Services,Mass Customer,No,VIC,23.0,Age : 21 - 40
+451,Katie,Warhurst,Female,1991-12-02,Retail,High Net Worth,Yes,VIC,28.0,Age : 21 - 40
+452,Celia,Bryden,Female,1943-04-06,Manufacturing,High Net Worth,No,NSW,77.0,Age : 61 - 80
+453,Stearne,Trolley,Male,1982-02-01,Financial Services,High Net Worth,No,NSW,38.0,Age : 21 - 40
+454,Tristam,Larose,Male,1985-01-29,Financial Services,Mass Customer,No,NSW,35.0,Age : 21 - 40
+456,Heloise,Fairpool,Female,1976-09-07,Manufacturing,High Net Worth,No,QLD,44.0,Age : 41 - 60
+458,Marcellina,Baynton,Female,1947-03-11,Financial Services,Mass Customer,No,VIC,73.0,Age : 61 - 80
+459,Gregorius,Leal,Male,1951-04-29,Retail,Affluent Customer,Yes,NSW,69.0,Age : 61 - 80
+460,Deana,Canton,Female,1974-11-25,Property,Mass Customer,Yes,QLD,45.0,Age : 41 - 60
+462,Lucky,Klainman,Female,1947-11-26,Retail,Mass Customer,No,VIC,72.0,Age : 61 - 80
+463,Erasmus,Olenchenko,Male,1965-02-03,Property,Mass Customer,Yes,NSW,55.0,Age : 41 - 60
+464,Carita,Sand,Female,1977-03-20,Retail,Mass Customer,No,NSW,43.0,Age : 41 - 60
+465,Lynnett,Tipper,Female,1993-08-03,Health,High Net Worth,Yes,VIC,27.0,Age : 21 - 40
+466,Thorn,Stigers,Male,1972-05-19,Financial Services,Mass Customer,No,QLD,48.0,Age : 41 - 60
+468,Norah,Mapis,Female,2000-12-09,Argiculture,Mass Customer,No,NSW,19.0,Age : 0 - 20
+469,Moina,Rosenbaum,Female,2001-08-04,IT,Mass Customer,No,VIC,19.0,Age : 0 - 20
+470,Ceciley,Harg,Female,1990-10-19,Retail,Mass Customer,Yes,QLD,29.0,Age : 21 - 40
+471,Torry,de la Valette Parisot,Male,1967-03-14,Telecommunications,Mass Customer,Yes,VIC,53.0,Age : 41 - 60
+472,Sigismund,Sedger,Male,1999-11-29,Manufacturing,Affluent Customer,No,NSW,20.0,Age : 0 - 20
+473,Irvine,Headon,Male,1956-04-21,IT,Affluent Customer,Yes,NSW,64.0,Age : 61 - 80
+474,Laurie,,Male,1979-07-28,Entertainment,Mass Customer,Yes,NSW,41.0,Age : 41 - 60
+475,Tomkin,Bernlin,Male,2001-12-29,Health,Affluent Customer,Yes,NSW,18.0,Age : 0 - 20
+476,Genni,Fanstone,Female,1972-07-29,Entertainment,Mass Customer,No,VIC,48.0,Age : 41 - 60
+477,Blondie,,Female,1995-10-03,Financial Services,High Net Worth,No,NSW,24.0,Age : 21 - 40
+479,Carola,Philler,Female,1951-04-30,Health,High Net Worth,No,NSW,69.0,Age : 61 - 80
+480,Fitzgerald,Hellikes,Male,1979-07-28,Health,Mass Customer,Yes,VIC,41.0,Age : 41 - 60
+481,Ingmar,Okenden,Male,1959-03-01,Financial Services,Mass Customer,Yes,VIC,61.0,Age : 61 - 80
+482,Tina,Dunstan,Female,1939-03-06,Retail,Affluent Customer,No,NSW,81.0,Age : 81 - 100
+484,Georgi,,Male,1970-01-14,Manufacturing,High Net Worth,No,VIC,50.0,Age : 41 - 60
+485,Adolpho,Bellerby,Male,1944-10-25,Financial Services,High Net Worth,Yes,QLD,75.0,Age : 61 - 80
+486,Kelsey,Hatt,Female,1966-06-27,Financial Services,High Net Worth,No,VIC,54.0,Age : 41 - 60
+487,Lucien,,Male,1966-09-14,Financial Services,High Net Worth,Yes,QLD,54.0,Age : 41 - 60
+490,Alexina,Mabley,Female,1975-10-12,Manufacturing,Mass Customer,Yes,NSW,44.0,Age : 41 - 60
+491,Dawn,Pyffe,Female,1965-05-28,Retail,Mass Customer,No,VIC,55.0,Age : 41 - 60
+492,Claudette,Renackowna,Female,1996-02-11,Manufacturing,Mass Customer,No,NSW,24.0,Age : 21 - 40
+494,Park,,Male,1977-11-08,IT,Affluent Customer,No,QLD,42.0,Age : 41 - 60
+495,Anthony,Lindstrom,Male,1997-11-01,Financial Services,Affluent Customer,Yes,NSW,22.0,Age : 21 - 40
+496,Liane,Poizer,Female,1952-05-05,Property,High Net Worth,No,NSW,68.0,Age : 61 - 80
+499,Renell,Earley,Female,1954-10-21,Financial Services,Mass Customer,Yes,QLD,65.0,Age : 61 - 80
+500,Cliff,Philipsson,Male,1967-02-02,Argiculture,Mass Customer,No,VIC,53.0,Age : 41 - 60
+502,Cariotta,,Female,1974-08-19,Entertainment,Affluent Customer,Yes,NSW,46.0,Age : 41 - 60
+503,George,Jose,Male,1960-12-19,Retail,High Net Worth,Yes,QLD,59.0,Age : 41 - 60
+508,Katleen,Arnoult,Female,1976-11-24,Manufacturing,Mass Customer,Yes,NSW,43.0,Age : 41 - 60
+510,Inglebert,Aspinal,Male,1973-10-13,Financial Services,Mass Customer,No,NSW,46.0,Age : 41 - 60
+511,Jammal,Devenny,Male,1999-05-14,Retail,High Net Worth,No,VIC,21.0,Age : 21 - 40
+512,Adriane,Richardson,Female,1976-03-10,Manufacturing,High Net Worth,No,VIC,44.0,Age : 41 - 60
+513,Jodi,Lermit,Female,1954-01-30,Health,Mass Customer,Yes,QLD,66.0,Age : 61 - 80
+514,Emelia,Ackwood,Female,1988-09-30,Financial Services,Mass Customer,Yes,QLD,31.0,Age : 21 - 40
+515,Andee,Huke,Female,1971-06-28,Manufacturing,Mass Customer,No,VIC,49.0,Age : 41 - 60
+517,Zabrina,Margram,Female,1964-05-15,Manufacturing,High Net Worth,Yes,QLD,56.0,Age : 41 - 60
+518,Maddalena,Angood,Female,1999-07-28,Manufacturing,Affluent Customer,No,NSW,21.0,Age : 21 - 40
+519,Sofie,Worsfold,Female,1954-10-06,Retail,Mass Customer,Yes,QLD,65.0,Age : 61 - 80
+520,Elmira,Vasilyev,Female,1951-10-14,Manufacturing,High Net Worth,No,NSW,68.0,Age : 61 - 80
+522,Worthington,Cohane,Male,1991-01-23,Entertainment,High Net Worth,No,NSW,29.0,Age : 21 - 40
+523,Bailey,Bereford,Male,1950-09-30,Argiculture,Affluent Customer,Yes,NSW,69.0,Age : 61 - 80
+524,Perry,Whitehurst,Male,1980-05-29,Manufacturing,High Net Worth,Yes,VIC,40.0,Age : 21 - 40
+525,Antony,Tuma,Male,1954-03-10,Telecommunications,High Net Worth,Yes,VIC,66.0,Age : 61 - 80
+526,Corene,Hallgate,Female,1964-11-06,Financial Services,Mass Customer,Yes,VIC,55.0,Age : 41 - 60
+527,Nico,Chadwick,Male,1953-05-24,Financial Services,Affluent Customer,No,VIC,67.0,Age : 61 - 80
+529,Ivy,Farr,Female,1973-07-03,IT,High Net Worth,No,NSW,47.0,Age : 41 - 60
+531,Amabel,,Female,1981-09-14,Financial Services,Mass Customer,Yes,NSW,39.0,Age : 21 - 40
+532,Hilario,McCulloch,Male,1986-01-10,Retail,Mass Customer,No,VIC,34.0,Age : 21 - 40
+533,Jim,Haddrell,Male,1955-04-08,Financial Services,Mass Customer,No,NSW,65.0,Age : 61 - 80
+534,Jacobo,Mucklow,Male,1952-12-04,Financial Services,High Net Worth,Yes,VIC,67.0,Age : 61 - 80
+535,Gretel,Paschke,Female,1956-05-29,Financial Services,Mass Customer,Yes,QLD,64.0,Age : 61 - 80
+536,Jethro,Mertel,Male,1978-12-10,Argiculture,Mass Customer,Yes,NSW,41.0,Age : 41 - 60
+537,Dwain,Hatch,Male,1994-11-16,Health,Affluent Customer,No,VIC,25.0,Age : 21 - 40
+538,Lucretia,D'Agostini,Female,1978-12-14,Manufacturing,High Net Worth,No,VIC,41.0,Age : 41 - 60
+539,Claude,Bowstead,Female,1997-11-29,Manufacturing,Mass Customer,No,NSW,22.0,Age : 21 - 40
+540,Donn,MacGregor,Male,1965-04-22,Manufacturing,High Net Worth,No,NSW,55.0,Age : 41 - 60
+541,Laurel,Devennie,Female,1976-09-25,Manufacturing,Affluent Customer,No,QLD,43.0,Age : 41 - 60
+542,Elvira,Darthe,Female,1975-04-08,Financial Services,Affluent Customer,No,NSW,45.0,Age : 41 - 60
+543,Angie,Tansley,Male,1950-11-30,Manufacturing,Mass Customer,No,NSW,69.0,Age : 61 - 80
+544,Terrence,Dalligan,Male,1998-02-19,Manufacturing,High Net Worth,Yes,VIC,22.0,Age : 21 - 40
+545,Katy,Crooke,Female,1977-06-30,Health,Mass Customer,No,NSW,43.0,Age : 41 - 60
+546,Sammy,Borsi,Female,1972-04-27,Financial Services,Mass Customer,No,NSW,48.0,Age : 41 - 60
+547,Morganica,Ainsbury,Female,1973-01-06,Entertainment,High Net Worth,Yes,NSW,47.0,Age : 41 - 60
+548,Nils,Champion,Male,1984-07-06,Retail,Affluent Customer,No,NSW,36.0,Age : 21 - 40
+549,Beverlee,Querree,Female,1991-04-21,Financial Services,High Net Worth,Yes,NSW,29.0,Age : 21 - 40
+550,Cami,Eitter,Female,1979-01-03,Manufacturing,High Net Worth,Yes,VIC,41.0,Age : 41 - 60
+551,Reiko,Degenhardt,Female,1976-01-16,Financial Services,High Net Worth,Yes,QLD,44.0,Age : 41 - 60
+552,Cord,Dunsmore,Male,1999-04-21,Manufacturing,Mass Customer,Yes,QLD,21.0,Age : 21 - 40
+553,Gabey,Kennicott,Female,1958-05-14,Financial Services,Affluent Customer,No,NSW,62.0,Age : 61 - 80
+554,Jacqui,Devey,Female,1995-10-01,Financial Services,High Net Worth,Yes,NSW,24.0,Age : 21 - 40
+555,Byrom,Ramas,Male,1993-11-02,Manufacturing,High Net Worth,No,NSW,26.0,Age : 21 - 40
+556,Worthington,Ahmed,Male,1972-03-24,Financial Services,High Net Worth,No,VIC,48.0,Age : 41 - 60
+557,Chico,Dye,Male,1994-02-04,Manufacturing,High Net Worth,No,NSW,26.0,Age : 21 - 40
+558,Davidde,Cockroft,Male,1947-04-21,Manufacturing,High Net Worth,No,NSW,73.0,Age : 61 - 80
+559,Charlie,Dmych,Male,1950-03-31,Manufacturing,High Net Worth,No,NSW,70.0,Age : 61 - 80
+561,Kamila,Parsonage,Female,1954-03-08,Property,Mass Customer,No,QLD,66.0,Age : 61 - 80
+562,Barth,Sapshed,Male,1994-06-16,Financial Services,Mass Customer,Yes,QLD,26.0,Age : 21 - 40
+563,Padriac,Collacombe,Male,1967-04-07,Health,Affluent Customer,No,NSW,53.0,Age : 41 - 60
+564,Olive,Mozzi,Female,1955-07-06,Retail,Affluent Customer,Yes,NSW,65.0,Age : 61 - 80
+565,Benedict,Rosas,Male,1955-11-25,Financial Services,High Net Worth,Yes,NSW,64.0,Age : 61 - 80
+566,Virginia,De Antoni,Female,1964-03-14,Telecommunications,High Net Worth,Yes,NSW,56.0,Age : 41 - 60
+568,Oswald,MacCarlich,Male,1991-11-24,Entertainment,Mass Customer,No,QLD,28.0,Age : 21 - 40
+569,Ailyn,Howgate,Female,2001-09-27,Manufacturing,Mass Customer,Yes,QLD,18.0,Age : 0 - 20
+570,Karol,Salthouse,Female,1968-07-29,Financial Services,Mass Customer,Yes,NSW,52.0,Age : 41 - 60
+571,Esdras,Birchett,Male,1950-12-09,Entertainment,Mass Customer,Yes,NSW,69.0,Age : 61 - 80
+572,Wilfrid,Gertray,Male,1942-08-23,Financial Services,Mass Customer,No,NSW,78.0,Age : 61 - 80
+573,Charmain,Styles,Female,1965-02-25,Property,High Net Worth,Yes,VIC,55.0,Age : 41 - 60
+576,Bobby,Summersby,Male,1943-10-27,Financial Services,Affluent Customer,No,VIC,76.0,Age : 61 - 80
+577,Shepherd,Dutchburn,Male,1976-08-12,Financial Services,High Net Worth,Yes,NSW,44.0,Age : 41 - 60
+578,Berenice,Kaesmakers,Female,1994-10-15,Retail,Mass Customer,No,NSW,25.0,Age : 21 - 40
+580,Cordi,Thornton,Female,1973-01-04,Telecommunications,Mass Customer,No,NSW,47.0,Age : 41 - 60
+581,Debbie,Tillman,Female,1990-07-06,Manufacturing,High Net Worth,Yes,QLD,30.0,Age : 21 - 40
+583,Flin,Yoskowitz,Male,1995-12-17,Health,Mass Customer,Yes,NSW,24.0,Age : 21 - 40
+584,Noel,Sturch,Female,1951-10-28,Health,Mass Customer,No,VIC,68.0,Age : 61 - 80
+585,Letizia,Poore,Female,1938-08-30,Manufacturing,Affluent Customer,No,VIC,82.0,Age : 81 - 100
+586,Raynard,,Male,1996-04-13,Health,Affluent Customer,No,QLD,24.0,Age : 21 - 40
+587,Kiley,Grunder,Male,1994-04-17,Financial Services,Affluent Customer,Yes,QLD,26.0,Age : 21 - 40
+588,Ethelred,Sissel,Male,1974-12-25,Health,High Net Worth,No,NSW,45.0,Age : 41 - 60
+589,Dena,Pabst,Female,1987-04-20,Manufacturing,High Net Worth,Yes,VIC,33.0,Age : 21 - 40
+590,Wyndham,Woolford,Male,1979-10-22,Manufacturing,Mass Customer,No,VIC,40.0,Age : 21 - 40
+591,Rochette,Haddacks,Female,1996-05-10,Retail,Affluent Customer,Yes,VIC,24.0,Age : 21 - 40
+592,Jamal,Dudgeon,Male,1965-02-09,Financial Services,Mass Customer,No,VIC,55.0,Age : 41 - 60
+593,Levin,Coxen,Male,1955-10-22,Property,Mass Customer,No,NSW,64.0,Age : 61 - 80
+594,Marinna,Kauschke,Female,1973-03-15,Financial Services,Affluent Customer,Yes,VIC,47.0,Age : 41 - 60
+597,Gilbert,O'Fallone,Male,1994-11-07,Entertainment,High Net Worth,No,NSW,25.0,Age : 21 - 40
+600,Chaim,Kingdon,Male,1996-01-21,Financial Services,Affluent Customer,Yes,NSW,24.0,Age : 21 - 40
+601,Anson,Dearnaly,Male,1997-06-29,Health,Affluent Customer,Yes,NSW,23.0,Age : 21 - 40
+602,Caitrin,Critten,Female,1973-01-29,Manufacturing,Mass Customer,Yes,QLD,47.0,Age : 41 - 60
+604,Rozamond,Sommer,Female,1966-09-19,IT,Affluent Customer,Yes,VIC,54.0,Age : 41 - 60
+606,Maximilian,Geffen,Male,1955-07-13,Manufacturing,Mass Customer,Yes,NSW,65.0,Age : 61 - 80
+607,Ajay,Worham,Female,1979-09-30,Manufacturing,Mass Customer,Yes,NSW,40.0,Age : 21 - 40
+608,Jamison,Cashin,Male,1970-05-19,Health,Mass Customer,Yes,NSW,50.0,Age : 41 - 60
+609,Dorian,Emery,Female,1998-08-24,Manufacturing,Mass Customer,Yes,NSW,22.0,Age : 21 - 40
+610,Nicol,Swinford,Male,1976-12-07,Property,High Net Worth,No,QLD,43.0,Age : 41 - 60
+611,Agna,Cowpe,Female,1969-03-05,Property,Mass Customer,Yes,QLD,51.0,Age : 41 - 60
+612,Nev,Prosh,Male,1950-05-08,Health,Affluent Customer,Yes,NSW,70.0,Age : 61 - 80
+613,Lucius,Hatchell,Male,1951-03-19,Retail,Mass Customer,Yes,VIC,69.0,Age : 61 - 80
+614,Francisca,Pottage,Female,1957-06-10,IT,Mass Customer,No,NSW,63.0,Age : 61 - 80
+615,Farlie,Brookz,Male,1963-07-31,Health,Mass Customer,Yes,NSW,57.0,Age : 41 - 60
+616,Mariette,,Female,1956-07-05,Property,Affluent Customer,Yes,NSW,64.0,Age : 61 - 80
+617,Beverlee,Ungerechts,Female,1973-10-03,Manufacturing,Mass Customer,No,QLD,46.0,Age : 41 - 60
+618,Nanni,Girodias,Female,1959-01-08,Retail,High Net Worth,No,NSW,61.0,Age : 61 - 80
+619,Delcina,Hursey,Female,1968-12-26,Financial Services,Mass Customer,Yes,QLD,51.0,Age : 41 - 60
+620,Lek,Pimblett,Male,1955-09-29,Financial Services,Mass Customer,Yes,NSW,64.0,Age : 61 - 80
+622,Ewell,Paulusch,Male,1998-01-15,Manufacturing,Mass Customer,Yes,QLD,22.0,Age : 21 - 40
+623,Madison,Lars,Male,1967-01-19,Health,Mass Customer,No,QLD,53.0,Age : 41 - 60
+624,Ardis,Taree,Female,1960-04-12,Manufacturing,Affluent Customer,Yes,QLD,60.0,Age : 41 - 60
+625,Wheeler,Godsil,Male,1993-09-20,Manufacturing,Affluent Customer,Yes,NSW,26.0,Age : 21 - 40
+627,Terrel,Keynd,Male,1961-04-20,Manufacturing,Mass Customer,No,QLD,59.0,Age : 41 - 60
+628,Augie,Swallwell,Male,1939-08-22,Property,Affluent Customer,Yes,NSW,81.0,Age : 81 - 100
+631,Lissa,Gawn,Female,1962-09-21,Health,Mass Customer,Yes,QLD,58.0,Age : 41 - 60
+632,Leisha,McConway,Female,1975-10-31,Financial Services,Mass Customer,Yes,VIC,44.0,Age : 41 - 60
+633,Kearney,Cuddehy,Male,1997-05-18,Retail,Mass Customer,No,QLD,23.0,Age : 21 - 40
+634,Shellysheldon,Bichard,Male,1954-01-06,Financial Services,Mass Customer,Yes,QLD,66.0,Age : 61 - 80
+635,Reinhard,Oscroft,Male,1950-03-18,Health,High Net Worth,No,VIC,70.0,Age : 61 - 80
+636,Menard,Venmore,Male,1978-04-04,Retail,High Net Worth,No,NSW,42.0,Age : 41 - 60
+637,Andree,Breeds,Female,1954-10-19,Financial Services,Affluent Customer,Yes,VIC,65.0,Age : 61 - 80
+638,Kata,Harrop,Female,1950-05-04,Retail,Affluent Customer,Yes,NSW,70.0,Age : 61 - 80
+639,Pierrette,Gummie,Female,1966-08-04,Retail,Affluent Customer,No,VIC,54.0,Age : 41 - 60
+641,Demott,Mullaly,Male,1982-12-15,Property,Mass Customer,No,NSW,37.0,Age : 21 - 40
+642,Wendye,Kleinplatz,Female,1996-05-28,Manufacturing,Affluent Customer,No,QLD,24.0,Age : 21 - 40
+643,Irvin,Bevans,Male,1962-07-12,Manufacturing,Mass Customer,No,NSW,58.0,Age : 41 - 60
+645,Austine,Speedy,Female,1940-05-23,Argiculture,High Net Worth,Yes,NSW,80.0,Age : 61 - 80
+646,Wolf,Craft,Male,1995-07-19,Retail,Affluent Customer,Yes,NSW,25.0,Age : 21 - 40
+647,Aldin,Newsome,Male,1981-07-06,Financial Services,Mass Customer,No,NSW,39.0,Age : 21 - 40
+648,Sindee,Jasik,Female,1942-10-21,Health,Mass Customer,Yes,QLD,77.0,Age : 61 - 80
+649,Truman,Arlett,Male,1958-06-25,Manufacturing,High Net Worth,Yes,NSW,62.0,Age : 61 - 80
+652,Leticia,Hovenden,Female,1997-04-03,Retail,Mass Customer,Yes,VIC,23.0,Age : 21 - 40
+653,Caritta,Compston,Female,1958-04-25,Manufacturing,Mass Customer,Yes,VIC,62.0,Age : 61 - 80
+654,Annabelle,Hanwell,Female,1951-11-28,Manufacturing,High Net Worth,Yes,VIC,68.0,Age : 61 - 80
+655,Darryl,Hovee,Female,1944-04-28,Financial Services,Mass Customer,Yes,NSW,76.0,Age : 61 - 80
+656,Orly,Nesbitt,Female,1985-03-25,Manufacturing,High Net Worth,Yes,VIC,35.0,Age : 21 - 40
+657,Margette,Gibard,Female,1942-07-06,Manufacturing,Affluent Customer,Yes,NSW,78.0,Age : 61 - 80
+658,Nicol,Bertot,Female,1977-09-11,Financial Services,Affluent Customer,Yes,VIC,43.0,Age : 41 - 60
+659,Nobe,Trowsdale,Male,1968-07-12,Financial Services,Mass Customer,No,VIC,52.0,Age : 41 - 60
+660,Stephen,Tittershill,Male,1991-12-21,Financial Services,High Net Worth,No,VIC,28.0,Age : 21 - 40
+661,Giselbert,Pickring,Male,1959-07-28,Manufacturing,Affluent Customer,Yes,NSW,61.0,Age : 61 - 80
+662,Shane,Diss,Female,1980-10-29,Financial Services,High Net Worth,Yes,VIC,39.0,Age : 21 - 40
+663,Lisette,Davers,Female,1940-10-26,Health,High Net Worth,No,NSW,79.0,Age : 61 - 80
+665,Kippar,Whyatt,Male,1960-01-21,Property,Mass Customer,No,NSW,60.0,Age : 41 - 60
+666,Xenia,Maleck,Female,1960-02-14,Telecommunications,Mass Customer,No,VIC,60.0,Age : 41 - 60
+667,Essie,Withur,Female,1941-02-26,Financial Services,High Net Worth,No,VIC,79.0,Age : 61 - 80
+669,Lillis,Eshmade,Female,1974-10-12,Financial Services,Mass Customer,Yes,QLD,45.0,Age : 41 - 60
+670,Ted,Izacenko,Male,1959-08-01,Entertainment,High Net Worth,No,VIC,61.0,Age : 61 - 80
+671,Nixie,Shoesmith,Female,1956-12-04,Retail,Affluent Customer,No,QLD,63.0,Age : 61 - 80
+672,Briana,Trill,Female,1944-03-18,Health,High Net Worth,No,NSW,76.0,Age : 61 - 80
+674,Wrennie,Dwelly,Female,1940-03-11,Manufacturing,Mass Customer,No,VIC,80.0,Age : 61 - 80
+675,Sibylla,Kibble,Female,1962-08-05,Health,High Net Worth,No,NSW,58.0,Age : 41 - 60
+676,Kariotta,Naper,Female,1952-04-07,Health,Mass Customer,No,NSW,68.0,Age : 61 - 80
+677,Wylie,Huntingdon,Male,1966-08-11,Financial Services,Mass Customer,No,NSW,54.0,Age : 41 - 60
+678,Lizbeth,Garvan,Female,1996-09-06,Health,Mass Customer,No,NSW,24.0,Age : 21 - 40
+679,Averil,Ackery,Male,1970-09-09,Retail,Mass Customer,Yes,NSW,50.0,Age : 41 - 60
+680,Myrtie,Ostrich,Female,1996-06-18,Property,Affluent Customer,Yes,NSW,24.0,Age : 21 - 40
+681,Ross,Vidgen,Male,1947-12-28,Retail,Affluent Customer,No,QLD,72.0,Age : 61 - 80
+682,Sibby,Skinner,Female,1981-05-05,Manufacturing,Mass Customer,Yes,QLD,39.0,Age : 21 - 40
+683,Selle,Casper,Female,1978-03-27,Health,Mass Customer,Yes,NSW,42.0,Age : 41 - 60
+684,Andrew,Froment,Male,1977-07-19,Retail,High Net Worth,No,VIC,43.0,Age : 41 - 60
+685,Maurizia,Ritmeyer,Female,1980-04-09,Entertainment,Mass Customer,Yes,NSW,40.0,Age : 21 - 40
+686,Keenan,Moriarty,Male,1994-12-23,Financial Services,Mass Customer,Yes,QLD,25.0,Age : 21 - 40
+687,Davide,Senten,Male,1941-02-23,Manufacturing,Mass Customer,No,NSW,79.0,Age : 61 - 80
+688,Renie,Fiveash,Female,1992-10-10,Health,High Net Worth,No,QLD,27.0,Age : 21 - 40
+689,Willard,Booton,Male,1938-09-02,Health,High Net Worth,Yes,NSW,82.0,Age : 81 - 100
+690,Debby,Balmadier,Female,1992-06-24,Financial Services,Affluent Customer,Yes,VIC,28.0,Age : 21 - 40
+692,Harvey,Dwelley,Male,1973-08-30,Financial Services,Affluent Customer,No,NSW,47.0,Age : 41 - 60
+693,Patrice,Pariss,Male,1954-06-15,Financial Services,Mass Customer,No,QLD,66.0,Age : 61 - 80
+694,Arman,Yakubov,Male,1977-10-07,Property,High Net Worth,Yes,NSW,42.0,Age : 41 - 60
+695,Gardiner,Gypps,Male,1991-06-01,Retail,Mass Customer,Yes,NSW,29.0,Age : 21 - 40
+697,Thaddus,Joder,Male,1957-12-10,Manufacturing,Mass Customer,No,NSW,62.0,Age : 61 - 80
+699,Jillane,Simion,Female,1974-07-03,Manufacturing,High Net Worth,No,QLD,46.0,Age : 41 - 60
+700,Lynnell,Shoesmith,Female,1981-01-29,Health,High Net Worth,Yes,NSW,39.0,Age : 21 - 40
+701,Mandie,MacAdie,Female,1974-12-25,Telecommunications,High Net Worth,No,NSW,45.0,Age : 41 - 60
+702,Ferdinand,Billie,Male,1965-09-04,Manufacturing,Mass Customer,No,NSW,55.0,Age : 41 - 60
+703,Suzy,Bussens,Female,1973-04-29,Financial Services,Mass Customer,No,QLD,47.0,Age : 41 - 60
+704,Emeline,Vezey,Female,1953-08-07,Health,Affluent Customer,Yes,VIC,67.0,Age : 61 - 80
+705,Cissiee,Baylis,Female,1951-07-22,Financial Services,High Net Worth,No,NSW,69.0,Age : 61 - 80
+706,Roldan,Raybould,Male,1975-11-18,Financial Services,Mass Customer,No,VIC,44.0,Age : 41 - 60
+707,Barth,Weare,Male,1946-08-22,Health,Mass Customer,Yes,NSW,74.0,Age : 61 - 80
+708,Alta,Pithcock,Female,1999-11-18,Financial Services,Mass Customer,No,NSW,20.0,Age : 0 - 20
+709,Marc,Keunemann,Male,1972-09-04,Health,Affluent Customer,Yes,NSW,48.0,Age : 41 - 60
+710,Bertine,Smalles,Female,1983-12-10,Financial Services,Mass Customer,Yes,VIC,36.0,Age : 21 - 40
+711,Wilbert,O'Loughnan,Male,1983-05-18,Financial Services,Mass Customer,Yes,QLD,37.0,Age : 21 - 40
+713,Miran,Runchman,Female,1975-07-09,Retail,Mass Customer,No,QLD,45.0,Age : 41 - 60
+714,Dorotea,Fenwick,Female,1950-10-12,Financial Services,High Net Worth,No,NSW,69.0,Age : 61 - 80
+715,Jenny,Massy,Female,1963-10-16,Telecommunications,Mass Customer,Yes,NSW,56.0,Age : 41 - 60
+717,Beatrix,McGivena,Female,1966-10-18,Health,Mass Customer,Yes,QLD,53.0,Age : 41 - 60
+718,Nalani,Hallad,Female,1999-11-30,Health,Affluent Customer,Yes,VIC,20.0,Age : 0 - 20
+719,Inglebert,Butland,Male,1966-01-30,Financial Services,Mass Customer,Yes,NSW,54.0,Age : 41 - 60
+720,Brendis,Pineaux,Male,1978-01-15,Manufacturing,Mass Customer,No,NSW,42.0,Age : 41 - 60
+722,Glendon,Malham,Male,1965-08-21,Manufacturing,Mass Customer,No,VIC,55.0,Age : 41 - 60
+723,Morganica,Bentke,Female,1977-01-03,IT,Affluent Customer,Yes,VIC,43.0,Age : 41 - 60
+727,Son,Varney,Male,1993-11-02,Property,Mass Customer,Yes,NSW,26.0,Age : 21 - 40
+728,Bartram,Caltun,Male,1956-09-15,Health,Affluent Customer,Yes,NSW,64.0,Age : 61 - 80
+729,Halette,Borsi,Female,1961-12-10,Health,Affluent Customer,Yes,NSW,58.0,Age : 41 - 60
+730,Killie,Densie,Male,1997-03-28,IT,Mass Customer,Yes,NSW,23.0,Age : 21 - 40
+731,Mandi,Adamsson,Female,1992-04-07,Manufacturing,Mass Customer,Yes,QLD,28.0,Age : 21 - 40
+733,Yardley,Matten,Male,1991-03-06,Financial Services,Mass Customer,No,QLD,29.0,Age : 21 - 40
+734,Shepperd,Leonards,Male,1981-04-14,Manufacturing,Mass Customer,Yes,NSW,39.0,Age : 21 - 40
+736,Fancie,Woofendell,Female,1966-09-17,Health,Mass Customer,Yes,QLD,54.0,Age : 41 - 60
+738,Micheil,Fleote,Male,1975-09-20,Manufacturing,High Net Worth,No,NSW,44.0,Age : 41 - 60
+739,Cecily,Faircley,Female,1947-06-12,IT,Affluent Customer,Yes,QLD,73.0,Age : 61 - 80
+740,Glory,Chilcott,Female,1939-09-09,Telecommunications,High Net Worth,No,QLD,81.0,Age : 81 - 100
+741,Sinclair,Wark,Male,1974-02-21,Financial Services,Mass Customer,Yes,NSW,46.0,Age : 41 - 60
+742,Tomaso,Horsley,Male,2001-04-16,Financial Services,Mass Customer,Yes,VIC,19.0,Age : 0 - 20
+743,Gilli,Christophers,Female,1948-03-02,Property,Affluent Customer,Yes,QLD,72.0,Age : 61 - 80
+744,Errick,Burgin,Male,1998-08-19,Entertainment,Mass Customer,No,NSW,22.0,Age : 21 - 40
+745,Damian,Renard,Male,1976-07-19,Retail,Affluent Customer,No,NSW,44.0,Age : 41 - 60
+746,Agnola,Batterson,Female,1980-01-03,Financial Services,Mass Customer,No,QLD,40.0,Age : 21 - 40
+747,Riki,Wandtke,Female,1962-05-12,Entertainment,Mass Customer,Yes,QLD,58.0,Age : 41 - 60
+748,Mikol,Eck,Male,1975-07-25,Financial Services,Mass Customer,Yes,QLD,45.0,Age : 41 - 60
+749,Phyllis,Wibberley,Female,1971-01-10,Retail,Affluent Customer,No,NSW,49.0,Age : 41 - 60
+750,Burt,Vasechkin,Male,1950-04-15,Retail,Mass Customer,Yes,VIC,70.0,Age : 61 - 80
+752,Trudie,Phinnessy,Female,1960-07-04,Financial Services,Mass Customer,Yes,VIC,60.0,Age : 41 - 60
+753,Frederigo,Cribbott,Male,1965-03-15,Health,Mass Customer,No,NSW,55.0,Age : 41 - 60
+755,Darb,,Male,1969-06-04,Health,Affluent Customer,No,QLD,51.0,Age : 41 - 60
+756,Cal,Van den Velde,Male,1996-03-18,Financial Services,Affluent Customer,Yes,VIC,24.0,Age : 21 - 40
+757,Stephani,Sidsaff,Female,1973-09-29,Financial Services,Mass Customer,Yes,NSW,46.0,Age : 41 - 60
+758,Meade,Bampton,Male,1982-04-25,Health,High Net Worth,No,NSW,38.0,Age : 21 - 40
+759,Flore,Cashen,Female,1978-06-21,Health,High Net Worth,No,NSW,42.0,Age : 41 - 60
+760,Leighton,Firbanks,Male,1973-12-22,Retail,Affluent Customer,No,QLD,46.0,Age : 41 - 60
+761,Petr,Westman,Male,1987-11-02,Property,Mass Customer,No,QLD,32.0,Age : 21 - 40
+762,Yorgos,Dewhurst,Male,1950-09-09,Argiculture,Affluent Customer,No,QLD,70.0,Age : 61 - 80
+763,Simmonds,Bapty,Male,2002-01-04,Financial Services,Affluent Customer,No,NSW,18.0,Age : 0 - 20
+764,Hagen,MacCarter,Male,1983-02-08,Entertainment,Affluent Customer,Yes,VIC,37.0,Age : 21 - 40
+765,Cazzie,Stanwix,Male,1960-10-01,Manufacturing,High Net Worth,Yes,QLD,59.0,Age : 41 - 60
+766,Geoff,Gwillym,Male,1999-02-22,Health,Affluent Customer,No,NSW,21.0,Age : 21 - 40
+767,Simonette,,Female,1990-04-06,Manufacturing,Affluent Customer,Yes,NSW,30.0,Age : 21 - 40
+768,Deirdre,Sturgeon,Female,1965-12-22,Retail,Mass Customer,Yes,NSW,54.0,Age : 41 - 60
+770,Juliann,Siemantel,Female,1947-12-15,Entertainment,Mass Customer,No,VIC,72.0,Age : 61 - 80
+771,Janaye,Eade,Female,1984-12-13,Health,Affluent Customer,No,NSW,35.0,Age : 21 - 40
+772,Dylan,Stranio,Male,1953-04-02,Manufacturing,High Net Worth,Yes,NSW,67.0,Age : 61 - 80
+773,Mel,Rochford,Female,1989-07-23,Retail,Mass Customer,Yes,VIC,31.0,Age : 21 - 40
+774,Elvin,Trayhorn,Male,1993-06-02,Financial Services,High Net Worth,No,NSW,27.0,Age : 21 - 40
+776,Sonni,Milligan,Female,1988-03-05,Retail,Mass Customer,Yes,VIC,32.0,Age : 21 - 40
+777,Kellina,Haygreen,Female,1966-01-19,Entertainment,Affluent Customer,No,NSW,54.0,Age : 41 - 60
+778,Yuma,Dennick,Male,1972-11-10,Manufacturing,Mass Customer,Yes,NSW,47.0,Age : 41 - 60
+780,Therese,Brotherhood,Female,1981-07-28,Health,Mass Customer,No,NSW,39.0,Age : 21 - 40
+781,Pansie,Beccero,Female,1964-07-07,Financial Services,Affluent Customer,Yes,QLD,56.0,Age : 41 - 60
+782,Reinaldos,Simmig,Male,1955-01-15,Manufacturing,High Net Worth,No,VIC,65.0,Age : 61 - 80
+783,Calhoun,Mussington,Male,1992-10-13,Health,Mass Customer,No,NSW,27.0,Age : 21 - 40
+784,Winn,Wells,Male,1994-04-12,Manufacturing,Affluent Customer,No,NSW,26.0,Age : 21 - 40
+785,Rafi,Brettelle,Male,1956-08-12,Health,High Net Worth,No,NSW,64.0,Age : 61 - 80
+786,Fey,,Female,1957-09-04,Health,High Net Worth,Yes,VIC,63.0,Age : 61 - 80
+787,Verne,Loalday,Male,1982-03-20,IT,High Net Worth,No,NSW,38.0,Age : 21 - 40
+788,Eleonora,Wiszniewski,Female,1980-04-23,Financial Services,Affluent Customer,No,QLD,40.0,Age : 21 - 40
+789,Fayre,Brannigan,Female,1992-10-13,Manufacturing,Mass Customer,Yes,NSW,27.0,Age : 21 - 40
+790,Eachelle,Noirel,Female,1974-01-26,Health,Affluent Customer,Yes,NSW,46.0,Age : 41 - 60
+791,Carl,Troyes,Male,1973-03-12,Property,Mass Customer,No,VIC,47.0,Age : 41 - 60
+792,Cordie,Brankley,Female,1954-09-21,Entertainment,High Net Worth,No,NSW,66.0,Age : 61 - 80
+793,Jackie,Pays,Male,1955-11-09,Health,Mass Customer,No,NSW,64.0,Age : 61 - 80
+794,Carroll,Schlagman,Female,1951-08-25,Health,Affluent Customer,No,NSW,69.0,Age : 61 - 80
+795,Frans,Idale,Male,1969-10-03,Manufacturing,Mass Customer,No,QLD,50.0,Age : 41 - 60
+796,Amara,Clow,Female,1966-11-17,Financial Services,Mass Customer,Yes,VIC,53.0,Age : 41 - 60
+797,Anthony,Morison,Male,1938-06-08,Health,Mass Customer,No,NSW,82.0,Age : 81 - 100
+798,Cherye,Stanfield,Female,1981-07-05,Manufacturing,Affluent Customer,No,NSW,39.0,Age : 21 - 40
+799,Ansell,Tolhurst,Male,1949-08-11,Manufacturing,Affluent Customer,No,NSW,71.0,Age : 61 - 80
+800,Erminie,Rabidge,Female,1982-03-09,Manufacturing,High Net Worth,No,NSW,38.0,Age : 21 - 40
+801,Rosene,Beckey,Female,1974-05-21,Health,Mass Customer,Yes,NSW,46.0,Age : 41 - 60
+802,Darlleen,Shalcras,Female,1980-09-14,Health,Mass Customer,No,NSW,40.0,Age : 21 - 40
+803,Bryon,Goundry,Male,1951-02-05,Manufacturing,Mass Customer,No,QLD,69.0,Age : 61 - 80
+805,Luci,Dyter,Female,1952-05-30,Manufacturing,High Net Worth,No,VIC,68.0,Age : 61 - 80
+806,Sloan,Pudney,Male,1964-11-10,Financial Services,Affluent Customer,No,QLD,55.0,Age : 41 - 60
+807,Otes,Elegood,Male,1940-11-25,Financial Services,High Net Worth,No,NSW,79.0,Age : 61 - 80
+808,Davie,Blay,Male,1985-12-19,Financial Services,Mass Customer,No,NSW,34.0,Age : 21 - 40
+809,Dorolice,Osmon,Female,1961-01-15,Financial Services,Affluent Customer,No,VIC,59.0,Age : 41 - 60
+810,Meade,McReedy,Female,1968-11-23,Financial Services,Affluent Customer,Yes,NSW,51.0,Age : 41 - 60
+811,Rikki,Chaffey,Male,1945-06-11,Manufacturing,Mass Customer,No,QLD,75.0,Age : 61 - 80
+812,Adria,Van den Velde,Female,1978-07-10,Manufacturing,Affluent Customer,Yes,NSW,42.0,Age : 41 - 60
+813,Dmitri,,Male,1991-02-06,Financial Services,High Net Worth,Yes,VIC,29.0,Age : 21 - 40
+816,Rowen,Sollas,Male,1960-04-23,Health,Mass Customer,No,QLD,60.0,Age : 41 - 60
+817,Boothe,Hayselden,Male,1940-05-18,Health,Mass Customer,Yes,NSW,80.0,Age : 61 - 80
+818,Noak,Sleany,Male,1965-05-04,Financial Services,Affluent Customer,No,VIC,55.0,Age : 41 - 60
+819,Callean,Wass,Male,1988-12-15,Financial Services,Affluent Customer,No,VIC,31.0,Age : 21 - 40
+820,Keelby,Sudlow,Male,1988-09-01,Manufacturing,High Net Worth,No,VIC,32.0,Age : 21 - 40
+821,Rodrique,Vernon,Male,1978-08-06,Manufacturing,Affluent Customer,No,VIC,42.0,Age : 41 - 60
+823,Manny,Mandy,Male,1977-01-28,Argiculture,Mass Customer,No,QLD,43.0,Age : 41 - 60
+824,Becky,Lassen,Female,1973-05-11,Financial Services,Mass Customer,Yes,NSW,47.0,Age : 41 - 60
+825,Tessa,Heakey,Female,1971-05-31,Financial Services,Mass Customer,No,VIC,49.0,Age : 41 - 60
+828,Renate,Whyte,Female,1963-12-08,Health,High Net Worth,Yes,NSW,56.0,Age : 41 - 60
+829,Toma,Woolforde,Female,1992-03-09,Financial Services,Mass Customer,Yes,NSW,28.0,Age : 21 - 40
+830,Dorie,Dunleavy,Female,1962-05-05,Health,Affluent Customer,No,VIC,58.0,Age : 41 - 60
+831,Ellie,Toope,Female,1973-08-11,Property,High Net Worth,Yes,NSW,47.0,Age : 41 - 60
+832,Leonora,Swetenham,Female,1967-10-05,IT,Mass Customer,Yes,NSW,52.0,Age : 41 - 60
+833,Teodor,Mullinder,Male,1962-08-26,Manufacturing,High Net Worth,No,VIC,58.0,Age : 41 - 60
+834,Jared,Fendlow,Male,1963-08-25,Financial Services,Mass Customer,No,QLD,57.0,Age : 41 - 60
+836,Andy,Deeming,Male,1979-01-09,Manufacturing,Affluent Customer,Yes,QLD,41.0,Age : 41 - 60
+842,Catha,Davitt,Female,1958-04-16,Property,High Net Worth,Yes,NSW,62.0,Age : 61 - 80
+843,Melosa,McOwan,Female,2001-04-17,Financial Services,Mass Customer,No,NSW,19.0,Age : 0 - 20
+844,Maris,Leete,Female,1973-04-14,Retail,Mass Customer,No,QLD,47.0,Age : 41 - 60
+845,Wilburt,Padden,Male,1994-09-30,Manufacturing,Mass Customer,No,NSW,25.0,Age : 21 - 40
+847,Guilbert,Bearns,Male,1982-10-29,Financial Services,Mass Customer,Yes,VIC,37.0,Age : 21 - 40
+848,Meridith,Urwin,Female,1997-03-07,Health,High Net Worth,Yes,NSW,23.0,Age : 21 - 40
+849,Leeland,,Male,1957-01-24,Telecommunications,High Net Worth,No,QLD,63.0,Age : 61 - 80
+850,Gerta,Porrett,Female,1959-11-13,Health,High Net Worth,No,VIC,60.0,Age : 41 - 60
+851,Karrah,Howell,Female,1956-11-07,Manufacturing,Mass Customer,No,NSW,63.0,Age : 61 - 80
+852,Alick,Baise,Male,1998-08-16,Health,Mass Customer,Yes,NSW,22.0,Age : 21 - 40
+853,Casandra,Betteridge,Female,1942-09-10,Financial Services,Affluent Customer,Yes,VIC,78.0,Age : 61 - 80
+854,Maurine,Clee,Female,1980-09-13,Property,High Net Worth,Yes,NSW,40.0,Age : 21 - 40
+855,Darwin,Bumpas,Male,1978-12-27,Health,Affluent Customer,Yes,VIC,41.0,Age : 41 - 60
+856,Hayes,Daveren,Male,1953-03-27,Manufacturing,Affluent Customer,Yes,QLD,67.0,Age : 61 - 80
+857,Piper,Issacov,Female,1939-11-08,Health,Affluent Customer,Yes,NSW,80.0,Age : 61 - 80
+858,Markus,Pendrey,Male,1959-08-01,Health,Affluent Customer,Yes,NSW,61.0,Age : 61 - 80
+859,Sile,Zappel,Female,1958-03-29,IT,High Net Worth,No,QLD,62.0,Age : 61 - 80
+860,Craggy,Happel,Male,1979-02-10,Manufacturing,High Net Worth,Yes,VIC,41.0,Age : 41 - 60
+861,Egor,Mariette,Male,1980-11-26,Financial Services,Affluent Customer,No,VIC,39.0,Age : 21 - 40
+862,Reinald,Bembrigg,Male,1953-08-21,Financial Services,Affluent Customer,No,NSW,67.0,Age : 61 - 80
+863,Kissie,Line,Female,2000-05-20,Manufacturing,Affluent Customer,Yes,NSW,20.0,Age : 0 - 20
+864,Quentin,Gerleit,Female,1990-09-15,Manufacturing,Mass Customer,No,VIC,29.0,Age : 21 - 40
+865,Karoly,Burgoine,Male,1947-04-06,Health,High Net Worth,Yes,VIC,73.0,Age : 61 - 80
+866,Clarine,Piecha,Female,1964-12-07,Health,High Net Worth,No,QLD,55.0,Age : 41 - 60
+868,Clemmie,Bartoszewicz,Female,1958-07-28,Financial Services,Mass Customer,No,VIC,62.0,Age : 61 - 80
+869,Randall,Mason,Male,1974-07-28,Health,Mass Customer,Yes,NSW,46.0,Age : 41 - 60
+870,Donica,Humby,Female,1967-06-01,Financial Services,Mass Customer,No,NSW,53.0,Age : 41 - 60
+871,Lotty,Loach,Female,1961-08-23,Health,High Net Worth,Yes,NSW,59.0,Age : 41 - 60
+872,Marie-jeanne,Breawood,Female,1953-10-12,Health,High Net Worth,No,NSW,66.0,Age : 61 - 80
+873,Babara,Sissel,Female,1974-06-08,IT,Mass Customer,Yes,VIC,46.0,Age : 41 - 60
+874,Rodolphe,Glenton,Male,1974-09-28,Financial Services,Affluent Customer,No,VIC,45.0,Age : 41 - 60
+875,Thorvald,Duckerin,Male,1995-10-20,Manufacturing,Affluent Customer,Yes,VIC,24.0,Age : 21 - 40
+876,Paulina,Iannuzzelli,Female,1956-03-08,Manufacturing,Mass Customer,No,NSW,64.0,Age : 61 - 80
+877,Ricki,Padefield,Male,1948-08-03,Manufacturing,Affluent Customer,Yes,QLD,72.0,Age : 61 - 80
+878,Lizette,McKeaveney,Female,1994-04-11,Health,High Net Worth,Yes,NSW,26.0,Age : 21 - 40
+880,Jeno,Strafford,Male,1941-07-21,Financial Services,High Net Worth,No,QLD,79.0,Age : 61 - 80
+881,Brigg,Himsworth,Male,1973-10-10,Telecommunications,Mass Customer,Yes,QLD,46.0,Age : 41 - 60
+884,Raleigh,Pont,Male,1964-11-02,Entertainment,Mass Customer,No,VIC,55.0,Age : 41 - 60
+885,Zachariah,Meininking,Male,1938-06-09,Financial Services,Affluent Customer,Yes,NSW,82.0,Age : 81 - 100
+886,Lesley,Garey,Male,1994-03-29,Telecommunications,Mass Customer,No,NSW,26.0,Age : 21 - 40
+887,Adriena,Giffin,Female,1957-03-17,Argiculture,Affluent Customer,Yes,NSW,63.0,Age : 61 - 80
+888,Antoinette,,Female,1980-07-28,Financial Services,Affluent Customer,No,VIC,40.0,Age : 21 - 40
+889,Carr,Hopkynson,Male,1971-10-18,Manufacturing,Affluent Customer,No,NSW,48.0,Age : 41 - 60
+890,Shay,Briand,Male,1956-10-05,IT,Mass Customer,Yes,VIC,63.0,Age : 61 - 80
+891,Karney,Burstow,Male,1972-07-02,Property,Mass Customer,Yes,NSW,48.0,Age : 41 - 60
+892,Latrena,Yetts,Female,1999-06-18,Manufacturing,High Net Worth,Yes,NSW,21.0,Age : 21 - 40
+894,Kelcie,Kingaby,Female,2000-03-24,IT,Mass Customer,Yes,QLD,20.0,Age : 0 - 20
+895,Fabio,Commuzzo,Male,1961-10-02,Manufacturing,Mass Customer,No,VIC,58.0,Age : 41 - 60
+896,Heall,Andrioli,Male,1941-06-17,IT,Affluent Customer,Yes,QLD,79.0,Age : 61 - 80
+897,Rickert,Brasted,Male,1959-09-18,Health,Mass Customer,No,NSW,61.0,Age : 61 - 80
+898,Hedwig,Jayme,Female,1952-08-21,Property,Affluent Customer,No,NSW,68.0,Age : 61 - 80
+899,Penrod,Tomasicchio,Male,1968-05-28,Health,High Net Worth,No,NSW,52.0,Age : 41 - 60
+901,Andriana,Gosnoll,Female,1964-05-19,Manufacturing,Mass Customer,No,NSW,56.0,Age : 41 - 60
+902,Nilson,Wiggam,Male,1996-02-15,Financial Services,Mass Customer,No,VIC,24.0,Age : 21 - 40
+903,Denny,Spleving,Female,1973-05-13,Manufacturing,Affluent Customer,Yes,NSW,47.0,Age : 41 - 60
+905,Olia,O' Mullan,Female,1973-03-24,Health,Mass Customer,No,NSW,47.0,Age : 41 - 60
+908,Shaw,MacEvilly,Male,2000-05-06,Health,Affluent Customer,No,NSW,20.0,Age : 0 - 20
+909,Brook,Eade,Female,1957-11-17,Retail,Mass Customer,Yes,NSW,62.0,Age : 61 - 80
+910,Aleece,Feige,Female,1975-09-16,Manufacturing,Mass Customer,No,NSW,45.0,Age : 41 - 60
+911,Dolorita,Strutton,Female,1991-05-21,Manufacturing,Affluent Customer,No,VIC,29.0,Age : 21 - 40
+912,Harman,A'field,Male,1960-12-27,Manufacturing,Affluent Customer,Yes,QLD,59.0,Age : 41 - 60
+915,Ilise,Clissold,Female,1987-11-16,Entertainment,High Net Worth,No,NSW,32.0,Age : 21 - 40
+916,Julita,Prene,Female,1979-05-16,Manufacturing,High Net Worth,Yes,QLD,41.0,Age : 41 - 60
+917,Ashlen,Willbond,Female,1984-05-15,Health,High Net Worth,No,VIC,36.0,Age : 21 - 40
+918,Keely,Bointon,Female,1988-10-16,Telecommunications,High Net Worth,No,QLD,31.0,Age : 21 - 40
+919,Poul,Gaskin,Male,1950-06-15,Telecommunications,High Net Worth,No,NSW,70.0,Age : 61 - 80
+921,Rubia,Evetts,Female,1990-12-21,Health,Mass Customer,No,NSW,29.0,Age : 21 - 40
+922,Francklin,Cross,Male,1981-04-06,Property,Mass Customer,Yes,NSW,39.0,Age : 21 - 40
+923,Wilone,Champley,Female,1983-11-06,Manufacturing,High Net Worth,No,NSW,36.0,Age : 21 - 40
+924,Lezlie,Clemits,Female,1973-05-30,Financial Services,Mass Customer,Yes,NSW,47.0,Age : 41 - 60
+925,Kathe,Oller,Female,1959-08-20,Manufacturing,Mass Customer,Yes,VIC,61.0,Age : 61 - 80
+926,Dulce,Bradwell,Female,1957-07-03,Manufacturing,Mass Customer,No,QLD,63.0,Age : 61 - 80
+927,Felice,Dechelette,Male,1998-02-05,Entertainment,High Net Worth,No,QLD,22.0,Age : 21 - 40
+928,Joane,Caldes,Female,1978-03-17,Financial Services,High Net Worth,Yes,NSW,42.0,Age : 41 - 60
+929,Diane,Furman,Female,1993-08-11,Manufacturing,Affluent Customer,Yes,VIC,27.0,Age : 21 - 40
+930,Ogdan,Blenkinship,Male,1951-01-18,Health,Mass Customer,Yes,VIC,69.0,Age : 61 - 80
+931,Kizzee,Agget,Female,1976-07-25,Manufacturing,Affluent Customer,No,NSW,44.0,Age : 41 - 60
+932,Stephi,Highton,Female,1987-09-09,Telecommunications,Mass Customer,Yes,NSW,33.0,Age : 21 - 40
+933,Martino,Scoles,Male,1975-01-19,Financial Services,Mass Customer,No,VIC,45.0,Age : 41 - 60
+934,Morgen,Newport,Female,1960-08-31,Manufacturing,Mass Customer,No,VIC,60.0,Age : 41 - 60
+935,Eugenie,Brinson,Female,1963-08-10,Entertainment,Mass Customer,Yes,VIC,57.0,Age : 41 - 60
+936,Reinold,Natt,Male,1964-08-23,Financial Services,High Net Worth,Yes,VIC,56.0,Age : 41 - 60
+937,Jo,Roberts,Female,1945-10-31,Financial Services,High Net Worth,Yes,NSW,74.0,Age : 61 - 80
+938,Jacklin,Duchant,Female,1940-03-18,Argiculture,Mass Customer,No,QLD,80.0,Age : 61 - 80
+939,Colas,Gabbitas,Male,1946-09-09,Retail,High Net Worth,No,NSW,74.0,Age : 61 - 80
+940,Claudetta,Ricciardiello,Female,1974-04-30,Financial Services,Mass Customer,Yes,VIC,46.0,Age : 41 - 60
+942,Cicily,Hast,Female,1971-04-26,Health,Affluent Customer,Yes,NSW,49.0,Age : 41 - 60
+943,Harland,Messenger,Male,1974-05-28,Retail,Mass Customer,No,VIC,46.0,Age : 41 - 60
+944,Sim,Constantinou,Male,1992-08-09,Property,Mass Customer,No,NSW,28.0,Age : 21 - 40
+945,Shanon,Rolfe,Female,1941-08-19,Retail,High Net Worth,No,NSW,79.0,Age : 61 - 80
+946,Chryste,Oddboy,Female,1988-08-22,Manufacturing,High Net Worth,Yes,NSW,32.0,Age : 21 - 40
+947,Edin,Patinkin,Female,1992-03-26,Health,Mass Customer,No,VIC,28.0,Age : 21 - 40
+948,Nolly,Ivanchikov,Male,1994-02-10,Manufacturing,High Net Worth,Yes,NSW,26.0,Age : 21 - 40
+949,Michele,Pammenter,Male,1983-06-26,Health,High Net Worth,No,VIC,37.0,Age : 21 - 40
+951,Philbert,Bangs,Male,1966-03-03,IT,Mass Customer,Yes,QLD,54.0,Age : 41 - 60
+952,Candy,,Female,1977-12-08,Financial Services,Mass Customer,No,VIC,42.0,Age : 41 - 60
+953,Noami,Cokly,Female,1962-09-17,Manufacturing,Mass Customer,Yes,NSW,58.0,Age : 41 - 60
+955,Maximilien,Bourget,Male,1969-04-29,Financial Services,Mass Customer,Yes,VIC,51.0,Age : 41 - 60
+956,Benedikta,Naptin,Female,1995-08-13,Retail,Mass Customer,Yes,NSW,25.0,Age : 21 - 40
+958,Afton,Andrassy,Female,1998-10-14,Retail,Mass Customer,No,VIC,21.0,Age : 21 - 40
+960,Sonia,Dunstall,Female,1975-07-30,Financial Services,Mass Customer,No,NSW,45.0,Age : 41 - 60
+961,Benedikt,Adamou,Male,1987-01-15,Health,Mass Customer,No,VIC,33.0,Age : 21 - 40
+962,Don,Spratling,Male,1969-01-05,Property,Affluent Customer,Yes,NSW,51.0,Age : 41 - 60
+963,Moll,Ogilby,Female,1980-12-19,Manufacturing,Mass Customer,Yes,QLD,39.0,Age : 21 - 40
+964,Jammie,Seldner,Female,1975-02-25,Health,Mass Customer,Yes,NSW,45.0,Age : 41 - 60
+965,Inglis,Pickaver,Male,1994-06-25,Telecommunications,Affluent Customer,No,NSW,26.0,Age : 21 - 40
+966,Clarabelle,Broschek,Female,1963-08-25,Manufacturing,Mass Customer,No,QLD,57.0,Age : 41 - 60
+967,Tillie,Bisseker,Female,1960-08-10,Manufacturing,High Net Worth,No,NSW,60.0,Age : 41 - 60
+968,Irving,Babcock,Male,1986-01-17,Health,High Net Worth,Yes,NSW,34.0,Age : 21 - 40
+969,Evered,Gludor,Male,1951-04-30,Manufacturing,High Net Worth,Yes,NSW,69.0,Age : 61 - 80
+970,Mavra,Finan,Female,1967-08-23,Property,Affluent Customer,Yes,NSW,53.0,Age : 41 - 60
+972,Ellwood,Budden,Male,1998-06-03,Health,Mass Customer,Yes,NSW,22.0,Age : 21 - 40
+973,Alex,Patshull,Female,1966-01-02,Retail,Mass Customer,Yes,QLD,54.0,Age : 41 - 60
+974,Aundrea,Outridge,Female,2001-01-24,Financial Services,Affluent Customer,Yes,VIC,19.0,Age : 0 - 20
+976,Esme,Pilipets,Male,1967-05-06,Health,Mass Customer,Yes,VIC,53.0,Age : 41 - 60
+977,Beverly,Domnick,Female,1938-12-10,IT,Mass Customer,No,NSW,81.0,Age : 81 - 100
+978,Artemis,Swanson,Male,1977-02-12,Argiculture,Mass Customer,Yes,VIC,43.0,Age : 41 - 60
+979,Daryle,Marginson,Male,1986-06-27,Argiculture,Mass Customer,Yes,NSW,34.0,Age : 21 - 40
+981,Leona,Shorrock,Female,1951-08-23,Financial Services,Affluent Customer,Yes,QLD,69.0,Age : 61 - 80
+982,Bertrando,Carass,Male,1956-06-25,Property,Mass Customer,No,NSW,64.0,Age : 61 - 80
+985,Lauralee,Fudge,Female,1987-09-21,Health,Mass Customer,No,VIC,32.0,Age : 21 - 40
+986,Consalve,Ballay,Male,1959-09-18,IT,Mass Customer,Yes,NSW,61.0,Age : 61 - 80
+987,Lolly,Prewer,Female,1997-10-23,Health,Mass Customer,No,NSW,22.0,Age : 21 - 40
+988,Vyky,Pegg,Female,1943-03-15,Manufacturing,Mass Customer,Yes,NSW,77.0,Age : 61 - 80
+989,Kellen,Pawelski,Female,1945-07-26,Manufacturing,High Net Worth,Yes,NSW,75.0,Age : 61 - 80
+990,Jermaine,Bagshawe,Female,1954-05-14,Property,Mass Customer,Yes,QLD,66.0,Age : 61 - 80
+991,Bryan,Jachtym,Male,1974-05-15,Manufacturing,Mass Customer,Yes,VIC,46.0,Age : 41 - 60
+992,Renie,Laundon,Female,1973-12-18,Entertainment,Mass Customer,Yes,QLD,46.0,Age : 41 - 60
+993,Weidar,Etheridge,Male,1959-07-13,Financial Services,Mass Customer,Yes,NSW,61.0,Age : 61 - 80
+994,Datha,Fishburn,Female,1990-07-02,Retail,Mass Customer,No,VIC,30.0,Age : 21 - 40
+995,Ferdinand,Romanetti,Male,1959-10-07,Financial Services,Affluent Customer,No,NSW,60.0,Age : 41 - 60
+996,Burk,Wortley,Male,2001-10-17,Health,Mass Customer,No,NSW,18.0,Age : 0 - 20
+997,Melloney,Temby,Female,1954-10-05,Financial Services,Affluent Customer,Yes,QLD,65.0,Age : 61 - 80
+998,Dickie,Cubbini,Male,1952-12-17,Financial Services,Mass Customer,Yes,QLD,67.0,Age : 61 - 80
+999,Sylas,Duffill,Male,1955-10-02,Property,Mass Customer,Yes,NSW,64.0,Age : 61 - 80
